@@ -2,7 +2,6 @@
 
 Projeto completo para começar do zero. São **1.080 questões, distribuídas em 108 tópicos com 10 questões cada**. Nenhuma resposta, redação ou conta do site anterior está neste pacote.
 
-**Comece pelo arquivo [COMECE-AQUI.md](COMECE-AQUI.md).** Ele explica a publicação, sem precisar conectar suas contas ao ChatGPT.
 
 ## Funcionalidades
 
