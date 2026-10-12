@@ -1,0 +1,198 @@
+@s-cf196
+Titularidade|O direito à saúde alcança todos, sem depender de contribuição previdenciária.|O art. 196 restringe o direito à saúde aos contribuintes previdenciários.|A titularidade constitucional é universal.
+Dever estatal|Garantir a saúde é dever do Estado e exige atuação por políticas públicas.|O art. 196 deixa a garantia da saúde exclusivamente às famílias.|O dever estatal está expresso na Constituição.
+Políticas|Políticas sociais e econômicas integram a garantia do direito à saúde.|O art. 196 admite apenas intervenções médicas individuais.|O direito envolve condições sociais e econômicas.
+Riscos|A redução do risco de doença é finalidade constitucional das políticas de saúde.|A Constituição só exige intervenção depois de instalada a doença.|A garantia também envolve redução de riscos.
+Outros agravos|O art. 196 abrange doenças e outros agravos à saúde.|O art. 196 exclui agravos não classificados como doenças.|A redação inclui outras formas de dano à saúde.
+Universalidade|Uma pessoa desempregada conserva o direito de acesso às ações de saúde.|O desemprego retira o direito constitucional de acesso à saúde.|Vínculo de emprego não é condição do direito.
+Igualdade|Privilégio de acesso baseado exclusivamente em influência pessoal contraria o acesso igualitário.|O acesso igualitário autoriza favorecer usuários por influência pessoal.|Igualdade de acesso exclui privilégios arbitrários.
+Promoção|Atividades destinadas a melhorar condições de vida são compatíveis com promoção da saúde.|Promoção da saúde significa exclusivamente tratar enfermidades já instaladas.|Promoção vai além do tratamento.
+Proteção|A prevenção de exposição a fatores de risco pode integrar a proteção da saúde.|Proteção da saúde só pode ocorrer após a internação do usuário.|Proteção inclui medidas anteriores ao agravo.
+Recuperação|A assistência voltada à recuperação integra o direito previsto no art. 196.|A prioridade preventiva elimina o direito à recuperação.|Promoção, proteção e recuperação são dimensões expressas.
+@s-cf197
+Relevância|Ações e serviços de saúde têm relevância pública mesmo quando executados por particulares.|Só serviços estatais podem ter relevância pública.|A relevância decorre da atividade, não só do executor.
+Regulamentação|O poder público dispõe sobre regulamentação de ações de saúde nos termos da lei.|A regulamentação de toda ação de saúde pertence exclusivamente ao prestador privado.|A atribuição pública é constitucional.
+Fiscalização|A execução privada não elimina a fiscalização pública de serviços de saúde.|A fiscalização pública é vedada em serviços privados.|A Constituição admite execução privada com fiscalização pública.
+Controle|O controle das ações e serviços integra as atribuições do poder público.|Controle público só alcança serviços executados por funcionários concursados.|O controle não se limita à forma de contratação da equipe.
+Execução direta|A execução de serviços de saúde pode ser realizada diretamente pelo poder público.|O art. 197 exige terceirização de toda execução.|Execução direta é hipótese expressamente permitida.
+Terceiros|A execução por terceiros é admitida pelo art. 197.|A execução por terceiros é constitucionalmente proibida.|A execução pode ocorrer por diferentes formas.
+Pessoa física|Uma pessoa física de direito privado pode executar ações de saúde nos termos aplicáveis.|Somente pessoas jurídicas podem executar ações de saúde.|O artigo menciona pessoas físicas e jurídicas privadas.
+Pessoa jurídica|A relevância pública não transforma automaticamente todo prestador privado em órgão estatal.|Todo prestador privado de saúde se torna órgão estatal por força do art. 197.|Natureza do serviço e natureza jurídica do prestador são diferentes.
+Competências|Transferir execução não equivale a abandonar a responsabilidade pública de regulamentar e fiscalizar.|Delegar execução transfere automaticamente toda fiscalização ao contratado.|As funções regulatórias permanecem públicas.
+Previsão legal|Regulamentação, fiscalização e controle devem observar os termos da lei.|O art. 197 dispensa fundamento legal para todo controle público.|O próprio dispositivo exige atuação nos termos da lei.
+@s-cf198
+Rede|O SUS organiza ações em rede regionalizada e hierarquizada.|O SUS é uma soma de unidades isoladas sem articulação regional.|A organização em rede é diretriz constitucional.
+Direção única|A descentralização mantém direção única em cada esfera de governo.|Descentralizar exige múltiplas direções concorrentes dentro da mesma esfera.|A direção única acompanha a descentralização.
+Integralidade|Atendimento integral inclui prevenção e assistência.|A integralidade impede ações assistenciais.|A prevenção prioritária não prejudica serviços assistenciais.
+Prevenção|Atividades preventivas têm prioridade sem eliminar a assistência.|A prioridade preventiva autoriza extinguir todo tratamento curativo.|A Constituição preserva os serviços assistenciais.
+Comunidade|A participação da comunidade integra as diretrizes do SUS.|A comunidade está constitucionalmente excluída da organização do SUS.|A participação social está expressa no art. 198.
+Financiamento|União, estados, Distrito Federal e municípios participam do financiamento.|O financiamento do SUS pertence exclusivamente aos municípios.|O financiamento envolve as diferentes esferas.
+Recursos mínimos|Os entes devem aplicar recursos mínimos anualmente em ações e serviços públicos de saúde.|A aplicação mínima é facultativa e pode ser substituída por aplicação apenas a cada dez anos.|A Constituição estabelece aplicação anual mínima.
+União|O art. 198 prevê, para a União, mínimo de 15% da receita corrente líquida do exercício.|O art. 198 prevê para a União mínimo de 5% da receita corrente líquida.|O percentual constitucional federal é de pelo menos 15%.
+Regionalização|Organizar referências entre municípios pode concretizar a regionalização.|Regionalização exige que cada município tenha todos os serviços sem referências externas.|A organização territorial pode compartilhar níveis de assistência.
+Agentes|O art. 198 admite processo seletivo público para agentes comunitários e de combate a endemias, conforme os requisitos legais.|O art. 198 determina escolha desses agentes exclusivamente por indicação pessoal.|O dispositivo prevê processo seletivo público.
+@s-cf199
+Livre iniciativa|A assistência à saúde é livre à iniciativa privada.|A Constituição proíbe toda assistência privada à saúde.|A liberdade da iniciativa privada está expressa no caput.
+Complementaridade|Instituições privadas podem participar complementarmente do SUS.|A participação privada no SUS deve substituir integralmente o sistema público.|A participação se submete ao caráter complementar.
+Diretrizes|A participação complementar observa as diretrizes do SUS.|A instituição privada complementar fica dispensada das diretrizes do SUS.|O vínculo complementar não afasta as diretrizes públicas.
+Instrumento|A participação complementar pode ocorrer mediante contrato de direito público ou convênio.|A participação complementar dispensa qualquer contrato ou convênio.|O §1º prevê instrumento formal de vinculação.
+Preferência|Entidades filantrópicas e sem fins lucrativos têm preferência na participação complementar.|A Constituição dá preferência expressa a empresas lucrativas.|A preferência constitucional beneficia entidades filantrópicas e sem fins lucrativos.
+Subvenção|É vedada destinação de recursos públicos para auxílios ou subvenções a instituições privadas lucrativas.|Instituições lucrativas têm direito constitucional a subvenção pública irrestrita.|A vedação consta do §2º.
+Pagamento contratual|A vedação de subvenção não equivale a proibir pagamento por serviço contratado regularmente pelo SUS.|Qualquer pagamento contratual a prestador privado lucrativo é necessariamente uma subvenção proibida.|Remuneração contratual e auxílio ou subvenção são institutos diferentes.
+Capital estrangeiro|A participação de capital estrangeiro na assistência observa exceções previstas em lei.|O art. 199 proíbe capital estrangeiro sem admitir qualquer exceção legal.|O dispositivo ressalva casos previstos em lei.
+Transplantes|A lei deve disciplinar condições para remoção de órgãos e tecidos para transplante, pesquisa e tratamento.|A remoção de órgãos fica inteiramente fora de disciplina legal.|Há reserva de disciplina legal no §4º.
+Comercialização|É vedada a comercialização de órgãos, tecidos e substâncias humanas mencionados no §4º.|O art. 199 autoriza livre venda de órgãos humanos.|O dispositivo estabelece vedação de comercialização.
+@s-cf200
+Insumos|O SUS controla e fiscaliza procedimentos, produtos e substâncias de interesse para a saúde.|O controle de produtos de interesse da saúde está excluído das atribuições do SUS.|Essa atribuição está no inciso I.
+Produção|O SUS participa da produção de medicamentos, equipamentos e outros insumos.|O art. 200 impede participação do SUS na produção de medicamentos.|A participação produtiva está expressamente prevista.
+Vigilâncias|Vigilância sanitária, epidemiológica e saúde do trabalhador são atribuições do SUS.|Vigilância epidemiológica pertence exclusivamente à iniciativa privada.|O inciso II atribui essas ações ao SUS.
+Formação|Compete ao SUS ordenar a formação de recursos humanos na área da saúde.|O SUS não pode atuar na ordenação da formação de profissionais.|A atribuição está no inciso III.
+Saneamento|O SUS participa da formulação da política e da execução de ações de saneamento básico.|Saneamento é tema sem qualquer participação constitucional do SUS.|O inciso IV prevê essa participação.
+Tecnologia|O SUS incrementa desenvolvimento científico, tecnológico e inovação em sua área de atuação.|A inovação está constitucionalmente excluída da área do SUS.|O inciso V inclui desenvolvimento e inovação.
+Alimentos|O SUS fiscaliza e inspeciona alimentos, água e bebidas para consumo humano.|A qualidade da água de consumo não integra atribuições do SUS.|A atribuição está no inciso VI.
+Nutrição|O controle do teor nutricional de alimentos integra o art. 200.|O art. 200 limita a inspeção de alimentos à aparência externa.|O dispositivo inclui o controle nutricional.
+Substâncias|O SUS participa do controle de substâncias psicoativas, tóxicas e radioativas.|O SUS só pode controlar medicamentos acabados, nunca substâncias radioativas.|O inciso VII abrange diferentes substâncias.
+Ambiente|A colaboração na proteção ambiental inclui o ambiente de trabalho.|O art. 200 exclui o ambiente de trabalho da proteção ambiental.|A inclusão é expressa no inciso VIII.
+@s-8080-principios
+Determinantes|Moradia, renda e atividade física são determinantes e condicionantes da saúde.|A Lei 8.080 exclui renda e atividade física dos determinantes da saúde.|A lei adota conceito ampliado de saúde.
+Responsabilidades|O dever estatal de garantir a saúde não exclui responsabilidades de pessoas, famílias, empresas e sociedade.|A Lei 8.080 dispensa famílias e sociedade de qualquer responsabilidade pela saúde.|O art. 2º mantém responsabilidades compartilhadas.
+Universalidade|O acesso universal alcança os diferentes níveis de assistência.|A universalidade só vale para serviços de atenção básica.|O art. 7º abrange todos os níveis.
+Integralidade|Integralidade articula ações preventivas e curativas, individuais e coletivas.|Integralidade corresponde apenas a internação hospitalar.|A assistência integra diferentes ações e níveis de complexidade.
+Autonomia|A preservação da autonomia na defesa da integridade física e moral é princípio do SUS.|O SUS pode ignorar a autonomia de toda pessoa apenas por ser serviço público.|A autonomia é princípio expresso no art. 7º.
+Igualdade|A assistência deve ocorrer sem preconceitos ou privilégios arbitrários.|A igualdade permite privilégios baseados em amizade com o servidor.|A lei afasta preconceitos e privilégios.
+Informação|A pessoa assistida tem direito a informações sobre sua saúde.|Somente a chefia administrativa tem direito às informações sobre a saúde do usuário.|O direito à informação é princípio do SUS.
+Epidemiologia|Dados epidemiológicos orientam prioridades e alocação de recursos.|Prioridades no SUS devem ignorar necessidades epidemiológicas.|O uso da epidemiologia está no art. 7º.
+Objetivos|Identificar e divulgar fatores determinantes da saúde é objetivo do SUS.|A Lei 8.080 veda divulgação de fatores determinantes da saúde.|O art. 5º inclui essa identificação e divulgação.
+Resolutividade|Os serviços devem buscar capacidade de resolução em todos os níveis de assistência.|Resolutividade só é exigida de hospitais universitários.|O princípio não está limitado a um único tipo de unidade.
+@s-8080-organizacao
+Esferas|A direção do SUS cabe ao Ministério da Saúde na União e às respectivas secretarias nos demais entes.|A direção de todas as esferas cabe exclusivamente ao Ministério da Saúde.|O art. 9º prevê direção em cada esfera.
+Descentralização|A descentralização tem ênfase na transferência de serviços para municípios.|A Lei 8.080 exige concentrar todos os serviços na União.|A diretriz inclui ênfase municipal.
+Regionalização|Ações são organizadas regionalmente e em níveis crescentes de complexidade.|Regionalização exige unidades sem comunicação e sem níveis de referência.|A lei prevê rede regionalizada e hierarquizada.
+Consórcios|Municípios podem constituir consórcios para desenvolver ações e serviços de saúde.|Consórcios municipais são proibidos pela Lei 8.080.|O art. 10 admite consórcios.
+Distrito Federal|Ao Distrito Federal cabem atribuições reservadas a estados e municípios.|O Distrito Federal só exerce competências municipais.|O art. 19 reúne ambas as competências.
+Município|Planejar, organizar, controlar e avaliar serviços é competência da direção municipal em seu âmbito.|A direção municipal está proibida de avaliar os serviços que executa.|A competência consta do art. 18.
+Estado|O estado pode apoiar técnica e financeiramente os municípios e executar ações supletivas.|A direção estadual não pode prestar apoio técnico aos municípios.|O art. 17 prevê apoio e atuação supletiva.
+Comissões|Comissões intergestores pactuam aspectos operacionais, financeiros e administrativos da gestão compartilhada.|Comissões intergestores são tribunais judiciais que julgam servidores.|A pactuação integra a governança do SUS.
+Atribuições comuns|Controle, avaliação e fiscalização de ações e serviços integram atribuições comuns dos entes.|Somente a União pode controlar e avaliar qualquer serviço local.|O art. 15 prevê atribuições comuns.
+Direção única|A participação de prestadores diversos não elimina a direção única em cada esfera.|A existência de contratos privados cria obrigatoriamente duas direções do SUS na mesma esfera.|Diversidade de execução não equivale a duplicidade de direção.
+@s-8080-campos
+Sanitária|Inspecionar condições de armazenamento de produtos de saúde é atividade de vigilância sanitária.|Inspecionar armazenamento de produtos não pode integrar vigilância sanitária.|A vigilância sanitária intervém em riscos de bens e serviços.
+Epidemiológica|Detectar alteração no padrão de doenças e recomendar controle integra vigilância epidemiológica.|Vigilância epidemiológica se restringe à emissão de notas fiscais.|Seu objeto é conhecer, detectar e prevenir mudanças relacionadas a agravos.
+Trabalhador|A saúde do trabalhador inclui proteção, recuperação e reabilitação diante de riscos ocupacionais.|A saúde do trabalhador termina no registro administrativo de acidentes.|A abrangência inclui diferentes etapas de atenção.
+Farmacêutica|Assistência terapêutica integral inclui assistência farmacêutica.|Medicamentos estão excluídos do campo de atuação do SUS.|A assistência farmacêutica está no art. 6º.
+Bucal|A saúde bucal integra expressamente o campo de atuação do SUS.|A Lei 8.080 exclui toda ação de saúde bucal.|A inclusão consta da redação atual da lei.
+Saneamento|O SUS participa da formulação de políticas e execução de ações de saneamento.|Saneamento não possui relação legal com o SUS.|A participação consta do art. 6º.
+Alimentos|Fiscalização e inspeção de alimentos, água e bebidas integram atribuições do SUS.|O SUS só inspeciona produtos apresentados como medicamentos.|A abrangência vai além dos medicamentos.
+Toxicologia|A política de informação e assistência toxicológica integra o campo de atuação legal.|Intoxicações por substâncias e medicamentos são inteiramente excluídas do SUS.|A lei inclui informação, assistência e logística de antídotos.
+Estoques|A lei determina divulgação acessível de estoques de medicamentos das farmácias públicas com atualização quinzenal.|A lei determina divulgação dos estoques de farmácias públicas apenas uma vez a cada ano.|O art. 6º-A prevê atualização quinzenal.
+Ambiente|A colaboração ambiental do SUS inclui o ambiente do trabalho.|A lei exclui o ambiente do trabalho das ações ambientais do SUS.|A proteção ambiental inclui condições ocupacionais.
+@s-8080-gestao
+Insuficiência|O SUS pode recorrer à iniciativa privada quando suas disponibilidades forem insuficientes para garantir cobertura.|O recurso complementar à iniciativa privada depende apenas de preferência pessoal do gestor.|O art. 24 vincula complementaridade à insuficiência de cobertura.
+Formalização|Serviços complementares devem ser formalizados por contrato ou convênio, observadas normas de direito público.|O vínculo complementar dispensa formalização e regras públicas.|A contratação exige instrumento formal.
+Preferência|Entidades filantrópicas e sem fins lucrativos têm preferência na participação complementar.|Empresas lucrativas têm preferência legal automática sobre filantrópicas.|A preferência consta do art. 25.
+Regras técnicas|Serviços contratados se submetem às normas técnicas e administrativas e aos princípios do SUS.|Serviços contratados pelo SUS podem ignorar seus princípios.|A execução privada vinculada não afasta as regras do sistema.
+Recursos|Os recursos do SUS são depositados em conta especial em cada esfera e movimentados sob fiscalização dos respectivos conselhos.|Recursos do SUS devem ser misturados sem identificação em contas pessoais de gestores.|A Lei 8.080 prevê conta especial e fiscalização.
+Planejamento|O planejamento e o orçamento do SUS são ascendentes, do nível local ao federal.|O planejamento do SUS deve desconsiderar necessidades locais.|A lei prevê construção ascendente compatível com necessidades e recursos.
+Planos|Planos de saúde fundamentam atividades e programação de cada direção do SUS.|Planos de saúde são documentos facultativos sem relação com programação.|O art. 36 relaciona plano e programação.
+Recursos humanos|A política de recursos humanos deve considerar formação e aperfeiçoamento permanente.|A gestão do SUS deve impedir aperfeiçoamento profissional após admissão.|A lei contempla desenvolvimento profissional.
+Dedicação|Quem exerce chefia, direção ou assessoramento no SUS deve exercer a função em regime de tempo integral.|Toda função de chefia no SUS deve ser exercida apenas em tempo parcial.|A exigência consta do art. 28.
+Acompanhante|A legislação assegura, nas condições legais, acompanhante maior de idade à mulher em consultas, exames e procedimentos em unidades públicas ou privadas.|A Lei 8.080 restringe todo direito de acompanhante da mulher exclusivamente ao parto.|O art. 19-J ampliou o direito, observadas as condições e exceções legais.
+@s-pnh-principios
+Transversalidade|A PNH busca ampliar comunicação entre grupos e superar isolamento entre áreas.|Transversalidade exige impedir comunicação entre categorias profissionais.|O princípio amplia conexões e comunicação.
+Indissociabilidade|A PNH trata atenção e gestão como dimensões inseparáveis.|Humanização só alcança atendimento, nunca decisões de gestão.|Modos de gerir afetam os modos de cuidar.
+Protagonismo|Usuários, trabalhadores e gestores devem ter participação ativa na produção de saúde.|A PNH reduz usuários a receptores sem voz.|O princípio inclui protagonismo dos sujeitos e coletivos.
+Autonomia|Ampliar capacidade de decisão dos sujeitos é compatível com a PNH.|A humanização exige retirar toda autonomia dos usuários.|Autonomia integra os princípios da política.
+Corresponsabilidade|Construir soluções compartilhadas pode ampliar corresponsabilidade entre participantes.|Corresponsabilidade significa isentar gestores de qualquer obrigação.|Compartilhar responsabilidades não elimina deveres específicos.
+Atenção e trabalho|A humanização também considera condições de trabalho das equipes.|A PNH afirma que condições de trabalho não afetam o cuidado.|Produção de saúde e organização do trabalho estão ligadas.
+Comunicação|Trocas entre usuários, trabalhadores e gestores podem melhorar o cuidado.|Ouvir usuários e trabalhadores contraria a humanização.|A inclusão de diferentes sujeitos fortalece o processo.
+Abrangência|A PNH atravessa práticas e políticas do SUS, sem se limitar a uma unidade.|A PNH se aplica exclusivamente a hospitais de alta complexidade.|Seu caráter é transversal.
+Diferenças|A inclusão de diferenças e necessidades deve orientar práticas humanizadas.|A humanização impõe ignorar qualquer diferença relevante para o cuidado.|A política reconhece singularidades e contextos.
+Método|Rodas de discussão e análise coletiva podem apoiar mudanças no cuidado e na gestão.|A PNH exige decidir sempre sem ouvir participantes afetados.|A inclusão coletiva faz parte do método de intervenção.
+@s-pnh-diretrizes
+Acolhimento|Acolher envolve escuta, responsabilidade e resposta às necessidades, não só recepção física.|Acolhimento equivale exclusivamente a entregar senha na entrada.|Acolhimento é postura e prática em diferentes encontros.
+Risco|Classificar risco pode priorizar gravidade e vulnerabilidade, em vez de apenas ordem de chegada.|Acolhimento com classificação de risco exige atender sempre por ordem de chegada.|A prioridade considera risco e necessidade.
+Cogestão|Cogestão amplia participação na análise e decisão sobre processos.|Cogestão elimina qualquer possibilidade de decisão compartilhada.|A gestão participativa envolve diferentes sujeitos.
+Clínica ampliada|A clínica ampliada considera sujeito, contexto e diferentes saberes além da doença isolada.|A clínica ampliada reduz a pessoa exclusivamente ao diagnóstico.|O cuidado considera dimensões clínicas e sociais.
+Ambiência|Ambiência envolve espaços físicos e relações que favoreçam cuidado e trabalho.|Ambiência consiste apenas em pintar paredes, sem considerar uso ou privacidade.|O conceito ultrapassa decoração.
+Projeto terapêutico|Um projeto terapêutico singular pode ser construído em equipe com participação do usuário.|Projeto terapêutico singular é necessariamente decisão isolada sem diálogo.|O plano considera singularidade e corresponsabilidade.
+Valorização|Valorizar trabalhadores inclui reconhecer saberes e analisar condições de trabalho.|Valorizar trabalhadores consiste em exigir metas sem considerar riscos ou recursos.|A PNH conecta cuidado e trabalho.
+Direitos|Informar e apoiar o exercício dos direitos do usuário integra humanização.|A PNH permite ocultar direitos para acelerar atendimento.|Defesa de direitos é diretriz da política.
+Acompanhamento|Referência profissional e vínculo podem favorecer continuidade do cuidado.|Humanização recomenda impedir todo vínculo entre equipe e usuário.|Continuidade e responsabilização favorecem o cuidado.
+Escuta|Escuta qualificada não equivale a prometer qualquer resultado solicitado.|Acolher exige prometer atendimento imediato e qualquer procedimento a todos.|A resposta deve ser responsável e compatível com necessidade e rede.
+@s-rh
+Incorporação|A Resolução CNS 330/2003 aplica os princípios e diretrizes da NOB/RH-SUS como política de gestão do trabalho e educação em saúde.|A Resolução CNS 330/2003 trata exclusivamente de compra de equipamentos.|Seu objeto é gestão do trabalho e educação em saúde.
+Trabalhador|O trabalho em saúde é elemento estratégico para funcionamento do SUS.|A gestão do trabalho pode ser descartada sem afetar serviços de saúde.|A política reconhece a centralidade dos trabalhadores.
+Qualificação|Formação e qualificação devem considerar necessidades dos serviços e da população.|A qualificação deve ignorar os problemas encontrados nos serviços.|Desenvolvimento profissional precisa dialogar com o trabalho real.
+Educação permanente|Problemas do processo de trabalho podem orientar aprendizagem e transformação das práticas.|Educação permanente significa apenas acumular certificados sem mudança de prática.|A aprendizagem se relaciona à melhoria do trabalho.
+Valorização|Valorização profissional envolve condições de trabalho e desenvolvimento.|Valorização consiste exclusivamente em propaganda institucional.|A gestão considera condições concretas de exercício.
+Participação|A participação dos trabalhadores favorece análise das condições e organização do trabalho.|Trabalhadores devem ser excluídos de qualquer análise sobre seu próprio trabalho.|A participação apoia gestão democrática.
+Carreira|Planejamento de carreiras pode integrar estratégias de gestão do trabalho.|Gestão do trabalho proíbe discutir desenvolvimento de carreiras.|Carreira e desenvolvimento são temas da política de recursos humanos.
+Saúde laboral|Proteger a saúde dos trabalhadores é compatível com gestão do trabalho no SUS.|Riscos ocupacionais são irrelevantes à gestão do trabalho em saúde.|As condições laborais influenciam saúde e qualidade do serviço.
+Integração|Articular ensino e serviços pode aproximar formação das necessidades do SUS.|A formação em saúde deve impedir contato com o funcionamento dos serviços.|Integração ensino-serviço favorece formação pertinente.
+Gestão|Gestão do trabalho é mais ampla que controlar frequência e folha de pagamento.|A NOB/RH-SUS reduz toda gestão do trabalho a registro de ponto.|O tema inclui vínculos, condições, formação, valorização e participação.
+@s-idoso
+Idade|O Estatuto protege pessoas com idade igual ou superior a 60 anos.|O Estatuto só protege quem já completou 65 anos.|O marco geral do art. 1º é 60 anos.
+Prioridade|A proteção prioritária envolve família, comunidade, sociedade e poder público.|A prioridade é dever exclusivamente da família.|O art. 3º distribui responsabilidades.
+Acima de 80|Entre pessoas idosas, as maiores de 80 anos têm prioridade especial, observadas as regras legais.|Não existe prioridade especial para maiores de 80 anos.|A legislação prevê prioridade especial para esse grupo.
+Saúde integral|A atenção integral à saúde da pessoa idosa ocorre por meio do SUS.|O Estatuto limita a saúde da pessoa idosa a serviços privados pagos.|O art. 15 garante atenção integral pelo SUS.
+Medicamentos|O poder público deve fornecer gratuitamente medicamentos especialmente de uso continuado, conforme o Estatuto.|O Estatuto exclui medicamentos de uso continuado do dever público.|O art. 15 inclui medicamentos, próteses e outros recursos previstos.
+Acompanhante|Pessoa idosa internada ou em observação tem direito a acompanhante, segundo critério médico e condições legais.|O Estatuto proíbe acompanhante em qualquer internação da pessoa idosa.|O art. 16 prevê acompanhante e condições de permanência.
+Autonomia|A pessoa idosa no domínio de suas faculdades mentais tem direito de escolher o tratamento que considerar mais favorável.|Toda pessoa idosa perde automaticamente a capacidade de decidir seu tratamento.|O art. 17 preserva a escolha nas condições previstas.
+Violência|Suspeita ou confirmação de violência contra pessoa idosa exige notificação e comunicação nos termos da lei.|O serviço só pode comunicar violência depois de condenação judicial definitiva.|O art. 19 não exige condenação prévia.
+Plano de saúde|É vedada discriminação da pessoa idosa em planos de saúde por cobrança de valores diferenciados em razão da idade, nos termos do Estatuto.|O Estatuto autoriza discriminação da pessoa idosa em qualquer plano por idade.|O art. 15 veda discriminação, observadas as regras aplicáveis.
+Urgência|Na atenção à saúde, a prioridade especial dos maiores de 80 anos ressalva casos de emergência.|A prioridade etária obriga ignorar toda emergência clínica de pessoa mais jovem.|A própria lei ressalva emergências.
+@s-negra
+Instituição|A Portaria 992/2009 institui a Política Nacional de Saúde Integral da População Negra.|A Portaria 992/2009 institui apenas um programa de compras.|O objeto é uma política de saúde integral.
+Objetivo|Promover saúde integral e reduzir desigualdades é objetivo da política.|A política tem objetivo de impedir acesso de pessoas negras ao SUS.|A política combate desigualdades e discriminação.
+Racismo|O racismo e o racismo institucional são reconhecidos como determinantes sociais das condições de saúde.|A política afirma que racismo não tem relação com saúde.|O reconhecimento está na marca da política.
+Universalidade|Ações voltadas a necessidades específicas são compatíveis com o SUS universal.|O reconhecimento de desigualdades exige abandonar a universalidade.|Equidade e universalidade se complementam.
+Quesito|A coleta adequada de raça/cor ajuda a conhecer desigualdades e avaliar ações.|Registrar raça/cor, quando previsto, não pode contribuir para planejamento.|Informação qualificada apoia diagnóstico e monitoramento.
+Formação|A educação dos trabalhadores deve abordar saúde da população negra e enfrentamento ao racismo.|A formação das equipes deve proibir discussão sobre racismo institucional.|Capacitação integra as diretrizes da política.
+Participação|A participação de movimentos e representantes da população negra fortalece controle social.|A política exclui representantes da população negra de participação.|A participação social é diretriz.
+Territórios|Comunidades quilombolas e necessidades territoriais devem ser consideradas no acesso.|A política exige ignorar barreiras de acesso das comunidades quilombolas.|A equidade considera condições e vulnerabilidades específicas.
+Pesquisa|Produção de conhecimento pode orientar enfrentamento das desigualdades raciais em saúde.|A política impede pesquisas sobre desigualdades raciais.|Pesquisa e informação apoiam implementação e avaliação.
+Responsabilidades|A implementação demanda atuação das diferentes esferas de gestão do SUS.|A política só pode ser implementada por uma unidade federal isolada.|Há responsabilidades de gestão em diferentes níveis.
+@s-lgbt
+Instituição|A Portaria 2.836/2011 institui política de saúde integral LGBT no SUS.|A Portaria 2.836/2011 extingue o acesso da população LGBT ao SUS.|O objeto é ampliar saúde integral e equidade.
+Objetivo|Eliminar discriminação e preconceito institucional é objetivo da política.|A política legitima tratamento discriminatório no atendimento.|A política enfrenta discriminação e desigualdades.
+Integralidade|O cuidado LGBT não se limita a infecções sexualmente transmissíveis.|A política limita todo cuidado LGBT a infecções sexualmente transmissíveis.|Integralidade abrange diferentes necessidades de saúde.
+Identidade|Respeitar identidade de gênero e orientação sexual deve orientar atendimento.|O atendimento pode ser negado apenas por identidade de gênero.|A política assegura cuidado sem discriminação.
+Nome social|O respeito ao nome social de travestis e transexuais integra os objetivos da política.|O nome social deve ser recusado em toda unidade do SUS.|O reconhecimento favorece respeito e acesso.
+Educação|Capacitação das equipes para combater preconceitos apoia implementação.|A política dispensa qualquer formação sobre barreiras de acesso.|Formação e educação permanente integram as ações.
+Informação|Melhorar informação sobre necessidades e agravos ajuda a planejar cuidado.|A política determina eliminar dados relevantes sobre a saúde LGBT.|Informação adequada sustenta planejamento e avaliação.
+Saúde mental|A atenção à saúde mental considera impactos de discriminação e violência.|A saúde mental está excluída do cuidado previsto pela política.|A atenção integral inclui saúde mental.
+Controle social|A participação da população LGBT nos espaços de controle social deve ser fortalecida.|A participação LGBT no controle social é proibida pela portaria.|O fortalecimento da representação é objetivo.
+Universalidade|Reconhecer necessidades específicas mantém o direito universal de acesso.|A política específica retira direitos de acesso dos demais usuários.|Equidade não elimina universalidade.
+@s-lbi
+Definição|Deficiência envolve impedimento de longo prazo em interação com barreiras.|A deficiência é definida apenas pela existência de diagnóstico, sem considerar barreiras.|O art. 2º adota perspectiva de interação com barreiras.
+Avaliação|Quando necessária, a avaliação da deficiência é biopsicossocial por equipe multiprofissional e interdisciplinar.|A avaliação legal necessária é exclusivamente uma lista de diagnósticos.|A lei considera impedimentos, fatores, limitações e participação.
+Acessibilidade|Acessibilidade abrange informação, comunicação, transportes e espaços.|Acessibilidade significa apenas instalar rampas.|O conceito legal é amplo.
+Adaptação|Adaptação razoável consiste em ajuste necessário sem ônus desproporcional e indevido.|Adaptação razoável admite apenas mudanças idênticas para toda pessoa.|A definição considera necessidades em cada caso.
+Capacidade|A deficiência não afeta, por si só, a plena capacidade civil.|Toda pessoa com deficiência é automaticamente civilmente incapaz.|O art. 6º preserva capacidade civil.
+Discriminação|Recusar adaptação razoável pode caracterizar discriminação.|Recusa de adaptação razoável nunca integra discriminação.|A definição legal inclui essa recusa.
+Saúde|É assegurada atenção integral à saúde da pessoa com deficiência pelo SUS.|A lei restringe saúde da pessoa com deficiência a instituições privadas.|O art. 18 garante atenção integral.
+Consentimento|Tratamento e procedimento devem observar consentimento e exceções legais aplicáveis.|A deficiência permite dispensar qualquer consentimento em todo procedimento.|A condição não elimina autonomia e garantias.
+Tecnologia assistiva|Tecnologia assistiva visa funcionalidade, autonomia, participação e inclusão.|Tecnologia assistiva se limita a equipamentos de informática vendidos em lojas.|O conceito inclui produtos, recursos, serviços e práticas.
+Desenho universal|Desenho universal busca produtos e ambientes utilizáveis pelo maior número de pessoas sem adaptação específica.|Desenho universal significa projetar somente para uma deficiência isolada.|A abordagem busca uso amplo e inclusivo.
+@s-equidade
+Objeto|O programa promove condições para equidade de gênero e raça no SUS.|O programa elimina o tema racial de sua atuação.|O objeto integra gênero e raça.
+Estruturas|O programa busca modificar estruturas machistas e racistas na divisão do trabalho em saúde.|O programa considera a divisão do trabalho imune a machismo e racismo.|O objetivo enfrenta estruturas discriminatórias.
+Violência|Enfrentar violências relacionadas ao trabalho em saúde é objetivo do programa.|Violência no trabalho fica expressamente fora do programa.|O art. 2º inclui esse enfrentamento.
+Maternagem|O acolhimento das trabalhadoras no processo de maternagem integra os objetivos.|O programa exige desconsiderar necessidades ligadas à maternagem.|O objetivo está no art. 2º.
+Ciclo de vida|O acolhimento das mulheres considera seu ciclo de vida no trabalho em saúde.|O programa determina ignorar o ciclo de vida das trabalhadoras.|O acolhimento contextualizado é objetivo expresso.
+Saúde mental|A promoção e reabilitação da saúde mental consideram gênero e raça.|As ações de saúde mental devem excluir gênero e raça.|O programa reconhece essas especificidades.
+Educação|Formação e educação permanente consideram interseccionalidades no trabalho.|Educação permanente deve proibir análise de interseccionalidades.|A portaria inclui esse enfoque.
+Chamadas públicas|Seleção e execução de projetos por chamadas públicas é uma linha de ação.|Chamadas públicas não integram as linhas do programa.|O art. 4º prevê quatro linhas de ação.
+Processos formativos|O Ministério da Saúde oferece processos formativos em equidade de gênero e raça.|A portaria impede processos formativos sobre equidade.|A formação é uma linha de ação expressa.
+PET-Saúde|A inclusão do tema equidade no PET-Saúde integra as linhas de ação.|O tema equidade deve ser excluído do PET-Saúde.|A inclusão está no art. 4º.
+@s-pnaispd
+Objetivo|A PNAISPD amplia acesso ao cuidado integral e favorece autonomia e inclusão.|A PNAISPD restringe toda atenção a procedimentos isolados de reabilitação.|O objetivo é integral e articulado com outras políticas.
+Ciclos de vida|A política considera diferentes ciclos de vida da pessoa com deficiência.|A política só vale para crianças em idade escolar.|A prevenção de agravos e o cuidado abrangem todos os ciclos.
+Intersetorialidade|A articulação com outros setores contribui para inclusão e exercício de direitos.|A PNAISPD proíbe articulação com educação ou assistência social.|Intersetorialidade é diretriz.
+Capacitismo|Enfrentar capacitismo e violências integra as diretrizes da política.|A política admite discriminação por deficiência para acelerar atendimentos.|O enfrentamento é diretriz expressa.
+Território|O cuidado segue redes de atenção e base territorial, considerando funcionalidade.|O cuidado deve ignorar o território e as necessidades funcionais.|A diretriz organiza cuidado integral e territorial.
+Acessibilidade|A PNAISPD promove acessibilidade em diferentes dimensões.|A política reduz acessibilidade exclusivamente à arquitetura.|A definição inclui comunicação, informação e outros meios.
+Gestão|A gestão das ações voltadas à deficiência é interfederativa.|A PNAISPD dispensa articulação entre entes federativos.|A gestão interfederativa é diretriz.
+Rede|A RCPD articula pontos de atenção para cuidado à pessoa com deficiência.|A RCPD exige que cada serviço funcione isoladamente.|A lógica de rede integra e coordena serviços.
+Participação|Gestão participativa e controle social são princípios da PNAISPD.|Usuários com deficiência não podem participar de decisões da política.|Os princípios incluem participação e controle social.
+Formação|Qualificação e educação permanente seguem a perspectiva biopsicossocial.|A educação das equipes deve reduzir deficiência exclusivamente a diagnóstico médico.|A política orienta formação pelo modelo biopsicossocial.

@@ -1,0 +1,2 @@
+import { COOKIE_NAME, sameOrigin } from '../../../../lib/auth';
+export async function POST(req:Request){if(!sameOrigin(req))return new Response('Origem não autorizada.',{status:403});const origin=req.headers.get('origin')!;const response=new Response(null,{status:303,headers:{Location:new URL('/login',origin).href}});response.headers.set('Set-Cookie',`${COOKIE_NAME}=; HttpOnly; SameSite=Strict; Path=/; Max-Age=0${new URL(origin).protocol==='https:'?'; Secure':''}`);response.headers.set('Cache-Control','no-store');return response;}

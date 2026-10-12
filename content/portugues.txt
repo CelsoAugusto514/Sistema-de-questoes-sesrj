@@ -1,0 +1,308 @@
+@p-texto
+Informação explícita|Em “O setor atenderá apenas pela manhã”, o atendimento vespertino está excluído pelo enunciado.|Em “O setor atenderá apenas pela manhã”, o atendimento vespertino permanece autorizado.|“Apenas” restringe o período de atendimento à manhã.
+Inferência|“O novo sistema reduziu, mas não eliminou, os atrasos” permite concluir que ainda existem atrasos.|“O novo sistema reduziu, mas não eliminou, os atrasos” prova que todo atendimento é imediato.|Redução não equivale a eliminação; a ressalva mantém atrasos residuais.
+Tese|Em “É preciso capacitar a equipe, pois a tecnologia não corrige processos sozinha”, a necessidade de capacitação é a tese.|Em “É preciso capacitar a equipe, pois a tecnologia não corrige processos sozinha”, a tese é a inutilidade da tecnologia.|A justificativa limita o alcance da tecnologia, sem negar sua utilidade.
+Quantificador|“Alguns servidores participaram” não permite afirmar que todos participaram.|“Alguns servidores participaram” comprova a participação de todos.|“Alguns” não autoriza generalizar para a totalidade.
+Pressuposto|“A unidade voltou a oferecer consultas” pressupõe oferta anterior e uma interrupção.|“A unidade voltou a oferecer consultas” pressupõe que nunca houve consultas.|“Voltar a” marca retomada de situação anteriormente existente.
+Modalização|“A medida pode reduzir filas” apresenta possibilidade, não resultado garantido.|“A medida pode reduzir filas” assegura que as filas serão eliminadas.|“Pode” expressa possibilidade; “reduzir” não significa eliminar.
+Condição|“Se houver vagas, serão abertas inscrições” não afirma que já existem vagas.|“Se houver vagas, serão abertas inscrições” confirma que as vagas já existem.|A oração condicional não afirma a realização de sua condição.
+Argumento|Em “As falhas se repetem; por isso, convém revisar o processo”, a repetição das falhas fundamenta a proposta.|Em “As falhas se repetem; por isso, convém revisar o processo”, a proposta demonstra que as falhas nunca ocorreram.|O fato apresentado sustenta a recomendação de revisão.
+Causa e correlação|A ocorrência simultânea de digitalização e queda de reclamações, isoladamente, não prova causalidade.|A ocorrência simultânea de digitalização e queda de reclamações prova, sozinha, que a primeira causou a segunda.|A relação causal exige apoio textual ou evidências além da coincidência temporal.
+Restrição|“Apenas os pedidos completos foram analisados” permite excluir os incompletos da análise, sem garantir análise de todo pedido completo.|“Apenas os pedidos completos foram analisados” garante que todos os pedidos completos foram analisados.|“Apenas” restringe o conjunto analisado; não afirma que ele abrange todos os completos.
+@p-modos
+Descrição estática|“A sala era estreita, iluminada e silenciosa” organiza características e tem predominância descritiva.|“A sala era estreita, iluminada e silenciosa” tem predominância narrativa por apresentar adjetivos.|Características espaciais e qualificações indicam descrição, sem sequência de ações.
+Sequência de fatos|“Chegou, entregou o formulário e aguardou a chamada” apresenta encadeamento narrativo.|“Chegou, entregou o formulário e aguardou a chamada” é descrição sem acontecimentos.|Os verbos encadeiam acontecimentos em uma sequência temporal.
+Defesa de tese|“A formação continuada deve ser prioridade, porque evita erros recorrentes” é predominantemente argumentativo.|“A formação continuada deve ser prioridade, porque evita erros recorrentes” é predominantemente narrativo.|Uma posição defendida por justificativa caracteriza argumentação.
+Exposição|Um texto que explica as etapas do protocolo, sem defender posição controversa, pode ser dissertativo expositivo.|Todo texto que explica as etapas do protocolo precisa narrar uma experiência pessoal.|Exposição organiza e explica informações; não exige narrativa pessoal.
+Injunção|“Preencha os campos e assine ao final” apresenta orientação injuntiva.|“Preencha os campos e assine ao final” apresenta somente descrição de ambiente.|Comandos orientam a realização de ações e caracterizam injunção.
+Gênero e tipo|Uma notícia é um gênero textual e pode combinar sequências narrativas e descritivas.|Notícia e narração são necessariamente a mesma categoria de classificação.|Gênero corresponde ao uso social; tipo corresponde à organização linguística.
+Mistura de modos|Uma narrativa pode incluir a descrição do local em que os fatos se passam.|Um texto narrativo deixa de ser narrativo ao conter qualquer adjetivo.|A predominância não impede a combinação de diferentes sequências.
+Tempo descritivo|O emprego de pretérito imperfeito pode contribuir para caracterizar cenário e hábitos.|Todo verbo no pretérito imperfeito estabelece obrigatoriamente uma dissertação.|Tempo verbal contribui para o modo textual, mas não determina sozinho a classificação.
+Argumentação impessoal|Uma dissertação argumentativa pode defender uma tese sem usar “eu”.|A ausência de “eu” impede que um texto defenda uma opinião.|A tese pode ser formulada de modo impessoal.
+Organização narrativa|Conflito, personagens e sucessão temporal são elementos frequentes da narrativa.|A narrativa exige sempre números, tabelas e conclusão técnica.|Narrativas organizam acontecimentos; tabelas e números não são requisitos.
+@p-coesao
+Retomada pronominal|Em “A gerente enviou a planilha e pediu que a revisassem”, “a” retoma “planilha”.|Em “A gerente enviou a planilha e pediu que a revisassem”, “a” retoma obrigatoriamente “gerente”.|A revisão incide sobre a planilha; o contexto resolve a referência do pronome.
+Oposição|Em “O prazo era curto; contudo, a equipe concluiu a tarefa”, “contudo” marca oposição à expectativa de dificuldade.|Em “O prazo era curto; contudo, a equipe concluiu a tarefa”, “contudo” apresenta causa.|Conectivos adversativos contrapõem fatos ou expectativas.
+Conclusão|“Portanto” pode introduzir uma conclusão fundada no segmento anterior.|“Portanto” introduz necessariamente uma concessão.|Conclusão e concessão são relações semânticas diferentes.
+Ambiguidade|“Ana informou a Beatriz que seu pedido foi aceito” pode deixar incerto de quem é o pedido.|“Ana informou a Beatriz que seu pedido foi aceito” identifica sem contexto um único referente para “seu”.|O possessivo pode se relacionar a mais de uma participante.
+Elipse|Em “João revisou o texto; Maria, a planilha”, a omissão de “revisou” no segundo segmento é elipse.|Em “João revisou o texto; Maria, a planilha”, a falta de “revisou” torna obrigatoriamente a frase incoerente.|O verbo omitido é recuperável pelo contexto.
+Referência antecipada|Em “Só peço isto: que o documento seja conferido”, “isto” antecipa uma explicação posterior.|Em “Só peço isto: que o documento seja conferido”, “isto” só pode retomar uma informação anterior.|A catáfora remete a um elemento que aparece depois.
+Referência anterior|Em “Houve falhas no registro. Esse problema será corrigido”, “esse problema” retoma o fato anterior.|Em “Houve falhas no registro. Esse problema será corrigido”, o demonstrativo não se relaciona ao trecho anterior.|A retomada anafórica ajuda a manter a continuidade textual.
+Coerência lógica|“Todos os pedidos foram deferidos, mas um deles foi indeferido”, no mesmo universo e momento, apresenta contradição.|“Todos os pedidos foram deferidos, mas um deles foi indeferido”, no mesmo universo e momento, é logicamente compatível.|A totalidade afirmada é incompatível com uma exceção negadora no mesmo recorte.
+Substituição lexical|“A médica chegou. A profissional iniciou a consulta” usa retomada por expressão mais geral.|“A médica chegou. A profissional iniciou a consulta” não possui ligação coesiva entre as frases.|A expressão “a profissional” retoma a médica sem repetir o mesmo nome.
+Progressão|Um texto coerente pode retomar seu tema e acrescentar informações novas ao longo dos parágrafos.|A coerência exige repetir literalmente a mesma informação em todos os parágrafos.|Continuidade temática precisa coexistir com progressão informativa.
+@p-niveis
+Situação comunicativa|Uma conversa entre amigos pode admitir formas informais inadequadas a um ofício.|Uma forma linguística adequada entre amigos deve ser usada em qualquer ofício.|A adequação depende da situação, do destinatário e da finalidade.
+Variação regional|Diferenças como “mandioca”, “aipim” e “macaxeira” exemplificam variação regional.|Diferenças como “mandioca”, “aipim” e “macaxeira” demonstram incapacidade linguística.|Variação lexical regional não mede inteligência nem competência global.
+Variação social|Vocabulário e construções podem variar entre grupos sociais e profissionais.|Somente a língua escrita pode apresentar variação social.|A variação social também se manifesta na oralidade.
+Registro formal|O registro formal pode ser claro e acessível, sem vocabulário artificialmente rebuscado.|A formalidade exige sempre palavras raras e períodos longos.|Formalidade não se confunde com obscuridade ou excesso de elaboração.
+Preconceito linguístico|Desqualificar uma pessoa exclusivamente por seu sotaque caracteriza preconceito linguístico.|O sotaque permite determinar com segurança a capacidade intelectual de uma pessoa.|Sotaque é traço de variedade, não indicador de inteligência.
+Mudança histórica|Palavras e construções podem mudar de uso ao longo do tempo.|Toda mudança histórica de uso representa corrupção da língua.|Línguas vivas mudam, e a variação histórica é parte de seu funcionamento.
+Oralidade e escrita|Há conversas orais formais e mensagens escritas informais.|Toda comunicação oral é informal e toda escrita é formal.|Modalidade e grau de formalidade são dimensões diferentes.
+Jargão|Jargão técnico pode ser adequado entre especialistas e dificultar a comunicação com o público geral.|Jargão técnico melhora necessariamente a compreensão de qualquer destinatário.|Vocabulário especializado deve considerar o conhecimento do receptor.
+Monitoramento|O falante pode ajustar seu registro conforme a situação e o interlocutor.|Cada pessoa utiliza obrigatoriamente o mesmo registro em todos os contextos.|A variação situacional inclui mudanças de monitoramento e registro.
+Norma e variedade|O ensino da norma padrão pode ampliar possibilidades de uso sem desqualificar outras variedades.|Ensinar norma padrão exige afirmar que as demais variedades não têm regras.|Todas as variedades têm regularidades; a norma padrão atende a usos específicos.
+@p-norma
+Concordância formal|“Os documentos seguem anexos” atende à concordância nominal padrão.|“Os documentos segue anexo” atende à concordância padrão.|O verbo e o adjetivo devem concordar com “documentos”.
+Regência formal|“Prefiro a análise presencial à remota” atende à regência padrão de “preferir”.|“Prefiro mais a análise presencial do que a remota” é a construção padrão recomendada.|“Preferir” liga os termos por “a”, sem “mais” ou “do que” nessa construção.
+Clareza|Explicitar quem deve executar cada etapa favorece a clareza de uma instrução.|Usar sujeitos vagos em todas as etapas garante maior clareza.|A identificação do responsável evita dúvidas sobre a execução.
+Impessoalidade|Em um comunicado institucional, “Informamos o prazo” pode representar a instituição sem opinião pessoal.|A primeira pessoa do plural torna qualquer comunicado necessariamente pessoal e inadequado.|Impessoalidade institucional depende do conteúdo e da finalidade, não só da pessoa verbal.
+Respeito|Uma negativa pode ser formal, fundamentada e respeitosa.|Um texto formal precisa adotar tom hostil ao negar uma solicitação.|Formalidade não autoriza agressividade ou desrespeito.
+Precisão|“Entregue até 18h de 12 de maio” é mais preciso que “entregue logo”.|“Entregue logo” determina prazo tão preciso quanto data e hora expressas.|Expressões vagas deixam margem a interpretações sobre o prazo.
+Concisão|Eliminar repetição inútil preservando informações essenciais melhora a concisão.|Concisão consiste em retirar qualquer explicação, mesmo necessária.|Concisão remove excessos sem comprometer a compreensão.
+Adequação ao público|Um aviso ao usuário deve explicar termos técnicos indispensáveis.|O uso de siglas desconhecidas dispensa explicação em qualquer aviso público.|O texto deve considerar o repertório do destinatário.
+Revisão|A revisão de um texto formal deve verificar sentido, estrutura e correção linguística.|A revisão formal consiste exclusivamente em substituir palavras comuns por raras.|A revisão trata de clareza e correção, não de rebuscamento.
+Padrão e contexto|Uma construção aceitável em diálogo informal pode precisar de ajuste em documento oficial.|O uso frequente de uma construção informal torna obrigatória sua adoção em ofícios.|Frequência de uso e adequação ao registro formal não são equivalentes.
+@p-comunicacao
+Emissor|Em um aviso emitido pela direção aos servidores, a direção exerce o papel de emissor.|Em um aviso emitido pela direção aos servidores, os servidores são o emissor inicial.|O emissor origina a mensagem considerada.
+Receptor|Na ligação de um atendente para um usuário, o usuário é receptor da fala inicial.|Na ligação de um atendente para um usuário, o aparelho telefônico é o receptor humano.|Receptor é quem recebe e interpreta a mensagem, não o equipamento.
+Mensagem|O conteúdo “a consulta foi remarcada” é a mensagem transmitida.|O conteúdo “a consulta foi remarcada” é o canal físico.|Mensagem é o conteúdo comunicado; canal é o meio.
+Código|O português empregado em um comunicado constitui seu código linguístico.|O português empregado em um comunicado constitui seu canal de transmissão.|Código é o sistema de sinais compartilhado pelos participantes.
+Canal|Em um comunicado por e-mail, o meio eletrônico funciona como canal.|Em um comunicado por e-mail, o horário informado é o canal.|O canal permite a transmissão; o horário integra a mensagem.
+Contexto|A situação que motiva um aviso de interdição integra o contexto da comunicação.|A situação que motiva um aviso de interdição é necessariamente o código.|Contexto reúne circunstâncias e referências relevantes ao sentido.
+Ruído|Uma falha de áudio pode dificultar a recepção da mensagem mesmo quando o código é conhecido.|Conhecer o código impede qualquer falha de comunicação por ruído.|Ruídos afetam a transmissão ou interpretação em diferentes etapas.
+Retorno|A confirmação de entendimento enviada pelo usuário funciona como feedback.|A confirmação de entendimento enviada pelo usuário não possui função comunicativa.|O retorno permite ao emissor avaliar a recepção da mensagem.
+Alternância|Em uma conversa, os interlocutores podem alternar os papéis de emissor e receptor.|Na conversa, quem iniciou a fala permanece emissor exclusivo até o fim.|Os papéis se alternam conforme os turnos comunicativos.
+Código não verbal|Uma placa com pictograma pode comunicar por código não verbal.|Uma placa com pictograma não pode transmitir mensagem por não conter palavras.|Sistemas de sinais visuais também podem constituir códigos.
+@p-funcoes
+Referencial|“O atendimento começa às oito horas” tem predominância referencial por transmitir informação.|“O atendimento começa às oito horas” tem predominância emotiva por indicar horário.|A função referencial concentra-se na informação sobre o referente.
+Emotiva|“Estou muito aliviado com a notícia” destaca o estado do emissor.|“Estou muito aliviado com a notícia” destaca principalmente o teste do canal.|Expressão de sentimento do emissor caracteriza função emotiva.
+Conativa|“Compareça à unidade com seu documento” busca orientar o comportamento do receptor.|“Compareça à unidade com seu documento” explica o significado da palavra “unidade”.|A orientação dirigida ao destinatário caracteriza função conativa.
+Fática|“Alô, você está me ouvindo?” verifica a manutenção do contato.|“Alô, você está me ouvindo?” define tecnicamente um conceito.|O foco é o funcionamento do canal de comunicação.
+Metalinguística|“Protocolo é o registro de entrada de documentos” usa linguagem para explicar uma expressão.|“Protocolo é o registro de entrada de documentos” é fática por manter o contato.|A definição de um termo exemplifica a função metalinguística.
+Poética|Um enunciado que destaca ritmo e jogos de palavras pode ter função poética, mesmo fora de um poema.|A função poética só pode ocorrer em poemas publicados em livros.|A função poética destaca a construção da mensagem e não depende de gênero único.
+Predominância|Uma propaganda pode combinar informações e apelo ao leitor, com predominância conativa.|A presença de qualquer informação elimina a função conativa de uma propaganda.|As funções podem coexistir; a classificação considera a predominância.
+Imperativo|“Não perca o prazo!” emprega forma de orientação ao receptor e favorece a função conativa.|“Não perca o prazo!” apresenta necessariamente função metalinguística.|O comando busca influenciar a ação do destinatário.
+Definição gramatical|“O verbo expressa processo, estado ou ação” exemplifica uso metalinguístico.|“O verbo expressa processo, estado ou ação” exemplifica apenas uso emotivo.|A linguagem descreve um elemento do próprio código linguístico.
+Contato e informação|“Certo? Está acompanhando?” pode funcionar como checagem fática no meio de uma explicação.|“Certo? Está acompanhando?” acrescenta obrigatoriamente um novo dado factual sobre o assunto.|A checagem procura manter contato e confirmar acompanhamento.
+@p-figuras
+Metáfora|“A fila era um labirinto” apresenta metáfora, por associar diretamente duas realidades.|“A fila era um labirinto” apresenta comparação explícita introduzida por “como”.|Não há marcador comparativo; a associação é metafórica.
+Comparação|“O atendimento foi lento como uma caminhada na lama” apresenta comparação.|“O atendimento foi lento como uma caminhada na lama” apresenta metonímia.|O termo “como” explicita a aproximação entre duas situações.
+Metonímia|“Leu Machado de Assis” pode substituir a obra pelo nome de seu autor.|“Leu Machado de Assis” usa necessariamente exagero quantitativo.|A relação entre autor e obra sustenta a metonímia.
+Hipérbole|“Esperei uma eternidade” pode exagerar a duração da espera.|“Esperei uma eternidade” usa obrigatoriamente sentido literal de tempo infinito.|O exagero expressivo caracteriza hipérbole.
+Eufemismo|“Ele nos deixou”, no contexto de falecimento, pode suavizar a referência à morte.|“Ele nos deixou”, no contexto de falecimento, é necessariamente uma comparação.|A substituição suavizadora exemplifica eufemismo.
+Personificação|“O relógio reclamava a cada segundo” atribui ação humana a objeto.|“O relógio reclamava a cada segundo” apresenta exclusivamente linguagem literal.|A atribuição de comportamento humano a objeto é personificação.
+Ironia|“Que organização!”, diante de documentos perdidos e prazos esquecidos, pode expressar crítica irônica.|“Que organização!”, diante de documentos perdidos e prazos esquecidos, só admite elogio literal.|O contexto pode inverter o valor aparente do elogio.
+Antítese|“Havia pressa na chegada e calma na saída” aproxima ideias opostas.|“Havia pressa na chegada e calma na saída” apresenta necessariamente contradição lógica impossível.|A oposição entre ideias caracteriza antítese, sem exigir contradição insolúvel.
+Paradoxo|“O silêncio gritava” combina ideias aparentemente incompatíveis.|“O silêncio gritava” apresenta exclusivamente substituição de autor por obra.|A combinação contraditória no plano literal produz paradoxo.
+Sinestesia|“Uma voz doce” pode associar audição e paladar.|“Uma voz doce” associa somente duas percepções auditivas.|A combinação de diferentes domínios sensoriais caracteriza sinestesia.
+@p-sinonimos
+Contexto|Em “prazo exíguo”, “curto” preserva o sentido de “exíguo”.|Em “prazo exíguo”, “ilimitado” preserva o sentido de “exíguo”.|Exíguo indica escassez ou pequena extensão.
+Oposição|“Deferir” e “indeferir”, na decisão de um pedido, indicam resultados opostos.|“Deferir” e “indeferir”, na decisão de um pedido, indicam o mesmo resultado.|Deferir acolhe; indeferir rejeita.
+Intensidade|“Preocupado” e “desesperado” não são substitutos equivalentes em qualquer contexto.|“Preocupado” e “desesperado” têm sempre a mesma intensidade.|A substituição pode alterar intensidade e efeito de sentido.
+Polissemia|“Banco” não pode ser substituído por “instituição financeira” quando designa um assento.|“Banco” pode ser substituído por “instituição financeira” quando designa um assento.|A sinonímia depende do sentido ativado no contexto.
+Técnico|No contexto jurídico, “revogar” não equivale necessariamente a “anular”.|No contexto jurídico, “revogar” e “anular” são sempre intercambiáveis.|Os termos têm pressupostos e efeitos técnicos diferentes.
+Pontual|Em “resposta sucinta”, “concisa” é uma substituição adequada.|Em “resposta sucinta”, “prolixa” é uma substituição adequada.|Sucinto e conciso indicam brevidade; prolixo indica excesso.
+Escala|“Frio” e “quente” admitem graus intermediários, como “morno”.|“Frio” e “quente” excluem qualquer condição intermediária.|Certos antônimos são graduais.
+Relação|“Comprar” e “vender” descrevem perspectivas relacionadas de uma transação.|“Comprar” e “vender” significam necessariamente a inexistência de transação.|A oposição relacional envolve papéis complementares.
+Precisão|Em “erro recorrente”, “repetido” aproxima o sentido de “recorrente”.|Em “erro recorrente”, “inédito” aproxima o sentido de “recorrente”.|Recorrente é aquilo que volta a ocorrer.
+Oposição contextual|Em “informação acessível”, “incompreensível” pode funcionar como oposição no contexto de compreensão.|Em “informação acessível”, “incompreensível” preserva o mesmo sentido no contexto de compreensão.|Acessibilidade de compreensão contrasta com incompreensibilidade.
+@p-homonimos
+Retificação|“Retificar o cadastro” significa corrigir dados.|“Retificar o cadastro” significa confirmar que nada deve mudar.|Retificar corrige; ratificar confirma.
+Ratificação|“Ratificar uma decisão” significa confirmá-la.|“Ratificar uma decisão” significa necessariamente corrigi-la.|Ratificação confirma ato ou decisão.
+Discrição|“Discrição” pode indicar reserva no comportamento; “descrição” é apresentação de características.|“Discrição” e “descrição” têm sempre o mesmo sentido.|A grafia e o sentido distinguem os parônimos.
+Sessão|A reunião do conselho é uma “sessão”; uma divisão administrativa pode ser uma “seção”.|A reunião do conselho é necessariamente uma “cessão”.|Sessão é reunião; seção é divisão; cessão é transferência.
+Cessão|“Cessão de uso” envolve transferência ou concessão de uso.|“Cessão de uso” designa a reunião de um colegiado.|Cessão e sessão diferem no significado.
+Eminente|“Eminente pesquisador” é alguém destacado; “iminente” indica algo prestes a ocorrer.|“Eminente pesquisador” informa que o pesquisador está prestes a ocorrer.|Eminência é destaque; iminência é proximidade temporal.
+Mandado|“Mandado judicial” é uma ordem; “mandato” pode ser período de exercício de cargo.|“Mandado judicial” e “mandato eleitoral” são grafias indiferentes do mesmo termo.|A distinção lexical deve ser preservada.
+Comprimento|“Comprimento da mesa” indica medida; “cumprimento da regra” indica observância.|“Comprimento da mesa” indica saudação.|Comprimento e cumprimento são parônimos.
+Tráfego|“Tráfego de veículos” refere-se à circulação.|“Tráfego de veículos” designa obrigatoriamente comércio ilícito.|Tráfego é circulação; tráfico é comércio, frequentemente ilícito no uso corrente.
+Homografia|“Sede” como matriz de uma instituição e “sede” como necessidade de beber têm mesma grafia e pronúncias distintas.|“Sede” como matriz e “sede” como necessidade de beber têm grafias distintas.|A coincidência gráfica com diferença de pronúncia exemplifica homografia.
+@p-polissemia
+Cabeça|“Cabeça do setor” e “dor de cabeça” ativam sentidos diferentes de “cabeça”.|“Cabeça do setor” e “dor de cabeça” exigem o mesmo sentido literal.|O contexto pode ativar sentido de liderança ou parte do corpo.
+Rede|“Rede de saúde” e “rede de descanso” não designam a mesma realidade.|“Rede de saúde” e “rede de descanso” têm necessariamente sentido idêntico.|A palavra assume sentidos conforme o contexto.
+Linha|“Linha de ônibus” e “linha do texto” exemplificam usos diferentes de “linha”.|“Linha de ônibus” e “linha do texto” designam sempre um fio material.|A interpretação depende da combinação lexical.
+Ponto|“Ponto de vista” não exige interpretar “ponto” como sinal gráfico.|“Ponto de vista” designa obrigatoriamente um ponto final.|Expressões podem atualizar sentidos próprios.
+Braço|“Braço de apoio do projeto” pode usar “braço” em sentido figurado de suporte.|“Braço de apoio do projeto” exige referência anatômica literal.|A extensão figurada do termo depende do contexto.
+Abrir|“Abrir uma reunião” pode significar iniciá-la.|“Abrir uma reunião” implica necessariamente abrir uma porta.|O verbo apresenta sentidos além do movimento físico.
+Fechar|“Fechar um acordo” pode significar concluir uma negociação.|“Fechar um acordo” só pode significar bloquear uma passagem.|O complemento orienta o sentido do verbo.
+Forte|“Argumento forte” pode indicar consistência, sem força muscular.|“Argumento forte” deve indicar força muscular de uma pessoa.|Adjetivos também apresentam extensões semânticas.
+Agudo|“Problema agudo” e “som agudo” ativam sentidos diferentes do adjetivo.|“Problema agudo” e “som agudo” possuem obrigatoriamente o mesmo significado acústico.|Contextos diferentes selecionam acepções diferentes.
+Campo|“Campo de pesquisa” pode designar área de investigação.|“Campo de pesquisa” designa sempre uma área rural.|O sentido de área de atuação é uma acepção contextual.
+@p-denotacao
+Literalidade|“A porta da sala está aberta” pode ter sentido denotativo de abertura física.|“A porta da sala está aberta” apresenta obrigatoriamente metáfora de oportunidade.|O contexto literal permite referência física.
+Oportunidade|“A capacitação abriu portas” pode ter sentido conotativo de criação de oportunidades.|“A capacitação abriu portas” só admite abertura física de folhas de madeira.|A expressão pode ser figurada.
+Peso|“A decisão teve grande peso” pode indicar relevância.|“A decisão teve grande peso” exige massa medida em quilogramas.|A conotação amplia o sentido literal de peso.
+Frieza|“A resposta foi fria” pode indicar distanciamento emocional.|“A resposta foi fria” informa obrigatoriamente sua temperatura.|O contexto pode atribuir valor afetivo ao adjetivo.
+Luz|“A nova regra trouxe luz ao problema” pode significar esclarecimento.|“A nova regra trouxe luz ao problema” só descreve instalação elétrica.|“Luz” pode funcionar como imagem de compreensão.
+Raiz|“A raiz do problema” pode designar sua causa fundamental.|“A raiz do problema” exige a existência de uma planta.|O uso figurado indica origem ou base.
+Texto técnico|Um texto técnico tende à precisão denotativa, mas o gênero sozinho não impede usos figurados.|Um texto técnico não pode conter nenhuma expressão figurada.|Tendência de uso não equivale a proibição absoluta.
+Pedra|“A pedra pesava dois quilos” apresenta referência literal compatível com denotação.|“A pedra pesava dois quilos” é necessariamente imagem abstrata de obstáculo.|A informação de massa favorece leitura literal.
+Barreira|“O preconceito ergue barreiras” pode representar dificuldades de acesso.|“O preconceito ergue barreiras” exige construção de muros concretos.|A barreira pode ser social e figurada.
+Contextualização|O mesmo vocábulo pode assumir uso denotativo ou conotativo conforme a frase.|Uma palavra é conotativa em todos os seus empregos se já apareceu em uma metáfora.|O valor semântico pertence ao uso contextual.
+@p-ortografia
+Por que|“Não sei por que o pedido voltou” emprega corretamente “por que” em pergunta indireta.|“Não sei porquê o pedido voltou” emprega corretamente a forma substantiva sem determinante.|“Por que” introduz a razão em interrogativas diretas ou indiretas.
+Porque|“O pedido voltou porque faltava assinatura” emprega conjunção causal.|“O pedido voltou por quê faltava assinatura” emprega corretamente a conjunção causal.|A explicação causal é introduzida por “porque”.
+Por quê|“O pedido voltou por quê?” emprega corretamente a forma antes de pausa final.|“O pedido voltou porquê?” emprega corretamente o substantivo sem artigo nesse uso interrogativo.|Antes de pausa final, a expressão interrogativa recebe acento: “por quê”.
+Porquê|“Explique o porquê da devolução” usa um substantivo.|“Explique o por que da devolução” usa corretamente a forma substantiva.|O artigo “o” acompanha o substantivo “porquê”.
+Mal|“O atendimento começou mal” emprega “mal” como oposição a “bem”.|“O atendimento começou mau” emprega corretamente o advérbio oposto a “bem”.|Mal pode ser advérbio; mau é adjetivo oposto a bom.
+Mau|“Um mau procedimento” emprega adjetivo oposto a “bom”.|“Um mal procedimento” emprega corretamente o adjetivo oposto a “bom”.|O adjetivo que qualifica procedimento é “mau”.
+Há|“Trabalho aqui há três anos” indica tempo decorrido.|“Trabalho aqui a três anos” indica corretamente o tempo já decorrido.|Tempo passado é indicado por “há”.
+A|“A reunião ocorrerá daqui a três dias” indica intervalo futuro.|“A reunião ocorrerá daqui há três dias” indica corretamente intervalo futuro.|Intervalo futuro usa preposição “a”.
+Mas|“O setor é pequeno, mas organizado” emprega conjunção adversativa.|“O setor é pequeno, mais organizado” emprega corretamente conjunção adversativa.|“Mas” marca oposição; “mais” expressa quantidade ou intensidade.
+Senão|“Não houve falha, senão atraso” pode usar “senão” com sentido de “mas sim”.|“Não houve falha, se não atraso” emprega adequadamente uma condição.|Nesse contexto, “senão” contrapõe e retifica o segmento anterior.
+@p-acentos
+Proparoxítona|“Público” e “médico” são acentuados por serem proparoxítonos.|“Público” e “médico” são acentuados por serem oxítonos terminados em o.|A tonicidade recai na antepenúltima sílaba.
+Oxítona|“Café” e “também” obedecem às regras de acentuação das oxítonas.|“Café” e “também” são exemplos de proparoxítonas.|A sílaba tônica é a última.
+Hiato|“Saída” contém i tônico em hiato e recebe acento.|“Saída” deve perder o acento por conter ditongo.|O i forma sílaba separada da vogal anterior.
+Ditongo aberto|“Ideia” perdeu o acento do ditongo aberto em palavra paroxítona.|“Ideia” conserva obrigatoriamente a grafia “idéia” no acordo vigente.|Ditongos abertos éi e ói não são acentuados em paroxítonas.
+Oxítona com ditongo|“Herói” mantém acento por ser oxítona com ditongo aberto.|“Herói” perdeu o acento pela mesma regra de “ideia”.|A retirada do acento não se aplica da mesma forma às oxítonas.
+Acento diferencial|“Pôde” pode distinguir passado de “pode”, presente.|“Pôde” e “pode” nunca diferem temporalmente.|O acento diferencial de pôde permanece.
+Número verbal|“Tem” e “têm” distinguem terceira pessoa singular e plural.|“Têm” é singular, e “tem” é plural.|O circunflexo marca o plural da forma verbal.
+Derivados de ter|“Mantém” é singular e “mantêm” é plural.|“Mantém” é plural e “mantêm” é singular.|Nos derivados, o agudo e o circunflexo diferenciam número.
+Vogal dobrada|“Voo” e “enjoo” são grafias atuais sem circunflexo.|“Vôo” e “enjôo” mantêm obrigatoriamente o circunflexo.|O acento dessas sequências foi abolido.
+Acento de por|“Pôr” é verbo e “por” é preposição.|“Pôr” é preposição e “por” é obrigatoriamente verbo.|O acento diferencial do verbo pôr permanece.
+@p-palavras
+Prefixação|“Desleal” resulta de derivação prefixal sobre “leal”.|“Desleal” resulta de composição de dois substantivos.|O prefixo des- modifica uma base existente.
+Sufixação|“Lealdade” resulta de derivação sufixal sobre “leal”.|“Lealdade” resulta somente de flexão plural.|O sufixo -dade forma um substantivo.
+Parassíntese|“Entristecer” exemplifica derivação parassintética sobre “triste”.|“Entristecer” é somente plural de “triste”.|Prefixo e sufixo participam conjuntamente da formação da palavra.
+Prefixo e sufixo|“Infelizmente” permite reconhecer base e etapas independentes, sem exigir parassíntese.|“Infelizmente” é necessariamente parassintética porque tem prefixo e sufixo.|Existem “infeliz” e “felizmente”; afixos não bastam para identificar parassíntese.
+Justaposição|“Guarda-chuva” é composição por justaposição.|“Guarda-chuva” é derivação regressiva de “guardar”.|Os elementos se unem sem perda fonológica característica de aglutinação.
+Aglutinação|“Planalto”, de plano e alto, exemplifica composição por aglutinação.|“Planalto” exemplifica apenas flexão nominal de “plano”.|Há alteração na união das bases.
+Regressiva|“Pesca”, relacionado a “pescar”, exemplifica derivação regressiva na análise tradicional.|“Pesca”, relacionado a “pescar”, é composição de duas bases nominais.|A formação nominal reduz a estrutura verbal.
+Imprópria|Em “O jantar foi servido”, o infinitivo substantivado exemplifica derivação imprópria.|Em “O jantar foi servido”, “jantar” continua obrigatoriamente sendo verbo do predicado.|A mudança de classe ocorre sem alteração formal.
+Radical|Em “livro”, “livraria” e “livreiro”, livr- é elemento lexical compartilhado.|Em “livro”, “livraria” e “livreiro”, -aria é o radical comum.|O radical concentra a base lexical compartilhada.
+Flexão e derivação|“Casas” marca plural de “casa”; “caseiro” forma outra palavra.|“Casas” e “caseiro” são ambos apenas plurais de “casa”.|Flexão altera informação gramatical; derivação cria item lexical.
+@p-flexao
+Plural nominal|“Cidadãos” é o plural padrão de “cidadão”.|“Cidadões” é o plural padrão de “cidadão”.|Os plurais de palavras em -ão variam e precisam ser reconhecidos lexicalmente.
+Plural composto|“Guarda-chuvas” é o plural padrão de “guarda-chuva”.|“Guardas-chuvas” é o plural padrão de “guarda-chuva”.|Em composto de verbo e substantivo, flexiona-se o substantivo: guarda-chuvas.
+Adjetivo composto|“Camisas azul-marinho” mantém a expressão de cor invariável.|“Camisas azuis-marinhas” é a flexão padrão dessa expressão de cor.|Expressões desse padrão de cor não seguem a flexão de adjetivo simples.
+Subjuntivo de ver|“Se eu vir o documento, avisarei” emprega futuro do subjuntivo de ver.|“Se eu ver o documento, avisarei” emprega a flexão padrão requerida nessa hipótese futura.|O futuro do subjuntivo de ver é “vir”.
+Subjuntivo de vir|“Se ele vier à reunião, conversaremos” emprega futuro do subjuntivo de vir.|“Se ele vir à reunião, conversaremos” emprega corretamente o verbo vir.|O futuro do subjuntivo de vir é “vier”.
+Intervir|“Os gestores intervieram” segue a conjugação do verbo vir.|“Os gestores interviram” é a forma padrão do pretérito perfeito.|Intervir segue vir: vieram, intervieram.
+Reaver|“Eles reouveram os documentos” é forma padrão do pretérito perfeito de reaver.|“Eles reaveram os documentos” é a forma padrão do pretérito perfeito.|Reaver segue formas de haver com v na conjugação tradicional.
+Manter|“Ela manteve o prazo” e “eles mantiveram o prazo” são flexões padrão.|“Ela mantesse o prazo” é pretérito perfeito padrão de manter.|Manter segue ter: teve/manteve, tiveram/mantiveram.
+Modo verbal|“Talvez ele participe” emprega presente do subjuntivo.|“Talvez ele participe” emprega pretérito perfeito do indicativo.|A forma “participe” pode marcar hipótese no presente do subjuntivo.
+Número e pessoa|“Revisávamos” marca primeira pessoa plural do pretérito imperfeito do indicativo.|“Revisávamos” marca terceira pessoa singular do futuro do indicativo.|A desinência e o contexto identificam pessoa, número, tempo e modo.
+@p-coordenacao
+Adição|“Conferiu o pedido e registrou a entrada” liga ações por coordenação aditiva.|“Conferiu o pedido e registrou a entrada” expressa necessariamente alternativa excludente.|“E” adiciona ações nesse contexto.
+Adversidade|“Estudou, mas não acertou” expressa oposição à expectativa.|“Estudou, mas não acertou” expressa finalidade.|A conjunção mas é adversativa.
+Alternância|“Ou revise o formulário, ou refaça o cadastro” apresenta coordenação alternativa.|“Ou revise o formulário, ou refaça o cadastro” apresenta oração subordinada causal.|A correlação ou...ou estabelece alternativas.
+Conclusão|“Faltava assinatura; logo, o documento foi devolvido” apresenta conclusão.|“Faltava assinatura; logo, o documento foi devolvido” apresenta adição sem nexo conclusivo.|Logo introduz consequência inferida do fato anterior.
+Explicação|“Não saia, pois o atendimento ainda não terminou” apresenta justificativa de uma ordem.|“Não saia, pois o atendimento ainda não terminou” apresenta alternância.|O segundo segmento explica a ordem do primeiro.
+Pois conclusivo|“O processo está completo; encaminhe-o, pois, à análise” emprega pois com valor conclusivo.|“O processo está completo; encaminhe-o, pois, à análise” emprega pois necessariamente como alternativo.|Pois intercalado nesse contexto corresponde a portanto.
+Assindética|“Chegou, sentou, aguardou” apresenta coordenação sem conjunção expressa.|“Chegou, sentou, aguardou” exige classificar todas as orações como subordinadas.|Orações coordenadas assindéticas não têm conjunção expressa.
+Independência sintática|Uma oração coordenada não funciona como termo sintático de outra coordenada.|Uma oração coordenada exerce obrigatoriamente a função de objeto direto da anterior.|Independência sintática não significa ausência de relação de sentido.
+E adversativo|“Prometeu ajudar e não compareceu” pode atribuir a e um valor de contraste.|“Prometeu ajudar e não compareceu” exige leitura de e sem qualquer contraste.|O contexto pode alterar o valor semântico usual da conjunção.
+Correlação aditiva|“Não só revisou como também organizou” estabelece adição de ações.|“Não só revisou como também organizou” estabelece exclusivamente comparação de igualdade.|A correlação soma ações.
+@p-subordinacao
+Causa|“Como faltavam dados, o pedido voltou” apresenta causa na oração inicial.|“Como faltavam dados, o pedido voltou” apresenta comparação de igualdade.|Como equivale a porque nesse contexto.
+Concessão|“Embora estivesse cansado, revisou tudo” apresenta concessão.|“Embora estivesse cansado, revisou tudo” apresenta condição indispensável.|Embora introduz obstáculo que não impede o fato principal.
+Condição|“Se o cadastro estiver correto, o pedido seguirá” apresenta condição.|“Se o cadastro estiver correto, o pedido seguirá” apresenta fato já garantido.|Se introduz hipótese condicionante.
+Finalidade|“Revisou o texto para que não houvesse ambiguidades” expressa finalidade.|“Revisou o texto para que não houvesse ambiguidades” expressa comparação.|Para que introduz o objetivo da ação.
+Consequência|“Estava tão escuro que ninguém leu o aviso” apresenta consequência.|“Estava tão escuro que ninguém leu o aviso” apresenta finalidade pretendida.|Tão...que estabelece intensidade e consequência.
+Conformidade|“Conforme prevê a norma, haverá revisão” apresenta conformidade.|“Conforme prevê a norma, haverá revisão” apresenta oposição concessiva.|A ação corresponde ao previsto pela norma.
+Temporalidade|“Quando a chefia chegou, a equipe iniciou a reunião” estabelece relação temporal.|“Quando a chefia chegou, a equipe iniciou a reunião” estabelece exclusivamente comparação.|Quando localiza temporalmente a ação principal.
+Substantiva|Em “Espero que o pedido seja aceito”, a oração iniciada por que exerce função de objeto direto.|Em “Espero que o pedido seja aceito”, que retoma um substantivo antecedente como pronome relativo.|A oração completa o verbo esperar; que é conjunção integrante.
+Adjetiva restritiva|“Os pedidos que estão completos seguirão” restringe os pedidos contemplados.|“Os pedidos que estão completos seguirão” afirma obrigatoriamente que todos os pedidos estão completos.|A oração sem vírgulas delimita o conjunto.
+Adjetiva explicativa|“Os pedidos, que estão completos, seguirão” apresenta explicação sobre o conjunto referido.|“Os pedidos, que estão completos, seguirão” tem exatamente a mesma delimitação da forma sem vírgulas.|As vírgulas distinguem explicação de restrição.
+@p-pronomes
+Objeto direto|Em “Revisei o documento e o enviei”, o retoma objeto direto.|Em “Revisei o documento e o enviei”, o funciona como objeto indireto.|O pronome o substitui o documento sem preposição.
+Objeto indireto|Em “Entreguei-lhe o formulário”, lhe representa o destinatário da entrega.|Em “Entreguei-lhe o formulário”, lhe representa o formulário entregue.|Entregar algo a alguém: lhe substitui a alguém.
+Relativo|Em “O processo que chegou será analisado”, que retoma processo.|Em “O processo que chegou será analisado”, que é conjunção integrante sem antecedente.|O pronome relativo retoma um nome e integra uma oração adjetiva.
+Integrante|Em “Acredito que haverá reunião”, que introduz uma oração substantiva.|Em “Acredito que haverá reunião”, que retoma obrigatoriamente reunião.|Não há antecedente nominal retomado.
+Cujo|“A unidade cujo diretor compareceu” expressa relação de posse sem artigo depois de cujo.|“A unidade cujo o diretor compareceu” atende à norma padrão.|Cujo já liga possuidor e elemento possuído e não admite artigo entre eles.
+Onde|“A sala onde ocorreu a reunião” emprega onde com referente locativo.|“A decisão onde discordamos” é o emprego formal recomendado de onde.|Onde deve ter valor de lugar; em que pode atender a outros referentes.
+Sujeito de infinitivo|“Este texto é para eu revisar” emprega eu como sujeito de revisar.|“Este texto é para mim revisar” atende à norma padrão de sujeito de infinitivo.|Mim não exerce função de sujeito nessa construção.
+Complemento|“Ela trouxe o texto para mim” emprega pronome oblíquo como complemento.|“Ela trouxe o texto para eu” é a forma padrão sem infinitivo posterior.|A preposição pede a forma oblíqua quando não há sujeito de infinitivo.
+Conosco|“A chefia conversou conosco” emprega corretamente a contração.|“A chefia conversou com nós” é a forma usual padrão sem modificador.|Conosco é a forma esperada nessa construção; com nós pode ocorrer com modificadores.
+Lhe e verbo|“Eu o encontrei” emprega objeto direto do verbo encontrar.|“Eu lhe encontrei” é a forma padrão recomendada para objeto direto de encontrar.|Encontrar alguém exige objeto direto; o representa esse complemento.
+@p-tratamento
+Concordância verbal|“Vossa Excelência decidirá” emprega verbo na terceira pessoa.|“Vossa Excelência decidireis” emprega a concordância padrão desse tratamento.|Tratamentos concordam na terceira pessoa.
+Possessivo|“Vossa Senhoria enviará seu parecer” atende à concordância padrão.|“Vossa Senhoria enviará vosso parecer” é a concordância recomendada no padrão institucional.|O possessivo também segue a terceira pessoa.
+Interlocutor|Vossa Excelência é usado ao dirigir-se à própria autoridade.|Sua Excelência é sempre o tratamento dirigido diretamente à autoridade.|Vossa dirige-se ao interlocutor; Sua faz referência a ele.
+Referência|“Sua Excelência chegará às nove” pode mencionar uma autoridade a terceiros.|“Sua Excelência chegará às nove” exige dirigir a frase à própria autoridade.|Sua integra referência à autoridade.
+Gênero|“Vossa Excelência está convidada”, dirigida a uma mulher, pode concordar com o gênero da pessoa.|Todo adjetivo após Vossa Excelência deve obrigatoriamente estar no masculino.|O gênero do adjetivo pode acompanhar a pessoa tratada.
+Respeito|Tratamento respeitoso não exige inserir elogios pessoais no texto institucional.|Um tratamento formal obriga elogiar a autoridade em todos os parágrafos.|Respeito e impessoalidade são compatíveis.
+Abreviação|“V. Exa.” é uma abreviação de Vossa Excelência.|“V. Exa.” é abreviação de Vossa Senhoria.|As abreviações devem corresponder ao tratamento correto.
+Senhoria|Vossa Senhoria não leva concordância verbal na segunda pessoa só por conter Vossa.|Vossa Senhoria exige verbo na segunda pessoa plural.|A locução de tratamento equivale gramaticalmente à terceira pessoa.
+Manual e norma|Ao responder sobre a 3ª edição do Manual, devem-se observar os tratamentos apresentados nessa referência.|Perguntas sobre a 3ª edição do Manual dispensam a referência e podem usar qualquer regra de outra esfera.|O contexto normativo indicado pelo enunciado determina a resposta.
+Uniformidade|Alternar Vossa e Sua sem observar a mudança de destinatário pode prejudicar a coerência do tratamento.|Vossa e Sua são sempre intercambiáveis na mesma posição comunicativa.|A escolha depende de falar à autoridade ou falar sobre ela.
+@p-colocacao
+Negação|“Não me avisaram” atende à próclise atraída por palavra negativa.|“Não avisaram-me” é a colocação padrão recomendada nessa oração.|Não atrai pronome átono antes do verbo.
+Relativo|“O documento que me entregaram” apresenta próclise favorecida pelo relativo.|“O documento que entregaram-me” é a colocação padrão recomendada após esse relativo.|Pronomes relativos atraem próclise.
+Início de oração|“Encaminhe-me o relatório” atende ao padrão formal com ênclise no início.|“Me encaminhe o relatório” é a colocação formal recomendada no início absoluto de oração.|No padrão formal tradicional, evita-se pronome átono no início absoluto.
+Futuro|“Enviar-lhe-ei o formulário”, sem palavra atrativa, exemplifica mesóclise.|“Enviarei-lhe o formulário” é a ênclise padrão no futuro sintético.|A forma futura sintética admite mesóclise, não ênclise simples.
+Futuro e negação|“Não lhe enviarei o formulário” atende à próclise mesmo no futuro.|A presença de não exige “não enviar-lhe-ei”.|A palavra negativa prevalece como elemento atrativo.
+Infinitivo|“Para ajudá-lo” apresenta ligação do pronome após infinitivo.|“Para ajudar-o” preserva a forma padrão do pronome após r.|Após r, o pronome o assume forma lo e o r é suprimido.
+Nasal|“Enviaram-no ontem” emprega a forma no após terminação nasal.|“Enviaram-o ontem” atende à adaptação padrão do pronome.|Após terminação nasal, o/a podem assumir no/na.
+Advérbio|“Aqui se trabalha com atenção” emprega próclise após advérbio sem pausa.|“Aqui trabalha-se com atenção” é a colocação formal recomendada sem pausa nesse contexto.|Advérbio não separado por pausa favorece próclise.
+Indefinido|“Todos se prepararam” atende à próclise após pronome indefinido.|“Todos prepararam-se” é a colocação formal recomendada após o indefinido.|Pronome indefinido pode atuar como elemento atrativo.
+Particípio|“O texto foi-lhe enviado” não coloca o pronome depois do particípio.|“O texto foi enviado-lhe” atende à colocação padrão junto ao particípio.|O pronome átono não se liga por ênclise ao particípio.
+@p-tempos
+Pretérito perfeito|“A equipe concluiu o trabalho” apresenta ação concluída no passado.|“A equipe concluiu o trabalho” apresenta futuro do subjuntivo.|Concluiu é pretérito perfeito do indicativo.
+Imperfeito|“A equipe revisava os pedidos diariamente” pode indicar hábito passado.|“A equipe revisava os pedidos diariamente” indica necessariamente ação futura pontual.|O imperfeito pode expressar ação habitual ou em curso no passado.
+Mais-que-perfeito|“Quando cheguei, ele já enviara o ofício” situa envio anterior a outro fato passado.|“Quando cheguei, ele já enviara o ofício” situa o envio necessariamente no futuro.|Enviara é mais-que-perfeito, anterior ao passado de referência.
+Futuro do pretérito|“Eu enviaria o texto se houvesse tempo” pode expressar resultado condicionado.|“Eu enviaria o texto se houvesse tempo” afirma envio realizado e comprovado.|O futuro do pretérito pode marcar hipótese condicionada.
+Presente|“O setor atende das oito às dez” pode expressar rotina.|“O setor atende das oito às dez” só pode indicar ação única ocorrida no passado.|O presente admite valor habitual.
+Presente do subjuntivo|“Espero que ele revise o texto” contém presente do subjuntivo.|“Espero que ele revise o texto” contém pretérito perfeito do indicativo.|Revise expressa ação dependente de expectativa.
+Imperfeito do subjuntivo|“Se ele revisasse, perceberia a falha” contém hipótese no imperfeito do subjuntivo.|“Se ele revisasse, perceberia a falha” contém fato garantido no presente do indicativo.|Revisasse marca hipótese ligada a perceberia.
+Futuro do subjuntivo|“Quando ele terminar, enviaremos” contém futuro do subjuntivo.|“Quando ele terminar, enviaremos” afirma que a conclusão já ocorreu.|Terminar projeta uma ocorrência futura.
+Imperativo|“Revise o documento antes de enviar” apresenta orientação no imperativo.|“Revise o documento antes de enviar” narra obrigatoriamente um fato passado.|O modo imperativo pode orientar, pedir ou ordenar.
+Correlação|“Se houver tempo, revisaremos” estabelece correlação adequada entre hipótese futura e ação futura.|“Se houver tempo, revisávamos” estabelece por si só a mesma correlação temporal.|A coerência temporal depende da relação entre as formas verbais.
+@p-regencia-verbal
+Assistir|“Assisti à apresentação”, no sentido de ver, atende à regência formal tradicional.|“Assisti a apresentação”, no sentido de ver e com artigo feminino, atende à regência formal tradicional.|Assistir no sentido de ver rege a; com artigo a, ocorre crase.
+Aspirar|“Aspira ao cargo” emprega aspirar no sentido de desejar.|“Aspira o cargo” é a regência formal recomendada no sentido de desejar.|Desejar exige aspirar a; aspirar ar pode ser transitivo direto.
+Visar|Na regência tradicional, “visa ao aperfeiçoamento” usa visar no sentido de ter como objetivo.|Na regência tradicional, “visa o aperfeiçoamento” usa a preposição exigida no sentido de objetivo.|O enunciado delimita a regência tradicional de visar a.
+Preferir|“Prefiro a revisão à pressa” liga as duas escolhas por a.|“Prefiro mais a revisão do que a pressa” é a regência formal recomendada.|Preferir não requer mais nem do que nessa construção.
+Obedecer|“Obedeceu às orientações” atende à regência de obedecer.|“Obedeceu as orientações” atende à regência formal com artigo feminino plural.|Obedecer rege a; a + as resulta em às.
+Informar|“Informou o servidor do prazo” é construção padrão de informar.|“Informou ao servidor do prazo”, sem objeto direto, preserva a mesma construção padrão.|Informar alguém de algo ou informar algo a alguém.
+Lembrar|“Lembrou-se do prazo” atende à forma pronominal.|“Lembrou-se o prazo” é a regência recomendada da forma pronominal.|Lembrar-se rege de; lembrar algo admite objeto direto.
+Chegar|“Chegou ao setor” atende à regência formal de chegar.|“Chegou no setor” é a construção formal tradicional recomendada.|Na regência formal tradicional, chegar pede a para destino.
+Implicar|“O erro implica retrabalho”, no sentido de acarretar, segue a regência tradicional direta.|“O erro implica em retrabalho” é a regência tradicional direta indicada no enunciado.|No sentido de acarretar, a análise tradicional emprega implicar algo.
+Pagar|“Pagou a taxa ao órgão” distingue o valor pago e o destinatário.|“Pagou à taxa o órgão” preserva as funções dos complementos.|Paga-se algo a alguém.
+@p-regencia-nominal
+Acesso|“Acesso aos dados” atende à regência de acesso.|“Acesso pelos dados” expressa a regência nominal de acesso a informações.|Acesso rege a nesse sentido.
+Compatibilidade|“Compatível com a função” atende à regência padrão.|“Compatível da função” é a regência recomendada.|Compatível rege com.
+Favorável|“Favorável à proposta” atende à regência padrão com artigo feminino.|“Favorável com a proposta” é a regência recomendada nesse sentido.|Favorável rege a.
+Necessidade|“Necessidade de revisão” atende à regência do substantivo.|“Necessidade à revisão” é a regência recomendada nesse sentido.|Necessidade rege de.
+Obediência|“Obediência às normas” atende à regência nominal.|“Obediência das normas”, para indicar observância por alguém, é a construção recomendada.|Obediência a indica o objeto observado.
+Respeito|“Respeito aos usuários” expressa corretamente o alvo do respeito.|“Respeito dos usuários” expressa obrigatoriamente o mesmo alvo, sem possibilidade de outro sentido.|A escolha da preposição pode alterar a relação entre os termos.
+Aptidão|“Apto para o trabalho” é construção aceita na norma padrão.|“Apto do trabalho” é a regência recomendada nesse sentido.|Apto admite a ou para.
+Certeza|“Tenho certeza de que haverá reunião” preserva a preposição exigida.|“Tenho certeza que haverá reunião” preserva a preposição formal exigida.|O substantivo certeza rege de, inclusive antes da oração.
+Dúvida|“Dúvida sobre a regra” é construção adequada.|“Dúvida à regra” é a construção padrão equivalente nesse sentido.|Dúvida pode reger sobre, acerca de ou quanto a, conforme a construção.
+Preferência|“Preferência pela revisão presencial” é construção nominal adequada.|“Preferência mais do que pela revisão presencial” é a única regência nominal adequada.|Preferência por introduz a opção favorecida.
+@p-concordancia-nominal
+Anexo|“As cópias seguem anexas” apresenta adjetivo concordando com cópias.|“As cópias seguem anexo” apresenta a concordância padrão desse adjetivo.|Anexo, como adjetivo, varia em gênero e número.
+Em anexo|“As cópias seguem em anexo” usa locução invariável.|“As cópias seguem em anexas” emprega a flexão padrão da locução.|Em anexo não sofre flexão nominal.
+Meio|“As servidoras estavam meio cansadas” usa meio como advérbio invariável.|“As servidoras estavam meias cansadas” usa a flexão padrão do advérbio.|Meio, significando um pouco, não varia.
+Bastante|“Havia bastantes dúvidas” usa bastante como quantificador variável.|“Havia bastante dúvidas” realiza a concordância padrão do quantificador nesse contexto.|Com substantivo plural, bastantes pode equivaler a muitas.
+Menos|“Havia menos solicitações” mantém menos invariável.|“Havia menas solicitações” é a concordância nominal padrão.|Menos não tem forma feminina padrão.
+Obrigado|Uma mulher pode dizer “Muito obrigada” para agradecer.|Uma mulher deve obrigatoriamente dizer “Muito obrigado” por invariabilidade do termo.|Obrigado, no uso adjetival de agradecimento, concorda com quem agradece.
+Proibido|“É proibida a entrada” concorda com nome determinado por artigo.|“É proibido a entrada” realiza a concordância padrão com artigo expresso.|Com artigo, o adjetivo concorda com o substantivo.
+Incluso|“Estão inclusas as declarações” concorda com declarações.|“Estão incluso as declarações” realiza a concordância padrão.|Incluso, como adjetivo, varia.
+Só|“Elas ficaram sós” usa só como adjetivo, no sentido de sozinhas.|“Elas ficaram só”, necessariamente no sentido de sozinhas, apresenta a flexão padrão do adjetivo.|Só adjetivo varia; só advérbio, significando apenas, não varia.
+Alerta|“As equipes permaneceram alerta” mantém alerta invariável no uso adverbial tradicional.|“As equipes permaneceram alertas” é obrigatoriamente a flexão do uso adverbial tradicional indicado.|Na análise adverbial tradicional, alerta é invariável; o enunciado delimita o uso.
+@p-concordancia-verbal
+Haver|“Havia muitos pedidos” usa haver impessoal no sentido de existir.|“Haviam muitos pedidos” realiza a concordância padrão de haver existencial.|Haver existencial permanece na terceira pessoa singular.
+Fazer|“Faz três meses que estudo” usa fazer impessoal para tempo decorrido.|“Fazem três meses que estudo” realiza a concordância padrão temporal.|Fazer temporal é impessoal.
+Existir|“Existiam dúvidas” concorda com o sujeito plural.|“Existia dúvidas” realiza a concordância padrão desse verbo.|Existir é pessoal e concorda com o sujeito.
+Partícula apassivadora|“Analisam-se pedidos” admite sujeito paciente plural.|“Analisa-se pedidos” realiza a concordância padrão dessa passiva sintética.|Na passiva sintética, o verbo concorda com o sujeito paciente.
+Indeterminação|“Precisa-se de servidores” apresenta sujeito indeterminado e verbo singular.|“Precisam-se de servidores” é a concordância padrão dessa construção indireta.|Com verbo transitivo indireto e se indeterminador, o verbo fica no singular.
+Locução impessoal|“Deve haver falhas” mantém a locução no singular.|“Devem haver falhas” realiza a concordância padrão de haver existencial.|A impessoalidade passa ao auxiliar.
+Sujeito posposto|“Chegaram os documentos” concorda com sujeito posposto plural.|“Chegou os documentos” realiza a concordância padrão por o sujeito vir depois.|A posição do sujeito não elimina a concordância.
+Pronome de tratamento|“Vossa Senhoria encaminhará o pedido” usa terceira pessoa singular.|“Vossa Senhoria encaminhareis o pedido” realiza a concordância padrão.|Tratamentos seguem terceira pessoa.
+Sujeito composto|“O chefe e a assistente chegaram” realiza concordância plural com sujeito composto anteposto.|“O chefe e a assistente chegou” realiza a concordância padrão com sujeito composto anteposto.|Os dois núcleos antepostos exigem plural nessa construção.
+Ter e vir|“Os servidores têm prazo e vêm amanhã” marca corretamente o plural de ter e vir.|“Os servidores tem prazo e vem amanhã” marca corretamente o plural desses verbos.|Têm e vêm são formas plurais com circunflexo.
+@p-crase
+Regência e artigo|“Encaminhou o pedido à diretora” reúne preposição a e artigo a.|“Encaminhou o pedido a diretora”, com artigo presente, atende à marcação padrão.|Encaminhar algo a alguém mais artigo feminino produz crase.
+Verbo|“Começou a revisar” não leva crase antes do infinitivo.|“Começou à revisar” emprega corretamente crase antes do verbo.|Não há artigo feminino antes do infinitivo.
+Masculino|“Atendimento a domicílio” não leva crase nesse emprego.|“Atendimento à domicílio” emprega corretamente artigo feminino diante de domicílio.|O substantivo é masculino e não recebe artigo a.
+Horas|“A reunião começará às nove horas” emprega crase na indicação de horário.|“A reunião começará as nove horas” marca corretamente a combinação com preposição.|A indicação de horário admite a + as.
+Pronome relativo|“A regra à qual me referi” atende à regência de referir-se.|“A regra a qual me referi” marca corretamente a combinação de preposição e artigo.|Referir-se a mais a qual resulta em à qual.
+Plural sem artigo|“O aviso foi enviado a unidades distantes” não marca crase com a singular e nome plural sem artigo.|“O aviso foi enviado à unidades distantes” marca corretamente crase com artigo plural.|A singular não pode fundir-se com artigo plural as.
+Demonstrativo|“Referiu-se àquela orientação” apresenta fusão da preposição a com a inicial de aquela.|“Referiu-se aquela orientação” preserva a preposição exigida pelo verbo.|A + aquela resulta em àquela.
+Distância temporal|“Daqui a duas horas” não leva crase.|“Daqui à duas horas” é a grafia padrão desse intervalo futuro.|Não há artigo feminino nessa expressão temporal.
+Locução|“À medida que estudava, compreendia melhor” emprega corretamente a locução.|“A medida que estudava, compreendia melhor” preserva a grafia padrão da locução proporcional.|À medida que é locução conjuntiva com acento grave.
+Nome de lugar|“Foi à Bahia” é adequado porque Bahia admite artigo feminino.|“Foi à Brasília”, sem modificador, é obrigatoriamente adequado pela mesma regra de Bahia.|A presença de artigo depende do nome: da Bahia, de Brasília.
+@p-pontuacao
+Sujeito e verbo|“Os pedidos completos seguirão amanhã” não separa sujeito e verbo por vírgula.|“Os pedidos completos, seguirão amanhã” emprega vírgula obrigatória entre sujeito e verbo.|Não se separa sujeito e verbo sem elemento intercalado.
+Vocativo|“Senhora diretora, o relatório está pronto” isola o vocativo.|“Senhora diretora o relatório está pronto” preserva a pontuação padrão do vocativo.|O chamamento deve ser isolado.
+Aposto|“Ana, gerente do setor, assinou o documento” isola aposto explicativo.|“Ana gerente do setor assinou o documento” isola corretamente o aposto explicativo.|A explicação sobre Ana é intercalada.
+Restrição|Em “Os usuários que chegaram cedo foram atendidos”, a oração pode restringir o grupo sem vírgulas.|Em “Os usuários que chegaram cedo foram atendidos”, a ausência de vírgulas torna toda oração relativa explicativa.|Relativas restritivas não são isoladas por vírgulas.
+Intercalação|“O pedido, segundo a chefia, será analisado” isola o segmento intercalado.|“O pedido, segundo a chefia será analisado” mantém corretamente a delimitação da intercalação.|A expressão intercalada pede abertura e fechamento da delimitação.
+Enumeração|“Recebeu formulários, cópias e comprovantes” pontua uma enumeração simples.|“Recebeu, formulários, cópias e comprovantes” exige vírgula entre verbo e primeiro objeto.|A vírgula não deve separar o verbo de seu complemento.
+Dois-pontos|“Faltava um documento: o comprovante” pode usar dois-pontos para explicitação.|“Faltava um documento: o comprovante” usa dois-pontos obrigatoriamente para marcar pergunta.|Dois-pontos podem introduzir explicação ou identificação.
+Ponto e vírgula|O ponto e vírgula pode separar partes de uma enumeração que já contenham vírgulas internas.|O ponto e vírgula equivale sempre a um ponto de interrogação.|O recurso distingue blocos internos e relações entre segmentos.
+Travessões|Travessões podem delimitar uma explicação intercalada.|Travessões só podem indicar início de diálogo e nunca intercalação.|O travessão tem diferentes funções textuais.
+Efeito de sentido|“Não, espere” e “Não espere” apresentam orientações diferentes.|“Não, espere” e “Não espere” possuem necessariamente o mesmo sentido.|A vírgula altera a relação entre a negativa e o comando.

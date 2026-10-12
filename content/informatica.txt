@@ -1,0 +1,264 @@
+@i-desktop
+Atualizar|Atualizar a Área de Trabalho redesenha a exibição, sem instalar automaticamente versões de aplicativos.|Atualizar a Área de Trabalho instala todas as atualizações do sistema.|O comando de exibição não equivale ao Windows Update.
+Ordenação|Classificar ícones por nome altera sua organização visual.|Classificar ícones por nome renomeia todos os arquivos.|Classificação e renomeação são operações diferentes.
+Ícones ocultos|Ocultar ícones da Área de Trabalho não exclui os arquivos correspondentes.|Ocultar ícones da Área de Trabalho apaga todos os arquivos.|A opção controla exibição.
+Resolução|Alterar resolução modifica a quantidade de pixels usada na exibição.|Alterar resolução aumenta necessariamente a capacidade do disco.|Resolução é configuração de vídeo.
+Escala|A escala pode ampliar texto e elementos sem equivaler a alterar a resolução.|Escala e resolução são sempre a mesma configuração.|Escala modifica tamanho aparente; resolução define dimensões em pixels.
+Atalho|Um ícone com indicação de atalho pode apontar para item armazenado em outro local.|Todo atalho contém obrigatoriamente uma cópia integral do programa.|Atalhos guardam referência ao destino.
+Personalização|Plano de fundo e temas podem ser alterados pelas configurações de personalização.|Personalizar plano de fundo exige formatar o disco.|A personalização não requer reinstalação.
+Exibição|Alterar tamanho dos ícones não altera o tamanho em bytes dos arquivos.|Ícones grandes tornam todos os arquivos maiores no disco.|Tamanho visual não é tamanho de armazenamento.
+Monitores|Estender a tela em dois monitores cria área de trabalho distribuída entre eles.|Estender telas significa sempre duplicar a mesma imagem em ambos.|Estender e duplicar são modos diferentes.
+Acesso|Win+D exibe a Área de Trabalho e pode restaurar as janelas ao ser pressionado novamente.|Win+D exclui documentos abertos.|O atalho atua sobre a exibição das janelas.
+@i-iniciar
+Abertura|A tecla Windows pode abrir o Menu Iniciar.|A tecla Windows encerra obrigatoriamente todos os programas.|A tecla abre a interface do menu.
+Pesquisa|A pesquisa pode localizar aplicativos e arquivos, dependendo das configurações de indexação.|Pesquisar um arquivo altera automaticamente seu conteúdo.|Pesquisar não equivale a editar.
+Desligar|Desligar encerra a sessão operacional e pode solicitar salvar trabalho pendente.|Desligar garante que todo documento nunca salvo será preservado.|Arquivos não salvos podem ser perdidos.
+Reiniciar|Reiniciar encerra e inicia novamente o sistema.|Reiniciar significa apenas minimizar todas as janelas.|Reinício é ciclo do sistema operacional.
+Suspender|Suspensão reduz consumo e permite retomar a sessão, conforme configuração.|Suspensão é sinônimo de apagar os arquivos do usuário.|O modo suspende atividade sem excluir arquivos.
+Hibernar|A hibernação salva estado da sessão no armazenamento para retomar depois, quando disponível.|Hibernação depende exclusivamente de manter o conteúdo na RAM energizada.|O estado é salvo em disco.
+Aplicativos|Desafixar um aplicativo do Iniciar não equivale a desinstalá-lo.|Desafixar um aplicativo remove necessariamente seus arquivos de instalação.|Fixação controla acesso no menu.
+Conta|Sair da conta encerra a sessão do usuário, sem necessariamente desligar o computador.|Sair da conta implica formatar o Windows.|Sessão e instalação são diferentes.
+Busca limitada|Um arquivo não indexado pode exigir busca no local adequado.|Não aparecer na pesquisa comprova que o arquivo foi apagado.|A pesquisa depende do escopo e da indexação.
+Executar|Win+R abre a caixa Executar.|Win+R restaura automaticamente todos os arquivos da Lixeira.|O atalho abre a caixa de comandos Executar.
+@i-barra
+Aplicativos ativos|A barra de tarefas permite alternar entre aplicativos abertos.|A barra de tarefas contém exclusivamente arquivos excluídos.|A barra oferece acesso e alternância de aplicativos.
+Fixação|Um aplicativo fixado pode permanecer na barra mesmo quando fechado.|Um aplicativo fixado fica obrigatoriamente executando o tempo todo.|Fixar cria acesso persistente.
+Gerenciador|Ctrl+Shift+Esc pode abrir o Gerenciador de Tarefas.|Ctrl+Shift+Esc abre obrigatoriamente a Lixeira.|O atalho acessa o Gerenciador.
+Encerramento|Finalizar tarefa pode encerrar aplicativo travado e perder dados não salvos.|Finalizar tarefa salva obrigatoriamente todos os documentos pendentes.|Encerramento forçado não garante salvamento.
+Desempenho|O Gerenciador de Tarefas pode apresentar uso de CPU e memória.|O Gerenciador de Tarefas mede somente tamanho de fontes.|A ferramenta mostra recursos e processos.
+Inicialização|Desabilitar um aplicativo na inicialização não equivale a desinstalá-lo.|Desabilitar na inicialização apaga necessariamente o aplicativo.|A opção altera execução automática.
+Área de notificação|A área de notificação pode exibir rede, volume e ícones de serviços.|A área de notificação é uma pasta de documentos excluídos.|Ela apresenta estados e acessos do sistema.
+Alternância|Alt+Tab alterna entre janelas abertas.|Alt+Tab renomeia a pasta selecionada.|O atalho troca o foco de janela.
+Ocultação|Ocultar automaticamente a barra de tarefas não encerra aplicativos.|Ocultar a barra finaliza todos os processos.|Ocultação é comportamento visual.
+Processos|Um mesmo aplicativo pode executar vários processos.|Cada aplicativo sempre corresponde exatamente a um processo.|A arquitetura de execução pode envolver múltiplos processos.
+@i-navegacao
+Explorador|Win+E pode abrir o Explorador de Arquivos.|Win+E limpa automaticamente a pasta Documentos.|O atalho abre navegação de arquivos.
+Caminho|O caminho C:\Usuarios\Ana\Documentos identifica localização na estrutura de pastas.|Um caminho indica obrigatoriamente o conteúdo textual do arquivo.|Caminho é localização lógica.
+Voltar|Voltar no Explorador retorna ao local visitado anteriormente.|Voltar move todos os arquivos para a pasta pai.|Navegação não move arquivos.
+Subir|Subir um nível acessa a pasta que contém a pasta atual.|Subir um nível significa excluir a pasta atual.|O comando altera o local navegado.
+Biblioteca|Uma biblioteca pode reunir acesso a pastas de diferentes locais sem copiá-las integralmente.|Incluir pasta em biblioteca sempre duplica todos os seus arquivos.|Biblioteca agrega locais.
+Seleção contínua|Shift pode auxiliar a selecionar uma sequência de itens.|Shift sempre seleciona somente o último item, sem intervalo.|A seleção por intervalo usa a referência inicial.
+Seleção separada|Ctrl pode permitir seleção de itens não contíguos.|Ctrl obriga selecionar todos os itens intermediários.|Ctrl permite seleção individual combinada.
+Detalhes|A exibição Detalhes pode mostrar nome, tamanho e data de modificação.|A exibição Detalhes altera automaticamente o conteúdo dos arquivos.|O modo organiza informações visuais.
+Pastas|Criar subpasta não move automaticamente todos os arquivos da pasta principal.|Toda criação de subpasta transfere os arquivos para ela.|Criação e movimentação são ações diferentes.
+Janela|Maximizar uma janela não fecha as demais.|Maximizar encerra obrigatoriamente outras janelas.|Maximização altera tamanho e ocupação da janela.
+@i-painel
+Configurações|Windows 10 e 11 combinam Configurações e ferramentas clássicas, com diferenças de interface.|Todos os comandos mantêm sempre nomes e posições idênticos em todas as versões.|A versão deve ser considerada no enunciado.
+Aplicativo padrão|Definir aplicativo padrão para PDF altera o programa usado na abertura usual.|Definir aplicativo padrão converte todos os PDFs em arquivos desse programa.|Associação de abertura não converte formatos.
+Impressora|Definir impressora padrão seleciona destino usual de impressão.|Definir impressora padrão imprime imediatamente todos os arquivos.|A configuração não dispara todas as impressões.
+Data e hora|Ajustar fuso horário pode alterar a hora exibida sem mudar o local físico do dispositivo.|Fuso horário altera necessariamente o conteúdo de todas as planilhas.|A configuração refere-se à referência temporal do sistema.
+Som|Selecionar dispositivo de saída determina onde o áudio deve ser reproduzido.|Selecionar saída de áudio corrige obrigatoriamente qualquer defeito físico do fone.|Configuração não garante reparo de hardware.
+Desinstalação|Desinstalar aplicativo é diferente de excluir seu atalho.|Excluir um atalho é sempre suficiente para desinstalar o aplicativo.|Atalho e instalação são objetos distintos.
+Rede|Configurações de rede permitem gerenciar conexões e verificar estado.|Abrir configurações de rede garante conexão sem senha a qualquer rede.|Acesso depende de disponibilidade e autenticação.
+Acessibilidade|Configurações de acessibilidade podem ampliar texto ou oferecer recursos de apoio.|Recursos de acessibilidade são apenas mudanças de cor do papel de parede.|Os recursos atendem diferentes necessidades de interação.
+Atualização|Windows Update gerencia atualizações do sistema.|Atualizar a Área de Trabalho e Windows Update são sempre equivalentes.|As funções têm finalidades distintas.
+Permissões|Certas alterações do sistema exigem privilégios administrativos.|Qualquer conta pode alterar irrestritamente todas as configurações protegidas.|Permissões limitam ações sensíveis.
+@i-lixeira
+Recuperação|Restaurar item da Lixeira normalmente o devolve ao local original.|Restaurar item da Lixeira sempre cria uma pasta aleatória na Área de Trabalho.|A restauração usa a localização de origem.
+Esvaziar|Esvaziar a Lixeira remove os itens nela armazenados.|Esvaziar a Lixeira restaura todos os itens automaticamente.|Esvaziamento e restauração são ações opostas.
+Shift+Delete|Shift+Delete pode excluir item sem passar pela Lixeira.|Shift+Delete garante que o item ficará na Lixeira.|A combinação solicita exclusão direta.
+Rede|Exclusões em locais de rede podem não passar pela Lixeira local.|Todo arquivo excluído em rede vai obrigatoriamente à Lixeira do computador.|O comportamento depende do local e do serviço.
+Unidade removível|Arquivos excluídos de unidade removível podem não ter recuperação pela Lixeira local.|A Lixeira local garante recuperação de toda exclusão em qualquer pendrive.|O comportamento de unidade removível pode diferir do disco local.
+Capacidade|O limite configurado da Lixeira pode impedir retenção de um arquivo muito grande.|A Lixeira tem capacidade sempre ilimitada.|Há configurações e limites de retenção.
+Atalho|Excluir um atalho normalmente não exclui seu arquivo de destino.|Excluir um atalho envia obrigatoriamente o destino à Lixeira.|O atalho é referência independente.
+Segurança|Enviar arquivo à Lixeira não equivale a apagamento seguro irrecuperável.|Enviar arquivo à Lixeira garante impossibilidade técnica de recuperação.|A exclusão comum não é descarte seguro.
+Pesquisa|A Lixeira permite selecionar itens específicos para restaurar.|A Lixeira só admite restaurar tudo de uma vez.|É possível operar sobre itens individuais.
+Arquivo aberto|O sistema pode impedir exclusão de arquivo em uso, conforme o processo e a permissão.|Todo arquivo aberto pode ser excluído sem qualquer restrição.|Uso e bloqueio podem impedir a operação.
+@i-arquivos
+Copiar|Copiar cria item no destino e mantém o original.|Copiar remove necessariamente o item de origem.|Cópia preserva a origem.
+Mover|Mover transfere o item para outro local, normalmente retirando-o da origem.|Mover significa criar obrigatoriamente duas cópias permanentes.|Movimentação muda a localização.
+Recortar|Ctrl+X prepara o item para transferência, concluída com a colagem no destino.|Ctrl+X no Explorador envia sempre o item imediatamente à Lixeira.|Recorte e exclusão são operações diferentes.
+Colar|Ctrl+V cola conteúdo disponível na área de transferência.|Ctrl+V renomeia obrigatoriamente o arquivo selecionado.|O comando utiliza a área de transferência.
+Renomear|F2 pode iniciar a renomeação do item selecionado no Explorador.|F2 formata obrigatoriamente a unidade.|F2 atua sobre o nome do item.
+Novo diretório|Ctrl+Shift+N pode criar uma pasta no Explorador.|Ctrl+Shift+N abre sempre janela anônima quando o foco é o Explorador.|O significado do atalho depende do aplicativo.
+Atalho excluído|Remover atalho normalmente preserva o destino.|Remover atalho sempre desinstala o programa de destino.|Atalho e destino são distintos.
+Abrir com|Abrir com permite escolher aplicativo para um arquivo.|Abrir com converte automaticamente seu formato.|Escolha de aplicativo não equivale a conversão.
+Arrastar|Arrastar entre volumes diferentes normalmente copia; teclas modificadoras podem alterar o comportamento.|Arrastar entre volumes diferentes sempre move, sem possibilidade de alteração.|A operação padrão depende do local e das teclas usadas.
+Área de transferência|A área de transferência pode receber conteúdo copiado ou recortado.|A área de transferência só pode armazenar atalhos da Área de Trabalho.|Ela atende a diferentes conteúdos e aplicativos.
+@i-propriedades
+Tamanho|Propriedades podem informar tamanho e tamanho em disco, que podem diferir.|Tamanho e tamanho em disco precisam ser idênticos em qualquer arquivo.|Alocação em blocos e armazenamento podem gerar diferença.
+Oculto|O atributo oculto não constitui proteção criptográfica.|Ocultar um arquivo equivale a criptografá-lo.|Ocultação controla exibição, não confidencialidade criptográfica.
+Exibição oculta|Habilitar exibição de itens ocultos pode revelar arquivos com esse atributo.|Um arquivo oculto nunca pode ser exibido pelo Explorador.|A configuração de exibição altera a visibilidade.
+Somente leitura|Somente leitura pode restringir alterações conforme aplicativo e permissões.|Somente leitura torna o arquivo impossível de copiar.|O atributo não equivale a bloqueio de cópia.
+Criptografia|EFS depende de sistema de arquivos, edição e recursos compatíveis do Windows.|EFS está sempre disponível em qualquer edição e em qualquer unidade FAT32.|A criptografia EFS tem requisitos de compatibilidade.
+Certificado|Preservar chaves e certificados é importante para recuperar acesso a arquivos criptografados.|Excluir toda chave de criptografia garante acesso futuro ao arquivo.|Sem chave adequada, o acesso pode ser perdido.
+BitLocker|BitLocker protege volumes e não é a mesma função que marcar um arquivo como oculto.|BitLocker significa apenas ocultar ícones da Área de Trabalho.|Criptografia de volume é distinta de ocultação.
+Permissões|Permissões de acesso podem impedir alteração mesmo quando o arquivo está visível.|Arquivo visível pode sempre ser alterado por qualquer usuário.|Visibilidade não implica autorização.
+Localização|A localização apresentada nas propriedades ajuda a identificar onde o arquivo está armazenado.|A localização determina automaticamente o autor do conteúdo.|Localização e autoria são informações diferentes.
+Atalho|As propriedades de um atalho podem apresentar destino e parâmetros de execução.|As propriedades de um atalho não podem apontar um destino.|O atalho referencia um item ou comando.
+@i-nomes
+Caracteres|Dois-pontos não pode integrar livremente o nome comum de um arquivo no Windows.|“Relatório:final.txt” é nome comum válido no Windows.|Caracteres reservados incluem dois-pontos.
+Barra|Barra invertida separa componentes do caminho e não integra nome comum de arquivo.|“Cadastro\final.txt” é um nome simples de arquivo sem separação de caminho.|A barra invertida é separador.
+Interrogação|“Pedido?.docx” é nome inválido por conter caractere reservado.|“Pedido?.docx” é nome válido sem restrições.|Interrogação é caractere reservado.
+Asterisco|Asterisco pode funcionar como curinga de busca, mas não como caractere comum de nome.|“Lista*.xlsx” é nome válido de arquivo comum.|Busca e nomenclatura usam regras distintas.
+Reservados|CON e NUL são exemplos de nomes reservados de dispositivo.|CON e NUL são sempre nomes livres para arquivos comuns.|O Windows reserva nomes específicos.
+Extensão|Trocar .txt por .pdf no nome não converte automaticamente o conteúdo.|Renomear um texto para .pdf cria automaticamente um PDF válido.|Extensão e formato interno não são equivalentes.
+Maiúsculas|No uso padrão do Windows, “Relatorio.txt” e “RELATORIO.TXT” não são nomes distintos apenas pela caixa.|No uso padrão do Windows, mudar só maiúsculas sempre cria arquivo independente.|O sistema normalmente não diferencia caixa para nomes.
+Espaço|Espaços internos podem integrar nomes como “Relatório final.docx”.|Todo espaço torna qualquer nome de arquivo inválido.|Espaços internos são permitidos.
+Ponto final|Nomes comuns terminados em ponto ou espaço apresentam restrições no uso usual do Windows.|No uso usual, qualquer nome terminado em ponto é sempre aceito sem tratamento especial.|Há restrições na nomenclatura normal.
+Arquivo e pasta|Uma pasta pode ter ponto no nome sem que isso a transforme automaticamente em arquivo.|Qualquer pasta com ponto no nome passa a ser documento.|O tipo de objeto não depende só de um ponto.
+@i-gadgets
+Versão|Gadgets de Área de Trabalho eram recursos de versões antigas e não são recurso nativo equivalente no Windows 10.|Os gadgets clássicos são recurso nativo obrigatório do Windows 10.|É preciso distinguir versões citadas no edital.
+Widgets|Widgets do Windows 11 não são simplesmente os antigos gadgets do Windows 7.|Widgets do Windows 11 e gadgets do Windows 7 são o mesmo mecanismo sem diferenças.|São implementações de versões distintas.
+Segurança|O abandono dos gadgets clássicos teve relação com riscos de segurança.|Gadgets clássicos sempre são seguros independentemente da origem.|O recurso antigo apresentou vulnerabilidades.
+Aplicativo externo|Instalar ferramenta externa de gadgets não demonstra que o recurso é nativo do Windows 10.|Todo recurso instalado por terceiros já era obrigatório no Windows original.|Nativo e instalado adicionalmente são condições distintas.
+Contexto|Uma questão que cita Windows 10 deve ser respondida considerando essa versão.|Uma questão de Windows 10 deve sempre usar menus do Windows 7 sem ressalva.|O ambiente indicado determina os comandos disponíveis.
+Menu|A ausência de Gadgets no menu da Área de Trabalho do Windows 10 não significa defeito obrigatório.|A ausência de Gadgets no Windows 10 comprova instalação corrompida.|O recurso clássico não integra essa versão como no Windows 7.
+Informação dinâmica|Um painel com clima pode ser widget sem ser gadget clássico.|Todo painel de clima é obrigatoriamente gadget clássico do Windows 7.|A aparência não determina a tecnologia usada.
+Atualização|Instalar atualizações do Windows 10 não garante retorno dos gadgets clássicos.|Toda atualização do Windows 10 reinstala gadgets clássicos.|Atualização não implica restauração desse recurso antigo.
+Personalização|Personalização de Área de Trabalho pode existir sem gadgets clássicos.|Sem gadgets, nenhuma personalização de tela é possível.|Temas, fundo e outros recursos continuam disponíveis.
+Terminologia|Um edital pode reunir terminologia de versões distintas; o enunciado específico deve orientar a análise.|Termos antigos citados no edital tornam todos os recursos idênticos nas versões atuais.|A identificação da versão evita erro de aplicação.
+@i-word-ambiente
+Faixa de Opções|A Faixa de Opções organiza comandos em guias e grupos.|A Faixa de Opções é exclusivamente uma lista de arquivos excluídos.|Ela reúne comandos da aplicação.
+Início|A guia Início reúne recursos frequentes de fonte e parágrafo.|A guia Início do Word serve exclusivamente para gráficos de planilha.|Os grupos Fonte e Parágrafo são centrais nessa guia.
+Inserir|Inserir permite adicionar elementos como tabelas e imagens.|Inserir se limita a apagar páginas existentes.|A guia inclui recursos de inclusão de objetos.
+Barra rápida|A Barra de Ferramentas de Acesso Rápido pode ser personalizada.|A Barra de Acesso Rápido possui comandos fixos e imutáveis em qualquer configuração.|Ela permite incluir ou remover comandos.
+Status|A barra de status pode apresentar página atual e contagem de palavras.|A barra de status determina obrigatoriamente o nome do arquivo.|Ela apresenta informações sobre o documento e o modo de trabalho.
+Contextual|Selecionar uma tabela pode exibir guias contextuais relacionadas à tabela.|Guias contextuais nunca dependem do objeto selecionado.|A seleção pode alterar os comandos disponíveis.
+Selecionar|Aplicar formatação a trecho selecionado atua sobre esse trecho.|Qualquer mudança de fonte altera obrigatoriamente todos os documentos abertos.|A seleção e o comando definem o alcance.
+Mostrar marcas|Exibir marcas de parágrafo ajuda a identificar elementos não imprimíveis.|Mostrar marcas imprime obrigatoriamente todos esses sinais em qualquer saída.|Exibição das marcas é auxílio de edição.
+Estilos|Estilos permitem aplicar conjuntos padronizados de formatação.|Estilos são apenas nomes alternativos para arquivos do Windows.|Estilos estruturam e padronizam elementos do texto.
+Minimizar faixa|Recolher a Faixa de Opções não remove seus comandos do programa.|Recolher a Faixa desinstala recursos de formatação.|A ação altera a apresentação da interface.
+@i-word-arquivos
+Formato|DOCX é formato padrão de documentos do Word moderno.|XLSX é formato padrão de texto do Word.|XLSX é formato associado a planilhas do Excel.
+Salvar como|Salvar como permite criar cópia com outro nome, local ou formato compatível.|Salvar como sempre substitui todas as versões sem escolha.|O comando permite definir destino e formato.
+PDF|Exportar para PDF produz formato de distribuição, sem equivaler a simples troca de extensão.|Trocar .docx por .pdf no Explorador realiza a mesma exportação.|O formato precisa ser gerado pelo aplicativo.
+Impressão|A visualização de impressão ajuda a conferir páginas e configuração antes de imprimir.|Visualização de impressão imprime imediatamente sem comando posterior.|Prévia e impressão são etapas distintas.
+Seleção de páginas|Configurar impressão de páginas específicas não exclui as demais do documento.|Imprimir apenas a página 2 apaga automaticamente as páginas 1 e 3.|O recorte atua na saída impressa.
+Quebra de página|Ctrl+Enter insere quebra de página no Word.|Ctrl+Enter aplica necessariamente negrito no Word.|O atalho insere quebra de página.
+Fechar|Fechar um documento não equivale necessariamente a fechar todos os documentos do Word.|Fechar um documento sempre encerra toda instância de todos os aplicativos.|Documento e aplicativo têm escopos diferentes.
+Não salvo|Fechar documento com alterações não salvas pode solicitar decisão de salvamento.|O Word garante preservação integral de todo conteúdo nunca salvo em qualquer condição.|A recuperação não substitui salvamento adequado.
+Compatibilidade|Salvar em formato antigo pode limitar recursos recentes.|Todo formato antigo preserva necessariamente todos os recursos do DOCX.|Compatibilidade pode implicar perda de funcionalidades.
+Proteção|Restringir edição pode limitar alterações conforme configuração de proteção.|Restringir edição significa converter automaticamente o texto em imagem.|Proteção e conversão de formato são funções distintas.
+@i-word-referencias
+Sumário|Um sumário automático pode usar estilos de título para organizar entradas.|Um sumário automático depende exclusivamente do texto estar em negrito.|Estilos de título fornecem estrutura para o sumário.
+Atualizar|Alterar títulos pode exigir atualizar o sumário.|O sumário automático nunca precisa ser atualizado após alterações.|A atualização incorpora mudanças de estrutura e páginas.
+Notas|Notas de rodapé aparecem associadas a referências no texto.|Nota de rodapé é obrigatoriamente um cabeçalho repetido em todas as páginas.|Nota e cabeçalho têm funções distintas.
+Bibliografia|Citações e bibliografia podem ser gerenciadas pela guia Referências.|Bibliografia só pode ser criada na guia Correspondências por mala direta.|Referências reúne recursos de fontes e citações.
+Legenda|Legendas identificam objetos e podem apoiar uma lista de ilustrações.|Legenda de figura é o mesmo recurso que verificação ortográfica.|A legenda vincula identificação ao objeto.
+Mala direta|Mala direta combina documento principal e fonte de dados.|Mala direta exige escrever manualmente todo documento para cada destinatário.|O recurso automatiza documentos personalizados.
+Campos|Campos de mesclagem inserem dados correspondentes de cada registro.|Campos de mesclagem apagam obrigatoriamente todos os registros.|Eles vinculam o documento aos dados.
+Destinatários|Uma fonte de destinatários pode ser uma planilha compatível.|Mala direta proíbe qualquer uso de planilha como fonte.|O Word aceita fontes compatíveis como planilhas.
+Prévia|Visualizar resultados permite conferir personalização antes de concluir a mesclagem.|Visualizar resultados é sempre envio definitivo sem revisão possível.|A prévia permite conferir dados e apresentação.
+Filtro|Filtrar destinatários limita registros usados na mesclagem.|Filtrar destinatários exclui necessariamente os registros da fonte original.|O filtro define participação na operação, não exclusão dos dados.
+@i-word-revisao
+Ortografia|O corretor depende do idioma configurado e não garante revisão semântica completa.|Ausência de marcação ortográfica garante ausência de qualquer erro de sentido.|Ferramentas automáticas não substituem revisão contextual.
+Idioma|Definir idioma de revisão pode mudar regras usadas pelo corretor.|Definir idioma traduz automaticamente todo o texto.|Idioma de revisão e tradução são funções diferentes.
+Contagem|A contagem de palavras pode considerar um trecho selecionado.|A contagem de palavras só pode considerar todos os arquivos do computador.|A seleção pode delimitar o trecho contado.
+Alterações|Controlar Alterações registra modificações feitas no documento.|Controlar Alterações impede obrigatoriamente qualquer edição.|O recurso acompanha edições, não as impede por si só.
+Ocultar marcação|Ocultar marcações não equivale a aceitar ou rejeitar alterações.|Selecionar Sem Marcação aceita definitivamente todas as alterações.|Exibição e resolução das alterações são diferentes.
+Aceitar|Aceitar uma alteração incorpora a mudança ao texto revisado.|Aceitar alteração remove necessariamente o documento.|A aceitação resolve a marca de revisão.
+Rejeitar|Rejeitar uma inserção controlada retira essa mudança.|Rejeitar inserção controlada confirma sua incorporação.|Rejeição desfaz a mudança examinada.
+Comentário|Comentário pode registrar observação sem necessariamente substituir o texto.|Todo comentário altera automaticamente o conteúdo principal.|Comentário é anotação associada ao documento.
+Sinônimos|O recurso de sinônimos sugere alternativas que devem ser avaliadas no contexto.|Todo sinônimo sugerido é adequado em qualquer frase.|O usuário precisa verificar sentido e registro.
+Ajuda|A Ajuda pode orientar localização e uso de comandos.|Abrir a Ajuda apaga o documento atual.|A função fornece orientação de uso.
+@i-word-exibir
+Zoom|Alterar zoom muda a visualização, sem alterar por si só tamanho da fonte impressa.|Zoom de 200% dobra obrigatoriamente a fonte no papel.|Zoom é ampliação de tela.
+Layout de impressão|Layout de Impressão mostra organização compatível com páginas impressas.|Layout de Impressão exibe necessariamente o documento como página web.|Os modos de exibição têm finalidades distintas.
+Régua|A régua pode auxiliar no ajuste de recuos e tabulações.|A régua do Word serve exclusivamente para medir espaço livre no disco.|Ela apoia formatação e posicionamento.
+Orientação|Orientação paisagem muda disposição da página, não o idioma do texto.|Mudar para paisagem traduz automaticamente o documento.|Orientação é configuração de página.
+Margens|Alterar margens pode modificar a distribuição de texto nas páginas.|Margens mudam apenas a cor dos caracteres.|Margens delimitam área de conteúdo.
+Quebra de seção|Quebras de seção podem permitir configurações diferentes entre partes do documento.|Quebra de seção e quebra de linha são sempre a mesma operação.|Seções permitem configurações próprias.
+Navegação|O Painel de Navegação pode auxiliar busca e acesso a títulos.|O Painel de Navegação é exclusivamente a lista de impressoras.|Ele facilita movimentação pelo documento.
+Dividir janela|Dividir a janela permite visualizar partes do mesmo documento.|Dividir janela cria obrigatoriamente dois arquivos independentes.|A divisão afeta a exibição, não a identidade do arquivo.
+Múltiplas janelas|Exibir duas janelas do documento não significa criar duas cópias salvas.|Cada janela aberta gera automaticamente novo documento com outro nome.|Janelas podem mostrar o mesmo arquivo.
+Espaçamento|Espaçamento de parágrafo altera a composição do texto e pode afetar impressão.|Espaçamento de parágrafo é apenas zoom sem efeito na paginação.|A formatação afeta a estrutura do documento.
+@i-excel-ambiente
+Célula|A célula C5 fica na coluna C e linha 5.|A célula C5 fica na coluna 5 e linha C.|No estilo A1, letras representam colunas e números representam linhas.
+Planilha|Planilha é uma grade dentro de uma pasta de trabalho.|Planilha é obrigatoriamente o mesmo objeto que todo arquivo de pasta de trabalho.|Uma pasta pode conter várias planilhas.
+Pasta|Uma pasta de trabalho pode reunir múltiplas planilhas.|Cada pasta de trabalho só pode conter uma planilha.|O arquivo é um conjunto de planilhas.
+Intervalo|A1:B3 representa seis células.|A1:B3 representa apenas duas células.|São duas colunas por três linhas.
+Seleção|A célula ativa recebe a digitação ou edição usual.|Todas as células não selecionadas recebem obrigatoriamente toda digitação.|A célula ativa determina o destino.
+Caixa de nome|A Caixa de Nome pode mostrar endereço da célula ativa.|A Caixa de Nome apresenta apenas a senha da pasta.|Ela identifica referência ou nome definido.
+Barra de fórmulas|A barra de fórmulas pode mostrar e editar conteúdo da célula ativa.|A barra de fórmulas só exibe o nome da impressora.|Ela permite examinar valores e fórmulas.
+Abas|Abas de planilhas permitem alternar entre folhas da pasta.|Abas são sempre aplicativos separados sem relação com o arquivo.|As folhas pertencem à pasta de trabalho.
+Colunas|Selecionar cabeçalho de coluna seleciona a coluna.|Selecionar cabeçalho de coluna apaga toda a pasta.|Seleção e exclusão são operações distintas.
+Formato visual|Uma célula formatada como moeda pode conter valor numérico utilizável em cálculo.|Formatar moeda converte necessariamente todo número em texto.|Formato de exibição não necessariamente muda o tipo do valor.
+@i-excel-arquivos
+XLSX|XLSX é formato comum de pasta de trabalho sem macros VBA.|XLSX preserva sempre macros VBA incorporadas.|Para macros VBA, usa-se formato compatível como XLSM.
+XLSM|XLSM permite pasta de trabalho habilitada para macros.|XLSM é exclusivamente formato de imagem.|A extensão corresponde a pasta habilitada para macros.
+CSV|CSV normalmente guarda dados de uma folha em texto, sem preservar toda formatação da pasta.|CSV preserva necessariamente todas as planilhas, gráficos e macros.|O formato textual tem limitações.
+Renomear folha|Renomear uma planilha altera seu nome, não necessariamente o nome do arquivo.|Renomear uma planilha renomeia automaticamente o arquivo no disco.|Planilha e pasta são objetos distintos.
+Excluir folha|Excluir uma planilha pode remover seus dados da pasta.|Excluir uma planilha apenas oculta suas células sem risco de perda.|Exclusão não equivale a ocultação.
+Salvar como|Salvar como permite gerar outra pasta com nome ou formato escolhido.|Salvar como só pode manter o mesmo nome e formato.|O comando permite definir outro destino.
+PDF|Exportar para PDF produz saída de distribuição e não preserva edição de fórmulas como planilha.|Exportar PDF mantém todas as fórmulas editáveis como no XLSX.|O PDF não é uma pasta editável de planilhas.
+Área de impressão|Definir área de impressão limita a saída, sem excluir células externas.|Definir área de impressão apaga células fora dela.|A definição atua sobre a impressão.
+Mover folha|Uma planilha pode ser movida ou copiada entre pastas compatíveis.|Planilhas nunca podem ser copiadas para outra pasta.|A operação é oferecida pelo Excel.
+Arquivo fechado|Fechar pasta com alterações pode exigir escolha de salvamento.|Fechar sempre salva todas as mudanças sem qualquer configuração.|A preservação depende do salvamento.
+@i-excel-formulas
+Precedência|A fórmula =2+3*4 resulta em 14.|A fórmula =2+3*4 resulta em 20.|A multiplicação precede a adição.
+Parênteses|A fórmula =(2+3)*4 resulta em 20.|A fórmula =(2+3)*4 resulta em 14.|Parênteses alteram a ordem de cálculo.
+Soma|Com A1=4, A2=6 e A3=10, =SOMA(A1:A3) resulta em 20.|Com A1=4, A2=6 e A3=10, =SOMA(A1:A3) resulta em 10.|A função soma os três valores.
+Média|Com A1=2, A2=8 e A3 vazia, =MÉDIA(A1:A3) resulta em 5.|Com A1=2, A2=8 e A3 vazia, =MÉDIA(A1:A3) resulta em 10/3.|Célula vazia não entra no divisor nesse caso.
+Zero|Com A1=2, A2=8 e A3=0, =MÉDIA(A1:A3) resulta em 10/3.|Com A1=2, A2=8 e A3=0, =MÉDIA(A1:A3) resulta em 5.|Zero numérico entra no cálculo da média.
+Condicional|Com A1=7, =SE(A1>=7;"Aprovado";"Revisar") retorna “Aprovado”.|Com A1=7, =SE(A1>=7;"Aprovado";"Revisar") retorna “Revisar”.|O operador >= inclui igualdade.
+Contagem|CONT.NÚM conta células numéricas, não todo texto existente no intervalo.|CONT.NÚM conta obrigatoriamente todas as células de texto.|A função distingue valores numéricos.
+Concatenação|Com A1 contendo Ana e B1 contendo Lima, =A1&" "&B1 produz “Ana Lima”.|Com A1 contendo Ana e B1 contendo Lima, =A1&" "&B1 realiza multiplicação.|O operador & concatena conteúdos.
+Divisão por zero|Dividir número por zero gera erro #DIV/0!.|Dividir número por zero gera sempre resultado numérico zero.|A operação não tem resultado numérico válido nesse cálculo.
+Comparação|O operador <> significa diferente de.|O operador <> significa menor ou igual.|Os operadores de comparação têm significados específicos.
+@i-excel-referencias
+Relativa|Ao copiar =A1 de B1 para B2, a referência passa a =A2.|Ao copiar =A1 de B1 para B2, a referência passa a =$A$1.|Uma linha abaixo altera a linha relativa.
+Absoluta|Ao copiar =$A$1, linha e coluna permanecem fixas.|Ao copiar =$A$1, os cifrões são necessariamente removidos.|Os cifrões fixam coluna e linha.
+Coluna fixa|Em $A1, a coluna é fixa e a linha é relativa.|Em $A1, a linha é fixa e a coluna é relativa.|O cifrão antecede a coluna.
+Linha fixa|Em A$1, a linha é fixa e a coluna é relativa.|Em A$1, a coluna é fixa e a linha é relativa.|O cifrão antecede a linha.
+Cópia horizontal|Copiar =A1 de B1 para C1 transforma a referência em =B1.|Copiar =A1 de B1 para C1 transforma a referência em =A2.|O deslocamento é de uma coluna.
+Mista horizontal|Copiar =$A1 de B1 para C1 mantém =$A1.|Copiar =$A1 de B1 para C1 transforma em =$B1.|A coluna A está fixada.
+Mista vertical|Copiar =A$1 de B2 para B3 mantém =A$1.|Copiar =A$1 de B2 para B3 transforma em =A$2.|A linha 1 está fixada.
+Cópia diagonal|Copiar =$A2+B$1 de C2 para D3 resulta em =$A3+C$1.|Copiar =$A2+B$1 de C2 para D3 resulta em =$B3+C$2.|Só as partes relativas acompanham o deslocamento.
+Planilha|='Dados'!A1 referencia célula A1 na planilha Dados.|='Dados'!A1 referencia obrigatoriamente arquivo chamado A1 no Windows.|O ponto de exclamação separa nome da folha e endereço.
+F4|Durante edição de referência, F4 pode alternar tipos relativos, absolutos e mistos.|F4 durante edição de referência soma automaticamente todos os valores da pasta.|O atalho altera fixação da referência.
+@i-excel-guias
+Fórmulas|A guia Fórmulas oferece recursos relacionados a funções e auditoria.|A guia Fórmulas se destina exclusivamente a imprimir envelopes.|Ela reúne ferramentas de cálculo.
+Dados|Ordenação e filtros são recursos associados à guia Dados.|A guia Dados proíbe qualquer classificação de valores.|Ela organiza operações de tratamento de dados.
+Filtro|Aplicar filtro oculta temporariamente linhas fora do critério, sem excluí-las.|Aplicar filtro apaga definitivamente linhas fora do critério.|Filtrar e excluir são ações diferentes.
+Ordenação|Ordenar só uma coluna sem manter a associação pode desorganizar registros.|Ordenar qualquer coluna isolada sempre preserva as relações entre todos os campos.|Linhas de um registro precisam permanecer associadas.
+Formato|Formatar como percentual muda a apresentação do valor.|Formatar como percentual sempre multiplica por cem o valor interno armazenado.|Formato de exibição e valor interno são distintos.
+Condicional|Formatação condicional pode destacar células segundo regras.|Formatação condicional apaga valores que não satisfazem a regra.|Ela altera aparência, não exclui os dados.
+Congelar|Congelar painéis mantém linhas ou colunas visíveis durante rolagem.|Congelar painéis impede toda edição das células.|Congelamento é recurso de exibição.
+Validação|Validação de dados pode restringir entradas e oferecer listas.|Validação garante por si só que qualquer dado aceito corresponde à realidade.|A regra de entrada não comprova veracidade.
+Proteção|Proteger planilha pode restringir edição de células bloqueadas.|Proteger planilha é necessariamente criptografar todo arquivo com segurança equivalente.|Proteção de edição e criptografia são recursos distintos.
+Ajuda|A Ajuda orienta localização e uso de comandos do Excel.|A Ajuda substitui automaticamente todas as fórmulas por resultados.|Ela fornece orientação, não essa alteração automática.
+@i-chrome-ambiente
+Abas|Uma janela do Chrome pode conter várias abas.|Cada aba exige necessariamente uma janela separada.|Abas organizam páginas dentro da janela.
+Nova aba|Ctrl+T abre nova aba no Chrome para Windows.|Ctrl+T limpa todo o histórico no Chrome.|O atalho abre aba.
+Fechar aba|Ctrl+W pode fechar a aba atual.|Ctrl+W desinstala o navegador.|O atalho encerra a aba em foco.
+Restaurar|Ctrl+Shift+T pode reabrir aba fechada recentemente.|Ctrl+Shift+T apaga todos os favoritos.|O atalho reabre abas fechadas.
+Endereço|A barra de endereços pode receber URL ou consulta ao mecanismo de pesquisa.|A barra de endereços só aceita caminhos de arquivos do Windows.|Ela permite navegação e busca.
+Recarregar|Recarregar solicita novamente a página, sem apagar necessariamente todos os dados de navegação.|Recarregar apaga sempre histórico, cookies e senhas.|Recarregamento e limpeza são operações distintas.
+Localizar|Ctrl+F procura texto na página atual.|Ctrl+F pesquisa obrigatoriamente todas as páginas da internet.|A busca é no conteúdo da página atual.
+URL|O domínio ajuda a identificar o site, e partes após ele podem indicar caminhos.|Qualquer palavra famosa presente em qualquer parte da URL comprova domínio oficial.|É necessário examinar a estrutura do endereço.
+HTTPS|HTTPS indica conexão criptografada, sem garantir a honestidade de todo conteúdo.|HTTPS garante que o site não pode ser fraudulento.|Proteção da conexão e confiança no conteúdo são diferentes.
+Downloads|O navegador pode abrir ou baixar arquivo conforme tipo e configuração.|Toda navegação transfere um arquivo editável para a pasta Documentos.|O comportamento depende do recurso acessado.
+@i-chrome-funcoes
+Favoritos|Adicionar favorito guarda referência à página, sem cópia integral obrigatória.|Adicionar favorito baixa necessariamente todo o site para uso offline.|Favorito é referência de navegação.
+Histórico|Histórico registra acessos conforme configuração e modo de navegação.|Histórico é o mesmo conjunto que os arquivos baixados.|Visitas e downloads são registros distintos.
+Anônimo|Navegação anônima limita registros locais, sem garantir anonimato perante sites e rede.|Navegação anônima impede qualquer identificação pelo site e pelo provedor.|Ela não garante anonimato na internet.
+Arquivos baixados|Arquivos baixados em sessão anônima podem permanecer no dispositivo.|Fechar sessão anônima apaga obrigatoriamente todos os arquivos baixados.|Downloads salvos não são eliminados automaticamente.
+Favoritos anônimos|Favorito criado durante sessão anônima pode permanecer após seu encerramento.|Sessão anônima impede qualquer criação persistente de favorito.|Favoritos podem ser preservados.
+Cookies|Cookies podem manter sessão e preferências de um site.|Todo cookie é necessariamente um vírus executável.|Cookies armazenam dados usados pelos sites.
+Cache|Cache pode guardar recursos para acelerar carregamentos.|Limpar cache apaga necessariamente todos os documentos pessoais do disco.|Cache do navegador e arquivos pessoais são diferentes.
+Lista de downloads|Remover entrada da lista de downloads não equivale necessariamente a excluir o arquivo salvo.|Remover entrada da lista de downloads sempre apaga o arquivo no disco.|Registro da lista e arquivo são objetos distintos.
+Extensões|Extensões podem adicionar recursos e exigir permissões.|Toda extensão é isenta de risco por estar instalada no navegador.|É necessário avaliar origem e permissões.
+Atualização|Atualizações do navegador podem corrigir falhas e mudar recursos.|Atualização do navegador torna dispensável toda atenção a sites fraudulentos.|Atualizar não elimina todos os riscos de navegação.
+@i-firefox-ambiente
+Janela|O Firefox permite organizar páginas em abas.|O Firefox só pode apresentar uma página por execução.|Há suporte a múltiplas abas.
+Barra|A barra de endereços pode receber endereço ou pesquisa.|A barra de endereços só exibe o nome do usuário do Windows.|Ela permite navegação e busca.
+Nova aba|Ctrl+T abre nova aba no Firefox para Windows.|Ctrl+T imprime obrigatoriamente a página.|O atalho abre uma aba.
+Nova janela|Ctrl+N pode abrir nova janela do navegador.|Ctrl+N apaga o Firefox do computador.|O atalho abre janela.
+Aba fechada|Ctrl+Shift+T pode reabrir aba recentemente fechada.|Ctrl+Shift+T limpa automaticamente a Lixeira do Windows.|O comando se refere ao histórico de abas.
+Localizar|Ctrl+F busca texto na página.|Ctrl+F muda necessariamente o mecanismo de pesquisa padrão.|A localização é interna à página.
+Biblioteca|Favoritos e histórico são categorias diferentes de organização da navegação.|Todo item do histórico se torna automaticamente favorito.|Favorito exige ação ou mecanismo de marcação.
+Favorito|Ctrl+D pode adicionar favorito da página atual.|Ctrl+D exclui obrigatoriamente a página da internet.|O comando marca a página.
+Zoom|O zoom altera a apresentação da página no navegador.|Aumentar zoom modifica necessariamente o conteúdo publicado pelo site.|A mudança ocorre na visualização local.
+Atualizar página|Recarregar a página não equivale a instalar atualização do Firefox.|Recarregar instala automaticamente uma nova versão do navegador.|Página e aplicativo são objetos diferentes.
+@i-firefox-funcoes
+Privativa|Navegação privativa reduz registros locais, sem tornar o usuário invisível à rede.|Navegação privativa garante anonimato absoluto perante provedor e sites.|O modo não elimina observação externa.
+Atalho privativo|Ctrl+Shift+P abre janela privativa no Firefox para Windows.|Ctrl+Shift+P abre sempre janela anônima do Chrome dentro do Firefox.|O atalho pertence ao Firefox.
+Rastreamento|Proteções contra rastreamento podem bloquear mecanismos, sem garantir bloquear toda coleta possível.|Proteção contra rastreamento garante impossibilidade de qualquer coleta de dados.|A proteção não é absoluta.
+Cookies|Bloquear ou limpar cookies pode exigir novo login em sites.|Limpar cookies mantém obrigatoriamente todas as sessões autenticadas.|Cookies podem sustentar sessões.
+Cache|Limpar cache pode exigir novo download de recursos de páginas.|Limpar cache impede definitivamente todo acesso à internet.|A limpeza remove recursos locais temporários.
+Permissão|Permissões de câmera e microfone podem ser controladas por site.|Todo site tem acesso automático irrestrito a câmera e microfone.|O navegador gerencia permissões.
+Extensão|Complementos podem acrescentar funções e devem ser avaliados quanto às permissões.|Complementos nunca têm acesso a dados de navegação.|O alcance depende de permissões e função.
+Downloads|Apagar registro de download pode preservar o arquivo salvo.|Apagar histórico de downloads sempre destrói o arquivo físico.|Registro e arquivo são distintos.
+Senhas|Senhas salvas são dados sensíveis e devem ser protegidos.|Salvar senha torna impossível qualquer acesso indevido ao dispositivo.|Proteção local e acesso à conta continuam relevantes.
+Favoritos|Favoritos podem ser organizados e exportados por recursos apropriados.|Favoritos nunca podem ser organizados nem transferidos.|O navegador oferece ferramentas de gestão.

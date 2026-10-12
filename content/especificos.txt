@@ -1,0 +1,418 @@
+@e-rotinas
+Padronização|Um procedimento padronizado reduz variações e precisa ser revisto quando o processo muda.|Padronizar proíbe qualquer revisão futura do procedimento.|Padrões devem acompanhar o processo.
+Registro|Registrar recebimento, responsável e prazo favorece rastreabilidade.|Rastreabilidade depende apenas da memória do atendente.|Registros permitem acompanhar a trajetória.
+Prioridade|Urgência, prazo e impacto ajudam a priorizar tarefas.|A prioridade deve depender exclusivamente de quem pediu primeiro, em qualquer situação.|A priorização considera critérios pertinentes.
+Segregação|Separar solicitação, autorização e conferência pode reduzir risco de erro e fraude.|Concentrar todas as etapas sem conferência elimina risco de fraude.|A segregação cria controles independentes.
+Conferência|Conferir documentação antes do encaminhamento evita devoluções previsíveis.|Conferência prévia nunca tem relação com retrabalho.|A verificação identifica falhas antecipadamente.
+Fluxo|Conhecer entrada, etapas e saída ajuda a localizar gargalos.|Um gargalo só pode existir na última etapa.|Gargalos podem ocorrer em diferentes etapas.
+Responsável|Cada tarefa deve ter responsabilidade definida para facilitar acompanhamento.|Responsabilidade indefinida garante execução mais rápida.|A definição evita lacunas e duplicidade.
+Prazo|Um prazo deve considerar exigência e capacidade de execução.|Definir prazo impossível sempre melhora qualidade.|Prazos precisam ser acompanhados e viáveis.
+Continuidade|Passagem de tarefas deve preservar informações essenciais e pendências.|A troca de turno dispensa informar pendências.|A continuidade depende de informação.
+Indicador|Tempo médio de processamento pode revelar demora de rotina administrativa.|Contar somente elogios substitui qualquer medida de tempo.|Indicadores devem se relacionar ao objetivo.
+@e-planejamento
+Objetivo|Planejar inclui definir resultados e meios para alcançá-los.|Planejar consiste apenas em avaliar resultados passados.|O planejamento orienta a ação futura.
+Estratégico|Planejamento estratégico considera direção geral e horizonte mais amplo.|Planejamento estratégico se resume ao horário de uma tarefa diária.|O nível estratégico trata a organização.
+Tático|Planos departamentais podem traduzir estratégia para áreas da organização.|Planejamento tático não se relaciona com estratégia.|O nível tático desdobra a estratégia.
+Operacional|Rotinas, cronogramas e procedimentos detalhados integram planejamento operacional.|Planejamento operacional define exclusivamente missão institucional.|Ele detalha execução.
+Meta|Uma meta mensurável permite comparar resultado esperado e realizado.|Uma meta sem critério de medição é sempre mais fácil de avaliar.|A mensuração facilita acompanhamento.
+SWOT interna|Forças e fraquezas na SWOT dizem respeito ao ambiente interno.|Forças e fraquezas são exclusivamente fatores externos.|A análise distingue ambiente interno e externo.
+SWOT externa|Oportunidades e ameaças dizem respeito ao ambiente externo.|Oportunidades e ameaças são sempre recursos internos controláveis.|São condições externas relevantes.
+Contingência|Plano de contingência prepara respostas a situações adversas possíveis.|Plano de contingência garante que nenhum imprevisto ocorrerá.|Preparação não elimina incerteza.
+Recursos|Planejamento deve relacionar metas a recursos e restrições.|Planejamento eficaz ignora limites de recursos.|A viabilidade depende de recursos.
+Revisão|Mudanças relevantes podem exigir revisão do plano.|Um plano aprovado nunca pode ser ajustado.|Planejamento pode ser adaptado.
+@e-organizacao
+Divisão|Organizar inclui dividir trabalho e atribuir responsabilidades.|Organizar corresponde apenas a motivar pessoas.|Organização estrutura trabalho e recursos.
+Estrutura|Organograma representa relações formais da estrutura.|Organograma registra necessariamente todos os vínculos informais.|Ele retrata a estrutura formal.
+Departamentalização|Agrupar atividades por funções é departamentalização funcional.|Agrupar por funções é obrigatoriamente departamentalização geográfica.|O critério de agrupamento define o tipo.
+Autoridade|Delegar autoridade não elimina automaticamente a responsabilidade do delegante.|Delegar torna o delegante isento de qualquer responsabilidade.|Delegação mantém acompanhamento.
+Centralização|Concentrar decisões no topo caracteriza centralização.|Centralização significa autonomia decisória ampla de todas as unidades.|É concentração do poder de decisão.
+Descentralização|Distribuir decisão entre níveis pode aumentar rapidez local.|Descentralização exige ausência de todo controle.|Autonomia e controle podem coexistir.
+Amplitude|Amplitude de controle refere-se ao número de subordinados acompanhados diretamente.|Amplitude de controle é o número de arquivos guardados.|A medida se refere à supervisão.
+Formalização|Regras e procedimentos documentados elevam formalização.|Formalização equivale à ausência de normas.|É explicitação de regras e procedimentos.
+Linha e assessoria|Assessoria oferece apoio especializado sem necessariamente exercer comando de linha.|Toda assessoria exerce automaticamente comando sobre todos os setores.|A função de apoio difere da autoridade de linha.
+Coordenação|Coordenação integra tarefas interdependentes.|Coordenação exige que setores interdependentes nunca troquem informação.|A integração evita desajustes.
+@e-direcao
+Função|Direção envolve orientar, comunicar e mobilizar pessoas.|Direção consiste exclusivamente em distribuir móveis.|A função trata condução das pessoas.
+Motivação|Motivação não se reduz automaticamente a remuneração.|Qualquer aumento salarial resolve necessariamente toda dificuldade de motivação.|Há diferentes fatores motivacionais.
+Comunicação|Orientação eficaz deve ser compreendida pelo destinatário.|Enviar a orientação prova, por si só, que houve entendimento.|O entendimento precisa ser verificado.
+Feedback|Feedback específico sobre comportamento favorece melhoria.|Feedback eficaz consiste apenas em atacar a personalidade.|A devolutiva deve tratar fatos observáveis.
+Liderança|Influenciar a equipe pode ocorrer sem depender exclusivamente do cargo.|Só quem tem cargo formal consegue exercer influência.|Liderança pode ser formal ou informal.
+Participação|Ouvir a equipe pode melhorar decisões sem eliminar responsabilidade da chefia.|Ouvir a equipe torna a chefia automaticamente irresponsável pela decisão.|Participação e responsabilidade são compatíveis.
+Orientação|Uma ordem deve explicitar resultado, prazo e limites relevantes.|Uma ordem vaga garante interpretação uniforme.|Clareza reduz erros de execução.
+Conflito|A direção pode mediar divergências com foco em tarefas e respeito.|Todo conflito deve ser tratado com humilhação pública.|A mediação busca solução responsável.
+Autonomia|Autonomia deve considerar competência e recursos disponíveis.|Autonomia significa ausência de responsabilidade.|Autonomia pressupõe condições e prestação de contas.
+Acompanhamento|Acompanhar não exige controlar cada detalhe irrelevante continuamente.|Dirigir exige vigiar cada movimento sem considerar objetivo.|A supervisão deve ser proporcional.
+@e-controle
+Padrão|Controle compara resultados com padrões ou metas.|Controle consiste apenas em definir missão futura.|A comparação orienta avaliação.
+Desvio|Identificar desvio não basta; é preciso analisar causa e resposta.|Todo desvio deve gerar punição sem análise.|A causa orienta correção.
+Preventivo|Conferir requisitos antes da execução pode ser controle preventivo.|Controle preventivo só pode ocorrer depois do dano.|A prevenção atua antes.
+Concomitante|Acompanhar fila durante atendimento é controle durante a execução.|Acompanhamento durante execução é sempre controle exclusivamente posterior.|O controle concomitante atua no processo.
+Posterior|Avaliar resultado após encerramento é controle posterior.|Controle posterior impede qualquer aprendizado futuro.|Os resultados podem orientar melhorias.
+Eficiência|Produzir o mesmo resultado com menos recursos pode indicar maior eficiência.|Eficiência significa sempre cumprir qualquer meta, ignorando recursos.|Eficiência relaciona resultado e recursos.
+Eficácia|Atingir o resultado definido indica eficácia.|Eficácia exige necessariamente o menor custo possível.|Eficácia trata alcance do objetivo.
+Efetividade|Avaliar impacto sobre o problema ajuda a examinar efetividade.|Efetividade equivale exclusivamente a contar documentos emitidos.|Impacto e produção não são equivalentes.
+Indicadores|Indicadores precisam de definição, fonte e periodicidade.|Todo número isolado é indicador suficiente sem contexto.|A medida deve ser interpretável.
+Ação corretiva|Corrigir causa recorrente pode evitar repetição do desvio.|Ação corretiva eficaz exige esconder o desvio.|A análise permite reduzir recorrência.
+@e-financas
+Orçamento|Orçamento prevê receitas e despesas para um período.|Orçamento é apenas registro de pagamentos já realizados.|Ele apoia planejamento financeiro.
+Caixa|Fluxo de caixa acompanha entradas e saídas de recursos no tempo.|Lucro e saldo de caixa são necessariamente idênticos.|Competência e movimentação de caixa diferem.
+Liquidez|Liquidez relaciona-se à capacidade de cumprir obrigações no prazo.|Liquidez equivale exclusivamente ao tamanho físico do patrimônio.|A capacidade de pagamento depende de recursos disponíveis.
+Prazo|Receber depois de pagar pode gerar necessidade de capital de giro.|Uma operação lucrativa nunca pode gerar falta temporária de caixa.|Descompasso temporal pode exigir financiamento.
+Custo fixo|Aluguel mensal pode ser custo fixo dentro de determinada faixa de atividade.|Todo custo fixo varia proporcionalmente a cada atendimento.|A classificação depende do comportamento no período.
+Custo variável|Consumo de materiais pode variar com o volume de serviços.|Materiais consumidos são necessariamente fixos em qualquer processo.|O comportamento acompanha atividade.
+Resultado|Receita de 12.000 e despesas de 9.500 produzem resultado de 2.500, nesse recorte.|Receita de 12.000 e despesas de 9.500 produzem resultado de 21.500.|O resultado é a diferença.
+Desconto|Um desconto de 15% em 200 reduz o preço para 170.|Um desconto de 15% em 200 reduz o preço para 185.|Quinze por cento de 200 são 30.
+Conciliação|Conciliação compara registros com extratos e documentos para identificar diferenças.|Conciliação consiste em alterar registros para esconder divergências.|A finalidade é verificar consistência.
+Controle|Autorização e comprovação ajudam a controlar despesas.|Toda despesa se torna regular apenas por ter valor pequeno.|A regularidade depende de procedimento e documentação.
+@e-pessoas
+Competências|Gestão por competências relaciona conhecimentos, habilidades e atitudes às atividades.|Competência significa somente diploma, sem aplicação prática.|A abordagem considera diferentes dimensões.
+Recrutamento|Recrutamento busca atrair candidatos; seleção avalia adequação.|Recrutamento e seleção são sempre a mesma etapa.|As funções se complementam.
+Integração|Integração do novo trabalhador esclarece tarefas, equipe e procedimentos.|Integração consiste em exigir execução sem nenhuma orientação.|A entrada exige informação pertinente.
+Treinamento|Treinamento pode atender lacunas específicas de desempenho.|Treinamento deve ignorar necessidades identificadas.|O diagnóstico orienta a ação.
+Desenvolvimento|Desenvolvimento pode preparar capacidades de médio e longo prazo.|Desenvolvimento se limita a corrigir erro de digitação imediato.|Tem alcance mais amplo.
+Avaliação|Critérios claros tornam avaliação de desempenho mais consistente.|Avaliação deve depender apenas de amizade com a chefia.|A avaliação precisa de critérios pertinentes.
+Feedback|A devolutiva pode incluir pontos fortes e necessidades de melhoria.|Feedback só é válido quando não apresenta exemplos.|Exemplos permitem compreender ajustes.
+Clima|Clima organizacional envolve percepções sobre o ambiente de trabalho.|Clima organizacional é exclusivamente temperatura da sala.|O conceito se refere a percepções compartilhadas.
+Dimensionamento|Dimensionar pessoal considera demanda, tarefas e capacidade.|Dimensionamento deve ignorar volume de trabalho.|A alocação depende das necessidades.
+Equidade|Decisões de gestão devem evitar discriminação e favorecimentos indevidos.|Gestão de pessoas permite favorecimento pessoal irrestrito.|Critérios justos apoiam o trabalho.
+@e-relacoes
+Escuta|Escuta ativa inclui atenção e verificação de entendimento.|Escuta ativa exige interromper antes de compreender.|A escuta busca entender a mensagem.
+Empatia|Empatia procura compreender a perspectiva do outro sem exigir concordância com tudo.|Empatia obriga aceitar qualquer pedido sem análise.|Compreensão não elimina critérios.
+Assertividade|Comunicação assertiva pode expressar limites com respeito.|Assertividade exige agressividade e humilhação.|Clareza e respeito são compatíveis.
+Cooperação|Cooperação favorece integração de tarefas interdependentes.|Cooperar significa esconder informações necessárias aos colegas.|Informação compartilhada apoia execução.
+Diferenças|Respeitar diferenças não impede estabelecer regras comuns legítimas.|Respeito às diferenças exige ausência de qualquer regra.|Inclusão e regras podem coexistir.
+Crítica|Criticar uma conduta específica é diferente de desqualificar a pessoa.|Toda crítica de tarefa precisa atacar identidade pessoal.|O foco comportamental favorece melhoria.
+Conflito|Divergência deve ser analisada antes de atribuir má intenção.|Todo desacordo comprova intenção de prejudicar.|Há diferentes causas de conflito.
+Confiança|Cumprir compromissos e admitir falhas favorece confiança.|Confiança cresce necessariamente ao esconder erros.|Coerência e transparência ajudam relações.
+Limites|Limites profissionais podem proteger respeito e responsabilidades.|Relação cordial exige abrir mão de todos os limites.|Cordialidade não elimina limites.
+Preconceito|Estereótipos podem distorcer avaliação de pessoas.|Estereótipos garantem avaliação individual precisa.|Generalizações podem produzir vieses.
+@e-compras
+Necessidade|A compra deve partir de necessidade e especificação adequada.|Comprar primeiro e justificar depois é sempre o procedimento adequado.|Planejamento evita desperdício.
+Especificação|Descrever função e características necessárias favorece comparação.|Descrição ambígua garante propostas equivalentes.|A especificação precisa reduzir ambiguidade.
+Custo total|Preço, transporte, manutenção e vida útil podem compor análise de custo total.|A menor etiqueta de preço garante sempre menor custo total.|Custos posteriores também importam.
+Prazo|Prazo de fornecimento deve ser considerado no planejamento.|Preço baixo torna irrelevante qualquer atraso.|A disponibilidade influencia continuidade.
+Fornecedor|Avaliar capacidade e qualidade ajuda a reduzir risco de fornecimento.|Só a proximidade pessoal deve orientar escolha de fornecedor.|Critérios objetivos apoiam seleção.
+Recebimento|Conferir quantidade e conformidade é necessário no recebimento.|Assinar recebimento dispensa conferir qualquer material.|A entrega precisa corresponder ao pedido.
+Segregação|Solicitar, autorizar e conferir são funções que podem ser segregadas.|Quem solicita deve necessariamente autorizar sem revisão independente.|A separação reduz riscos.
+Registro|Documentar pedido e condições ajuda a acompanhar a compra.|Acordo verbal informal dispensa qualquer registro em toda compra pública.|A rastreabilidade exige documentação.
+Planejamento|Consolidar demandas compatíveis pode apoiar economia e organização.|Toda consolidação de demanda é necessariamente desperdício.|A agregação pode melhorar condições.
+Ética|Conflito de interesses deve ser identificado e tratado.|Receber vantagem pessoal torna a compra automaticamente mais regular.|Integridade exige critérios e controles.
+@e-requisicao
+Finalidade|Requisição registra demanda por material e suas características.|Requisição comprova, por si só, que o material já foi recebido.|Solicitação e recebimento são etapas distintas.
+Quantidade|Quantidade deve considerar consumo, necessidade e estoque disponível.|Quantidade deve ser definida sem examinar estoque ou uso.|A demanda precisa ser fundamentada.
+Identificação|Unidade solicitante e responsável permitem rastrear a demanda.|Requisição deve omitir quem solicita para evitar controle.|A identificação apoia acompanhamento.
+Especificação|Unidade de medida clara evita entregar quantidade inadequada.|“Dez caixas” e “dez unidades” são sempre equivalentes.|A unidade de medida altera a quantidade.
+Autorização|Requisição pode exigir aprovação conforme regras internas.|Toda requisição elimina necessidade de autorização.|O fluxo depende das competências.
+Urgência|Urgência deve ter justificativa, sem substituir todo controle.|Declarar urgência dispensa automaticamente qualquer conferência.|A urgência exige tratamento responsável.
+Padronização|Catálogo de materiais pode reduzir descrições duplicadas.|Catálogo aumenta obrigatoriamente divergências de identificação.|Padronização ajuda a identificar itens.
+Disponibilidade|Uma requisição pode ser atendida do estoque sem exigir nova compra.|Toda requisição obriga nova compra externa.|A disponibilidade existente deve ser verificada.
+Separação|Registrar retirada ajuda a atualizar saldo e responsabilidade.|Retirar material sem registro sempre mantém estoque confiável.|A movimentação altera os controles.
+Prioridade|Demanda deve ser priorizada por critérios de necessidade e impacto.|Prioridade deve depender apenas de amizade com o almoxarife.|Critérios pertinentes evitam favorecimento.
+@e-armazenamento
+Endereçamento|Identificar corredor, estante e posição facilita localizar materiais.|Endereçamento é a atribuição de preço de venda ao material.|O endereço indica a localização física.
+Compatibilidade|Materiais incompatíveis devem ter armazenamento separado conforme risco.|Compatibilidade de armazenamento depende somente da ordem alfabética.|O risco determina condições de separação.
+Peso|Carga e capacidade das prateleiras devem ser respeitadas.|A capacidade da prateleira é apenas informação estética.|A carga influencia segurança.
+Movimentação|Itens de maior giro podem ficar em locais que facilitem retirada segura.|Maior giro indica necessariamente maior valor financeiro do item.|Giro descreve frequência de movimentação.
+Condições|Temperatura e umidade devem atender às exigências do material.|Temperatura e umidade determinam apenas a cor do rótulo.|As condições influenciam conservação.
+Validade|PVPS prioriza saída de itens com vencimento mais próximo.|PVPS prioriza sempre o lote recebido por último, sem considerar validade.|Primeiro que vence, primeiro que sai.
+Quarentena|Material sob dúvida de conformidade pode ficar segregado para avaliação.|Quarentena significa distribuir imediatamente o material suspeito.|A segregação impede uso indevido.
+Acesso|Controle de acesso reduz retirada não autorizada.|Controle de acesso substitui qualquer registro de estoque.|Acesso e movimentação são controles complementares.
+Segurança|Manter corredores livres favorece circulação e resposta a emergência.|Usar corredores como estoque permanente melhora necessariamente segurança.|Passagens precisam permanecer adequadas.
+Layout|Um layout deve considerar fluxo, volume e características dos itens.|Layout é definido exclusivamente pela ordem de compra dos móveis.|A organização física atende ao processo.
+@e-reposicao
+Ponto de pedido|Com consumo de 8 unidades/dia, reposição em 5 dias e segurança de 12, o ponto de pedido é 52 unidades.|Com consumo de 8 unidades/dia, reposição em 5 dias e segurança de 12, o ponto de pedido é 40 unidades.|Ponto de pedido = consumo no prazo + segurança.
+Segurança|Estoque de segurança protege contra variações de demanda e fornecimento.|Estoque de segurança é o consumo médio de todo o ano.|A reserva atende incertezas.
+Prazo|Lead time é o tempo entre acionamento e disponibilidade de reposição, no modelo considerado.|Lead time é necessariamente a quantidade de itens vencidos.|O conceito mede tempo de reposição.
+Posição|Com 30 disponíveis, 20 em pedidos e 8 comprometidos, a posição de estoque é 42.|Com 30 disponíveis, 20 em pedidos e 8 comprometidos, a posição de estoque é 58.|Posição = disponível + pedidos - comprometido.
+Reposição contínua|No sistema contínuo, o nível é acompanhado para acionar reposição ao atingir o ponto.|No sistema contínuo, só se examina estoque uma vez no encerramento anual.|O acompanhamento orienta acionamento por nível.
+Reposição periódica|No sistema periódico, revisões ocorrem em intervalos definidos.|No sistema periódico, todo pedido depende exclusivamente de atingir um nível a qualquer instante.|A revisão tem periodicidade programada.
+Mudança de consumo|Se o consumo aumenta mantendo prazo e segurança, o ponto de pedido tende a aumentar.|Se o consumo aumenta mantendo prazo e segurança, o ponto de pedido tende a diminuir.|A parcela de consumo durante o prazo cresce.
+Atraso|Maior incerteza de fornecimento pode exigir revisão da reserva de segurança.|Maior incerteza reduz necessariamente a necessidade de segurança.|A proteção deve considerar variabilidade.
+Excesso|Reserva muito elevada pode aumentar custo e risco de vencimento.|Elevar a reserva sempre reduz qualquer custo de estoque.|Excesso também tem custos.
+Cobertura|Com 120 unidades e consumo de 10 por dia, a cobertura simples é 12 dias.|Com 120 unidades e consumo de 10 por dia, a cobertura simples é 120 dias.|Cobertura = saldo dividido pelo consumo diário.
+@e-estoques
+Saldo|Com saldo inicial 70, entrada 25 e saída 40, o saldo final é 55.|Com saldo inicial 70, entrada 25 e saída 40, o saldo final é 135.|Saldo final = inicial + entradas - saídas.
+Inventário|Inventário físico confronta quantidades contadas com os registros.|Inventário físico consiste apenas em emitir pedidos de compra.|A contagem verifica existência e saldo.
+Rotativo|Inventário rotativo conta grupos de itens em períodos distribuídos.|Inventário rotativo exige contar todos os itens somente no mesmo dia do ano.|A contagem pode ser organizada por ciclos.
+ABC|A curva ABC pode classificar itens pelo valor de consumo, combinando quantidade e custo.|A curva ABC classifica obrigatoriamente apenas por volume físico.|O critério usual é relevância do valor de consumo.
+Classe A|Itens A concentram parcela relevante do valor de consumo e merecem controle rigoroso.|Itens A são necessariamente os mais numerosos em qualquer estoque.|Valor e quantidade de itens não são equivalentes.
+Giro|Consumo anual de 600 e estoque médio de 100 produzem giro de 6 vezes no ano.|Consumo anual de 600 e estoque médio de 100 produzem giro de 100 vezes.|Giro = consumo dividido pelo estoque médio.
+Acuracidade|Registros compatíveis com quantidades reais indicam boa acuracidade.|Acuracidade significa somente material com aparência nova.|A medida trata confiabilidade do registro.
+Divergência|Uma diferença de contagem deve ser investigada antes de ajuste autorizado.|Toda diferença comprova automaticamente furto.|Há possíveis erros de registro, contagem e movimentação.
+Ruptura|Ruptura é falta de item necessário para atender demanda.|Ruptura é sinônimo de estoque excedente.|Falta e excesso são situações diferentes.
+Obsolescência|Material obsoleto pode perder utilidade mesmo sem vencimento formal.|Todo material sem vencimento mantém utilidade permanente.|Mudança tecnológica ou de necessidade pode gerar obsolescência.
+@e-conservacao
+PVPS|PVPS prioriza vencimento mais próximo.|PVPS significa primeiro comprado, primeiro armazenado.|O critério é a validade.
+PEPS|PEPS prioriza saída do item que entrou primeiro.|PEPS prioriza saída do que entrou por último.|Primeiro que entra, primeiro que sai.
+Diferença|PEPS e PVPS podem escolher lotes diferentes quando entrada e validade não têm a mesma ordem.|PEPS e PVPS sempre escolhem o mesmo lote.|Os critérios de ordenação são diferentes.
+Vencimento|Um lote recebido depois pode precisar sair antes se vencer mais cedo.|Data de recebimento posterior comprova vencimento posterior.|Recebimento e validade não são equivalentes.
+Embalagem|Embalagem danificada pode exigir segregação e avaliação.|Embalagem danificada comprova automaticamente conformidade do conteúdo.|A integridade deve ser avaliada.
+Temperatura|Condições de armazenamento precisam seguir requisitos do produto.|Todo material pode ser mantido em qualquer temperatura.|Os requisitos variam por material.
+Rastreio|Registrar lote favorece localizar itens em recolhimentos.|Lote é apenas nome decorativo sem função de rastreamento.|O lote identifica grupos de produção.
+Validade vencida|Material vencido deve ser tratado conforme normas e responsabilidade, sem distribuição automática.|Material vencido pode ser distribuído automaticamente apenas por ter embalagem fechada.|Validade e condição exigem avaliação adequada.
+Limpeza|Limpeza e controle de pragas ajudam a conservar o estoque.|Controle de pragas substitui todo monitoramento de temperatura.|São controles diferentes e complementares.
+Inspeção|Conservação exige acompanhamento ao longo do armazenamento.|Uma inspeção inicial garante conservação em qualquer condição futura.|Condições podem mudar.
+@e-seguranca
+Risco e perigo|Perigo é fonte potencial de dano; risco considera possibilidade e consequências no contexto.|Risco é apenas o nome do equipamento, sem relação com exposição.|Os conceitos se relacionam, mas não são idênticos.
+Prevenção|Eliminar ou reduzir risco na fonte é preferível a depender apenas de proteção individual.|Distribuir EPI elimina a necessidade de medidas coletivas.|A hierarquia de controles prioriza medidas mais abrangentes.
+EPI|EPI deve ser adequado ao risco e utilizado corretamente.|Qualquer EPI serve igualmente para qualquer risco.|A proteção depende de adequação e uso.
+EPC|Uma proteção coletiva pode alcançar várias pessoas no ambiente.|EPC é equipamento usado exclusivamente no corpo de um trabalhador.|O alcance coletivo distingue EPC de EPI.
+Comunicação|Situação insegura deve ser comunicada para tratamento responsável.|Situação insegura deve ser ocultada se ainda não houve acidente.|Prevenir não exige aguardar dano.
+Incidente|Ocorrência sem lesão pode revelar falha de controle e exigir análise.|Ausência de lesão demonstra que não houve risco.|Quase acidentes também informam prevenção.
+Rota|Rotas de saída precisam estar desobstruídas.|Rota de saída deve servir permanentemente como área de estoque.|A circulação de emergência deve ser preservada.
+Eletricidade|Cabos danificados e sobrecargas exigem avaliação e correção adequada.|Fita decorativa substitui qualquer reparo de instalação danificada.|Riscos elétricos exigem tratamento competente.
+Treinamento|Orientação sobre procedimentos deve ser compatível com os riscos.|Treinamento só é necessário depois de acidente grave.|Capacitação é medida preventiva.
+Responsabilidade|Segurança envolve organização, condições e condutas, além do trabalhador individual.|Todo acidente decorre exclusivamente da personalidade do trabalhador.|A análise precisa considerar o sistema de trabalho.
+@e-ergonomia
+Adaptação|Ergonomia busca adaptar condições de trabalho às características das pessoas.|Ergonomia exige adaptar todas as pessoas a um posto rígido e imutável.|A adequação considera capacidades e necessidades.
+Dimensões|Ergonomia considera aspectos físicos, cognitivos e organizacionais.|Ergonomia trata exclusivamente da altura da cadeira.|O campo é mais amplo.
+Posto|Ajustes de cadeira, apoio e monitor podem reduzir sobrecarga.|Uma única altura de cadeira atende necessariamente a todas as pessoas.|A adequação depende do usuário e da tarefa.
+Repetição|Movimentos repetitivos podem contribuir para sobrecarga.|Repetição nunca se relaciona a risco musculoesquelético.|Frequência, força e duração influenciam exposição.
+Pausa|Pausas e alternância podem integrar organização ergonômica conforme a atividade.|Pausas substituem automaticamente qualquer ajuste do posto.|As medidas se complementam.
+Carga mental|Interrupções frequentes e informação excessiva podem elevar carga cognitiva.|Carga cognitiva depende apenas do peso dos objetos.|O processamento de informação também exige esforço.
+Iluminação|Iluminação deve favorecer a tarefa e reduzir ofuscamento.|Mais luz direta nos olhos sempre melhora desempenho.|Qualidade e posicionamento importam.
+Alcance|Materiais frequentes devem ficar em posições de acesso adequado.|Itens mais usados devem sempre ficar no maior alcance possível.|O posicionamento reduz esforço desnecessário.
+Organização|Ritmo e exigências do trabalho também são fatores ergonômicos.|Ergonomia proíbe analisar metas e ritmo de trabalho.|A organização influencia carga e saúde.
+Avaliação|Queixas e observação da tarefa ajudam a identificar ajustes necessários.|Comprar cadeira nova garante solução de todo problema ergonômico.|A análise deve considerar atividade e contexto.
+@e-qualidade
+Usuário|Qualidade considera atendimento a necessidades e requisitos pertinentes.|Qualidade se limita à aparência do documento.|Há dimensões de conformidade e utilidade.
+PDCA planejar|A etapa Plan inclui identificar problema e planejar ações.|A etapa Plan consiste exclusivamente em executar ações já definidas.|P é planejamento.
+PDCA executar|Do corresponde à execução do que foi planejado.|Do é exclusivamente comparação dos resultados finais.|D é execução.
+PDCA verificar|Check compara resultados e acompanha desempenho.|Check significa executar sem avaliar.|C é verificação.
+PDCA agir|Act ajusta e padroniza com base no aprendizado.|Act significa ignorar resultados e repetir sem análise.|A ação incorpora a avaliação.
+Causa|Diagrama de causa e efeito ajuda a organizar possíveis causas.|Diagrama de causa e efeito comprova sozinho qual causa é verdadeira.|A ferramenta organiza hipóteses, não substitui investigação.
+Pareto|Pareto ajuda a priorizar categorias pela contribuição observada ao problema.|Pareto determina que exatamente 80% dos erros têm sempre uma única causa.|A relação é orientativa, não lei universal exata.
+Padronização|Padronizar pode estabilizar processo e permitir melhoria posterior.|Padronização impede permanentemente qualquer melhoria.|Padrão e melhoria são compatíveis.
+Retrabalho|Retrabalho pode revelar falhas de processo e elevar custos.|Retrabalho sempre comprova aumento de qualidade sem custo.|Refazer pode consumir recursos e indicar falhas.
+Prevenção|Prevenir falhas pode ser mais adequado que apenas inspecionar ao final.|Inspeção final elimina necessidade de prevenir.|A qualidade deve integrar o processo.
+@e-atendimento
+Escuta|Confirmar a necessidade do usuário evita encaminhamento inadequado.|Rapidez exige encaminhar antes de entender a solicitação.|Entendimento orienta a resposta.
+Clareza|Orientações devem usar linguagem compreensível e informações suficientes.|Uso de termos técnicos sem explicação garante compreensão.|A linguagem deve atender o destinatário.
+Impessoalidade|Critérios de atendimento devem evitar favorecimento pessoal.|Conhecer o servidor garante prioridade legítima em qualquer fila.|A impessoalidade afasta privilégios arbitrários.
+Sigilo|Dados pessoais não devem ser expostos a pessoas sem autorização pertinente.|Recepção é local apropriado para divulgar prontuários a qualquer visitante.|A confidencialidade protege o usuário.
+Acessibilidade|Adaptações de comunicação podem ser necessárias para acesso efetivo.|Tratar todos com a mesma barreira garante acesso igualitário.|Igualdade exige condições de acesso.
+Negativa|Negar pedido pode exigir explicar fundamento e caminhos cabíveis.|Toda negativa exige tom agressivo para demonstrar autoridade.|Firmeza e respeito são compatíveis.
+Reclamação|Reclamação pode revelar falha e deve ser registrada ou encaminhada adequadamente.|Reclamação deve ser apagada para melhorar indicador.|O registro favorece melhoria e resposta.
+Prazo|Prazo informado deve ser compatível com a regra e capacidade do serviço.|Prometer qualquer prazo solicitado é obrigação de excelência.|Informação precisa deve ser responsável.
+Continuidade|Encaminhar deve incluir orientação suficiente para continuidade.|Encaminhar significa simplesmente mandar o usuário procurar outro lugar.|A orientação deve reduzir descontinuidade.
+Indicadores|Rapidez deve ser analisada com precisão e resolução, não isoladamente.|Menor tempo sempre demonstra melhor atendimento, mesmo com erro.|Qualidade envolve mais de uma dimensão.
+@e-telefone
+Identificação|O atendente deve identificar instituição ou setor e apresentar-se conforme padrão.|Atendimento profissional exige ocultar o setor em toda ligação.|A identificação orienta o interlocutor.
+Escuta|É adequado confirmar dados e pedido antes de encaminhar.|Interromper toda fala antes da compreensão melhora necessariamente atendimento.|A escuta evita erro.
+Transferência|Antes de transferir, é adequado informar destino e verificar pertinência.|Transferir sem qualquer orientação é sempre a opção de maior qualidade.|A transferência precisa preservar continuidade.
+Espera|Ao colocar em espera, deve-se informar e evitar demora desnecessária.|Colocar em espera dispensa aviso em qualquer situação.|A transparência respeita o usuário.
+Recado|Recado precisa registrar contato, solicitação e informação relevante.|Recado deve omitir contato para preservar a comunicação.|Sem contato, o retorno pode ser prejudicado.
+Sigilo|Informações sensíveis exigem verificação de identidade e autorização.|Qualquer voz que cite um nome pode receber dados confidenciais.|Identificação e autorização precisam ser adequadas.
+Tom|Tom claro e respeitoso favorece entendimento.|Falar mais alto substitui qualquer explicação.|Volume não resolve falta de clareza.
+Não saber|Diante de dúvida, é melhor verificar a informação e orientar retorno.|Inventar resposta é aceitável para reduzir duração da ligação.|Precisão é parte da qualidade.
+Encerramento|Confirmar orientação e eventual pendência ajuda a encerrar a ligação.|Encerrar exige desligar antes de qualquer confirmação.|A confirmação reduz dúvida.
+Registro|Registrar contato relevante permite continuidade e acompanhamento.|Atendimento telefônico nunca precisa de registro de providências.|A necessidade depende do processo e da informação.
+@e-documentos
+Gestão|Gestão de documentos envolve produção, tramitação, uso, avaliação e destinação.|Gestão documental se limita a guardar tudo indefinidamente.|O ciclo envolve diferentes fases.
+Avaliação|Avaliação define prazos e destinação conforme valores e instrumentos apropriados.|Avaliação significa excluir documentos apenas por parecerem antigos.|A decisão exige critérios.
+Temporalidade|Tabela de temporalidade orienta prazos e destinação.|Tabela de temporalidade é apenas lista alfabética de remetentes.|O instrumento trata retenção e destinação.
+Classificação|Classificação relaciona documento a função e atividade.|Classificação significa ordenar somente por tamanho do papel.|O vínculo funcional orienta organização.
+Organicidade|Documentos mantêm relações decorrentes das atividades que os produziram.|Organicidade exige misturar sem critério documentos de instituições diferentes.|As relações refletem produção e contexto.
+Valor primário|Valor administrativo, fiscal ou jurídico ligado ao uso original pode ser primário.|Valor primário significa necessariamente interesse histórico posterior.|O valor primário se relaciona à finalidade original.
+Valor secundário|Valor de prova ou informação para usos posteriores pode justificar guarda permanente.|Todo valor secundário é exclusivamente custo de impressão.|A análise considera prova e informação duradoura.
+Eliminação|Eliminar documentos exige procedimento e autorização pertinentes.|Todo servidor pode descartar qualquer documento por falta de espaço.|A destinação é regulada.
+Autenticidade|Autenticidade envolve identidade e integridade do documento.|Autenticidade equivale somente à aparência do papel.|É necessário preservar origem e integridade.
+Acesso|Controle de acesso deve conciliar disponibilidade e restrições legítimas.|Gestão documental exige acesso irrestrito a qualquer informação pessoal.|O acesso depende de direitos e restrições.
+@e-protocolo
+Recepção|Recepção verifica entrada e condições iniciais do documento.|Recepção é necessariamente decisão sobre mérito do pedido.|Entrada e decisão são etapas distintas.
+Registro|Registro atribui identificação e informações para acompanhar tramitação.|Registrar significa deferir automaticamente o pedido.|Identificação não equivale a julgamento.
+Classificação|Classificar relaciona documento à categoria funcional adequada.|Classificar no protocolo significa exclusivamente aprovar o conteúdo.|A classificação organiza o contexto documental.
+Distribuição|Distribuir encaminha ao setor competente.|Distribuir exige enviar cópia integral a todo funcionário.|O encaminhamento precisa ser pertinente.
+Número|Número de protocolo facilita acompanhamento, sem garantir deferimento.|Ter número de protocolo comprova que o pedido foi aceito no mérito.|Protocolo comprova registro.
+Conferência|Falta de anexo deve ser tratada conforme procedimento, com orientação adequada.|Qualquer falta de anexo autoriza o atendente a inventar informação.|A conferência deve preservar integridade.
+Tramitação|Movimentações registradas permitem localizar responsabilidade e estágio.|Tramitação só pode ser acompanhada pela memória dos participantes.|Registros apoiam rastreabilidade.
+Sigilo|Documento restrito precisa de encaminhamento e acesso controlados.|Registrar documento elimina qualquer restrição de acesso.|Registro não afasta confidencialidade.
+Comprovante|Comprovante de recebimento ajuda a demonstrar data e identificação da entrada.|Comprovante de recebimento equivale a parecer favorável.|Recebimento e decisão são diferentes.
+Digital|Protocolo digital também precisa de identificação e rastreabilidade.|Protocolo digital dispensa qualquer registro de movimentação.|O suporte não elimina controles.
+@e-expedicao
+Registro|A expedição deve registrar encaminhamento conforme o processo.|Expedição corresponde exclusivamente à entrada de documentos.|A etapa trata saída e envio.
+Destinatário|Conferir destinatário reduz entrega indevida.|Nome do destinatário é irrelevante quando o documento é urgente.|O envio depende de identificação correta.
+Anexos|Conferir anexos antes de enviar evita remessa incompleta.|Mencionar um anexo garante que ele foi fisicamente incluído.|Menção e inclusão precisam ser conferidas.
+Canal|O canal deve considerar prazo, segurança e comprovação necessária.|Toda correspondência exige necessariamente o mesmo canal.|As exigências variam.
+Comprovação|Aviso ou confirmação de recebimento pode provar entrega conforme o meio utilizado.|Comprovar postagem equivale sempre a comprovar leitura pelo destinatário.|Postagem, entrega e leitura são eventos distintos.
+Rastreamento|Código de rastreio ajuda a acompanhar remessa.|Rastreio modifica automaticamente o conteúdo do documento.|O controle acompanha movimentação.
+Sigilo|Embalagem e canal devem proteger informações restritas.|Urgência elimina qualquer necessidade de sigilo.|Segurança permanece relevante.
+Devolução|Remessa devolvida deve ter causa e providência registradas.|Remessa devolvida comprova automaticamente má-fé do destinatário.|Há diferentes causas possíveis.
+Data|Registrar data de expedição permite acompanhar prazos.|Data de expedição e data de entrega são sempre iguais.|Os eventos podem ocorrer em dias diferentes.
+Digital|Envio eletrônico precisa conferir endereço, arquivo e permissão de acesso.|Enviar link garante que qualquer destinatário terá permissão correta.|Acesso e conteúdo precisam ser verificados.
+@e-arquivos
+Corrente|Arquivo corrente reúne documentos em uso frequente no curso das atividades.|Arquivo corrente reúne apenas documentos históricos sem uso administrativo.|A frequência e o uso orientam a fase.
+Intermediário|Arquivo intermediário guarda documentos de uso menos frequente que aguardam destinação.|Arquivo intermediário significa guarda permanente de todos os documentos.|Os documentos aguardam prazo e destinação.
+Permanente|Arquivo permanente preserva documentos de valor duradouro.|Arquivo permanente serve apenas para papéis sem qualquer valor.|A guarda decorre de valor permanente.
+Transferência|Transferência é passagem do corrente para o intermediário.|Transferência é exclusivamente passagem para guarda permanente.|A terminologia distingue as etapas.
+Recolhimento|Recolhimento é entrada em arquivo permanente.|Recolhimento é sinônimo de descarte sem registro.|O ato incorpora à guarda permanente.
+Ciclo|A teoria das três idades considera corrente, intermediária e permanente.|As três idades são manhã, tarde e noite.|São fases do ciclo documental.
+Destinação|Documento pode ser eliminado ou recolhido conforme avaliação.|Todo documento deve obrigatoriamente passar à guarda permanente.|A destinação depende de valores e prazos.
+Proveniência|Documentos de produtores distintos devem conservar a identificação de seus fundos.|Proveniência exige misturar tudo por assunto sem conservar o produtor.|O princípio preserva origem e contexto.
+Arquivo e coleção|Arquivo decorre de atividades do produtor; coleção pode resultar de reunião intencional.|Arquivo e coleção têm obrigatoriamente a mesma formação.|A origem orgânica distingue arquivo.
+Suporte|Documentos digitais também podem integrar arquivos correntes, intermediários ou permanentes.|Documento digital não pode pertencer a nenhuma fase arquivística.|A fase não depende apenas do suporte.
+@e-metodos
+Alfabético|Método alfabético usa nomes ou termos como referência de ordenação.|Método alfabético ordena necessariamente por data de emissão.|O critério é alfabético.
+Numérico|Método numérico exige identificação por número e pode depender de índice para busca nominal.|Método numérico dispensa qualquer associação entre número e documento.|A recuperação precisa da referência adequada.
+Geográfico|Método geográfico organiza conforme locais.|Método geográfico organiza exclusivamente pelo valor financeiro.|O critério é localização geográfica.
+Cronológico|Método cronológico usa datas como referência.|Método cronológico usa necessariamente a altura da pasta.|O critério é temporal.
+Assunto|Organização por assunto precisa de esquema consistente e termos controlados.|Organização por assunto dispensa qualquer padronização de categoria.|Consistência melhora recuperação.
+Direto|Um método direto pode permitir busca sem índice auxiliar obrigatório, conforme a chave usada.|Método direto significa guarda exclusivamente digital.|Direto refere-se à recuperação.
+Indireto|Em método indireto, índice auxiliar pode ligar a chave de busca à localização.|Método indireto significa acesso sem qualquer referência.|O índice auxilia a recuperação.
+Unidade de arquivamento|Pastas e caixas precisam de identificação coerente com o sistema.|Cor da caixa substitui sempre a classificação documental.|A identificação deve relacionar item e sistema.
+Consistência|Mudar critério sem atualizar referências pode prejudicar busca.|Qualquer mudança de critério mantém automaticamente a localização dos registros.|A reorganização exige atualização.
+Escolha|Método deve considerar natureza dos documentos e forma de recuperação.|Um único método é obrigatoriamente ideal para qualquer arquivo.|A adequação depende da necessidade.
+@e-digitais
+Backup|Backup ajuda a recuperar dados, mas não substitui toda gestão arquivística.|Backup, sozinho, equivale a gestão completa de documentos digitais.|Gestão inclui classificação, acesso, avaliação e preservação.
+Metadados|Metadados registram contexto, identificação e outras características.|Metadados são necessariamente o mesmo conteúdo integral do documento.|Eles descrevem e contextualizam.
+Integridade|Preservar integridade exige proteger contra alterações indevidas.|Qualquer alteração sem registro mantém integridade comprovada.|Alterações precisam de controle pertinente.
+Autenticidade|Autenticidade digital depende de evidências de identidade e integridade.|Todo arquivo chamado original é necessariamente autêntico.|O nome não comprova autenticidade.
+Versão|Controle de versão ajuda a distinguir alterações e versão válida.|Salvar arquivos com nomes vagos dispensa controle de versão.|A identificação evita uso incorreto.
+Digitalização|Digitalizar não autoriza automaticamente eliminar o original.|Toda digitalização exige destruir imediatamente o original.|A destinação depende de requisitos e normas.
+Acesso|Permissões devem considerar funções e necessidade de acesso.|Todo documento digital deve ser acessível a qualquer conta.|Acesso precisa respeitar restrições.
+Preservação|Preservação pode exigir monitoramento de formatos e migração controlada.|Salvar uma vez garante acesso indefinido em qualquer tecnologia futura.|Obsolescência tecnológica precisa ser tratada.
+Assinatura|Assinatura digital e imagem de assinatura não são necessariamente o mesmo mecanismo.|Colar imagem de assinatura garante proteção criptográfica equivalente.|Mecanismos e evidências diferem.
+SIGAD|Um sistema de gestão arquivística deve apoiar requisitos do ciclo documental.|Qualquer pasta compartilhada é automaticamente um SIGAD completo.|Sistema arquivístico exige requisitos próprios.
+@e-comportamento
+Pessoa e contexto|Comportamento no trabalho resulta de fatores individuais e contextuais.|Comportamento decorre exclusivamente de traço fixo de personalidade.|O contexto também influencia.
+Grupo|Grupo reúne pessoas com interação; equipe pode envolver objetivo e responsabilidade compartilhados.|Qualquer reunião casual de pessoas já garante uma equipe eficaz.|A equipe depende de integração.
+Normas|Normas informais do grupo podem influenciar condutas.|Somente regras escritas afetam comportamento.|Influências formais e informais coexistem.
+Cultura|Cultura inclui valores e pressupostos compartilhados.|Cultura organizacional é apenas o humor de um funcionário em um dia.|O conceito tem dimensão coletiva.
+Clima|Clima expressa percepções sobre o ambiente organizacional.|Clima e cultura são sempre conceitos idênticos sem diferença.|Os conceitos se relacionam, mas diferem.
+Percepção|Percepção pode ser seletiva e influenciar interpretação de fatos.|Toda percepção individual reproduz fatos sem qualquer viés.|A interpretação pode sofrer vieses.
+Coesão|Coesão elevada não garante por si só desempenho se as normas contrariarem os objetivos.|Toda coesão elevada garante resultados institucionais positivos.|O efeito depende das normas do grupo.
+Motivação|Pessoas podem responder de forma diferente ao mesmo incentivo.|Um incentivo tem necessariamente o mesmo efeito sobre todos.|Necessidades e contexto variam.
+Mudança|Resistência à mudança pode indicar dúvidas ou riscos percebidos.|Toda resistência comprova preguiça ou sabotagem.|A causa precisa ser compreendida.
+Aprendizagem|Analisar erros coletivamente pode promover aprendizagem.|Aprender exige esconder todo erro para evitar discussão.|O aprendizado depende de análise responsável.
+@e-comunicacao
+Descendente|Comunicação da chefia aos subordinados é descendente.|Comunicação da chefia aos subordinados é ascendente.|A direção do fluxo distingue a categoria.
+Ascendente|Informação dos trabalhadores à chefia é ascendente.|Informação dos trabalhadores à chefia é descendente.|O fluxo sobe na hierarquia.
+Horizontal|Comunicação entre setores do mesmo nível pode ser horizontal.|Comunicação entre setores do mesmo nível é necessariamente ordem superior.|O fluxo ocorre entre pares hierárquicos.
+Formal|Canal previsto institucionalmente pode compor comunicação formal.|Toda mensagem oral é necessariamente informal.|Formalidade não depende apenas do meio.
+Informal|Redes informais podem transmitir informação, inclusive incompleta.|Toda informação informal é necessariamente falsa.|A origem informal não determina a veracidade.
+Ruído|Termos ambíguos podem gerar ruído sem falha física do canal.|Ruído existe apenas quando há aparelho quebrado.|Barreiras também podem ser semânticas.
+Feedback|Retorno do destinatário ajuda a verificar entendimento.|Feedback corresponde exclusivamente ao envio inicial.|Ele informa recepção e compreensão.
+Canal|Escolha do canal deve considerar urgência, complexidade e registro.|O canal deve ser escolhido apenas pela preferência do remetente.|A adequação depende da necessidade.
+Sobrecarga|Excesso de mensagens pode dificultar identificação do que é relevante.|Mais mensagens sempre produzem melhor compreensão.|Quantidade e clareza não são equivalentes.
+Consistência|Instruções contraditórias prejudicam execução.|Contradições entre instruções garantem padronização.|A coerência orienta a ação.
+@e-lideranca
+Formalidade|Liderança pode ocorrer por influência informal além de autoridade formal.|Sem cargo formal, nenhuma pessoa pode influenciar a equipe.|Influência não depende só de cargo.
+Legítimo|Poder legítimo decorre da posição formal reconhecida.|Poder legítimo decorre exclusivamente de conhecimento técnico.|Cargo e expertise são fontes distintas.
+Especialista|Poder de especialista deriva de conhecimento ou competência reconhecida.|Poder de especialista deriva apenas de possibilidade de punir.|Expertise difere de coerção.
+Referência|Poder de referência decorre de identificação e admiração.|Poder de referência decorre exclusivamente do controle de salários.|Identificação sustenta essa influência.
+Coercitivo|Poder coercitivo se relaciona à possibilidade de aplicar sanções.|Poder coercitivo significa oferecer recompensas.|Sanção e recompensa são fontes diferentes.
+Recompensa|Poder de recompensa se relaciona à capacidade de oferecer benefícios.|Poder de recompensa depende exclusivamente de admiração pessoal.|A fonte é a possibilidade de beneficiar.
+Participativo|Liderança participativa envolve contribuição da equipe nas decisões.|Liderança participativa exige ausência de qualquer coordenação.|Participação não elimina condução.
+Autocrático|Estilo autocrático concentra decisões no líder.|Estilo autocrático distribui todas as decisões igualmente sem líder.|O critério é concentração decisória.
+Situacional|A adequação do estilo pode depender de tarefa, equipe e contexto.|Um único estilo garante melhor resultado em qualquer situação.|A eficácia depende do contexto.
+Exemplo|Coerência entre discurso e conduta pode sustentar credibilidade.|Credibilidade depende apenas de cargo, sem conduta.|O exemplo influencia confiança.
+@e-conflitos
+Tarefa|Conflito sobre métodos de execução pode ser conflito de tarefa.|Discordar sobre método é necessariamente ataque pessoal.|Objeto da divergência define o tipo.
+Relação|Hostilidade pessoal pode prejudicar cooperação e desempenho.|Toda hostilidade pessoal melhora necessariamente a solução.|Conflitos relacionais podem gerar efeitos negativos.
+Interesses|Negociação baseada em interesses busca compreender necessidades além das posições declaradas.|Interesse é sempre idêntico à exigência inicial apresentada.|Posição e necessidade podem diferir.
+Alternativa|Conhecer alternativa a um acordo ajuda a avaliar propostas.|Uma proposta deve ser aceita mesmo quando pior que alternativa viável.|A alternativa orienta decisão.
+Critérios|Critérios objetivos podem tornar negociação mais consistente.|Negociação deve depender exclusivamente de ameaça.|Critérios favorecem justificativa.
+Colaboração|Colaboração busca solução que atenda interesses relevantes de ambos.|Colaboração exige que um lado ceda em todos os pontos.|Ela busca solução conjunta.
+Compromisso|Compromisso pode envolver concessões de ambas as partes.|Compromisso exige vitória integral de um lado sem concessão.|A solução intermediária pode envolver concessões.
+Evitação|Evitar conflito pode adiar tratamento sem resolver sua causa.|Evitar sempre elimina a causa do conflito.|Adiar e resolver são diferentes.
+Mediação|Mediação facilita diálogo sem equivaler a imposição arbitrária de resultado.|Mediação consiste exclusivamente em punir uma parte.|O foco é facilitar solução.
+Limites|Negociar não autoriza violar regra obrigatória do serviço.|Um acordo entre partes permite ignorar qualquer obrigação legal.|Há limites institucionais e legais.
+@e-etica
+Ética|Ética examina fundamentos e critérios de conduta.|Ética equivale exclusivamente a cumprir o hábito mais frequente do grupo.|A reflexão pode avaliar criticamente hábitos.
+Moral|Moral envolve normas e valores de um grupo ou contexto.|Moral é exclusivamente um cálculo de custos materiais.|O conceito envolve conduta e valores.
+Legalidade|Legalidade e avaliação ética se relacionam, mas não são conceitos idênticos.|Qualquer ato permitido dispensa toda reflexão ética.|A reflexão ética tem alcance próprio.
+Imparcialidade|Decisão profissional deve considerar critérios pertinentes, sem favoritismo.|Imparcialidade significa privilegiar quem oferece maior vantagem pessoal.|Favorecimento indevido contraria imparcialidade.
+Integridade|Coerência entre dever, discurso e conduta favorece integridade.|Integridade depende apenas de não ser descoberto.|A conduta deve ser responsável.
+Conflito de interesses|Interesse pessoal que pode influenciar dever profissional deve ser identificado e tratado.|Só existe conflito de interesses depois de prejuízo comprovado.|O risco de influência já exige atenção.
+Sigilo|Sigilo profissional protege informação, observadas obrigações e exceções aplicáveis.|Sigilo permite esconder qualquer irregularidade de todo controle legítimo.|Sigilo não afasta deveres legais.
+Responsabilidade|Reconhecer erro e encaminhar correção integra responsabilidade.|Responsabilidade consiste em atribuir toda falha a terceiros.|O profissional responde por sua atuação.
+Finalidade|Recursos institucionais devem atender finalidades autorizadas.|Qualquer recurso disponível pode ser usado para benefício pessoal.|O uso precisa atender às regras e finalidades.
+Dignidade|Respeitar dignidade orienta atendimento e relações profissionais.|A função permite humilhar pessoas que discordam.|A atuação exige respeito.
+@e-trabalho
+Respeito|Divergências de trabalho devem ser tratadas sem discriminação ou humilhação.|Divergência autoriza ataque pessoal irrestrito.|O respeito permanece necessário.
+Justiça|Distribuir tarefas deve considerar critérios e capacidades pertinentes.|A distribuição deve punir quem não participa de relações pessoais da chefia.|Critérios profissionais afastam retaliação.
+Crédito|Reconhecer contribuição de colegas favorece integridade.|Apropriar-se do trabalho alheio é conduta de cooperação.|A autoria e contribuição devem ser respeitadas.
+Informação|Compartilhar informação necessária pode apoiar responsabilidade coletiva.|Reter informação indispensável sempre demonstra eficiência.|A retenção pode prejudicar o serviço.
+Cobrança|Cobrança de prazo pode ser legítima quando respeitosa e compatível com deveres.|Toda cobrança de prazo é automaticamente assédio.|Conteúdo, forma e contexto precisam ser avaliados.
+Retaliação|Retaliar relato legítimo de irregularidade prejudica ambiente e integridade.|Retaliação é método adequado de estimular transparência.|Proteção de relatos favorece controle.
+Privacidade|Dados pessoais de colegas exigem tratamento adequado.|Convivência profissional autoriza divulgar qualquer dado privado.|A relação de trabalho não elimina privacidade.
+Avaliação|Avaliação deve considerar condutas e resultados pertinentes.|Avaliação deve depender apenas de afinidade pessoal.|Critérios objetivos favorecem justiça.
+Conflito|Relatar conflito pelos canais adequados pode permitir solução.|Todo conflito precisa ser exposto em rede social antes de análise.|Os canais institucionais podem tratar o problema.
+Compromisso|Cumprir deveres e informar impedimentos favorece confiança.|Impedimento de execução deve sempre ser ocultado.|Informação permite reorganizar o trabalho.
+@e-responsabilidade
+Abrangência|Responsabilidade social considera impactos sobre pessoas, comunidade e ambiente.|Responsabilidade social se limita ao lucro imediato.|Há diferentes grupos e impactos.
+Doação|Doação isolada não elimina responsabilidade por práticas danosas.|Qualquer doação legitima toda prática posterior.|A atuação precisa ser coerente.
+Trabalhadores|Condições de trabalho integram responsabilidade social.|Responsabilidade social exclui trabalhadores da organização.|O público interno também é afetado.
+Ambiente|Reduzir desperdício pode atender responsabilidade ambiental.|Responsabilidade ambiental exige ignorar uso de materiais.|O consumo influencia impactos.
+Transparência|Comunicar impactos com dados confiáveis favorece prestação de contas.|Transparência consiste em divulgar só elogios sem evidência.|Informação precisa ser consistente.
+Inclusão|Promover acesso e combater discriminação integra responsabilidade social.|Inclusão significa excluir pessoas com necessidades específicas.|A atuação deve considerar acesso e direitos.
+Stakeholders|Partes interessadas incluem grupos afetados pela organização.|Partes interessadas são exclusivamente os proprietários.|Há públicos internos e externos.
+Sustentabilidade|Sustentabilidade pode relacionar dimensões econômicas, sociais e ambientais.|Sustentabilidade consiste apenas em pintar símbolos verdes.|É um conjunto de dimensões.
+Coerência|A prática cotidiana deve corresponder aos compromissos divulgados.|Um compromisso público dispensa qualquer prática concreta.|Coerência evita comunicação enganosa.
+Indicadores|Resultados sociais e ambientais podem ser monitorados por indicadores adequados.|Ações sociais nunca podem ser avaliadas.|Avaliação ajuda a melhorar impactos.
+@e-assedio
+Moral|Humilhações reiteradas podem caracterizar assédio moral conforme o contexto.|Assédio moral corresponde exclusivamente a divergência técnica respeitosa.|A análise considera condutas e contexto.
+Hierarquia|Assédio pode ocorrer entre diferentes posições e também entre colegas.|Assédio só pode ocorrer do diretor para subordinado.|A hierarquia não é a única configuração.
+Reiteração|Reiteração é relevante ao assédio moral, mas ato isolado grave também pode exigir providência por outra violação.|Um ato isolado grave deve ser ignorado por não ser reiterado.|A gravidade não pode ser descartada.
+Cobrança|Cobrança legítima e respeitosa de desempenho não configura automaticamente assédio.|Qualquer orientação de melhoria é necessariamente assédio moral.|Forma, finalidade e contexto importam.
+Sexual|Conduta sexual indesejada pode caracterizar violência ou assédio e exigir tratamento adequado.|Conduta sexual indesejada é aceitável sempre que chamada de brincadeira.|O rótulo não elimina o problema.
+Conceitos|O tipo penal de assédio sexual possui requisitos próprios e não esgota todas as violações de teor sexual no trabalho.|Toda violação sexual só existe se corresponder exatamente a um único tipo penal.|Âmbitos penal, administrativo e trabalhista podem diferir.
+Registro|Registrar fatos, datas e evidências pode apoiar apuração.|A apuração deve depender apenas de boatos sem qualquer registro.|Evidências favorecem análise responsável.
+Proteção|Acolhimento e proteção contra retaliação favorecem enfrentamento.|Relatar assédio deve provocar punição automática de quem relata.|A proteção incentiva tratamento adequado.
+Apuração|Providências devem respeitar apuração, confidencialidade e garantias aplicáveis.|Enfrentar assédio exige divulgar publicamente todos os dados pessoais.|A resposta precisa preservar direitos.
+Prevenção|Políticas, canais e formação podem prevenir e enfrentar assédio.|Prevenção dispensa canais de relato e orientação.|Medidas institucionais se complementam.
+@e-patrimonio
+Tombamento|Tombamento identifica e registra bem patrimonial.|Tombamento significa vender ou destruir o bem.|Registro patrimonial não é descarte.
+Responsável|Termo de responsabilidade vincula bem a responsável conforme o processo.|Termo de responsabilidade transfere automaticamente propriedade ao servidor.|Guarda e propriedade são diferentes.
+Movimentação|Transferência de bem deve atualizar localização e responsabilidade.|Mover bem entre setores dispensa atualizar registros.|A rastreabilidade exige atualização.
+Inventário|Inventário verifica existência, localização e condição dos bens.|Inventário é necessariamente aquisição de novos bens.|A conferência avalia o patrimônio existente.
+Manutenção|Manutenção preventiva busca reduzir falhas antes da avaria.|Manutenção preventiva só pode ocorrer depois da quebra.|Prevenção e correção são diferentes.
+Baixa|Baixa patrimonial exige justificativa e procedimento autorizado.|Bem quebrado deve desaparecer do cadastro sem registro.|A destinação precisa ser formalizada.
+Vida útil|Vida útil pode diferir do tempo de existência física do bem.|Todo bem tem utilidade institucional infinita se ainda existir.|Uso, condições e obsolescência influenciam.
+Depreciação|Depreciação pode reconhecer redução de valor ao longo da vida útil.|Depreciação significa necessariamente desaparecimento físico imediato.|É reconhecimento de perda de valor em condições aplicáveis.
+Consumo|Material de consumo e bem permanente devem ser classificados conforme critérios pertinentes.|Todo item comprado é necessariamente bem permanente.|Natureza e características orientam classificação.
+Divergência|Bem não localizado em inventário exige investigação e providências.|Bem não localizado comprova automaticamente furto pelo responsável.|A divergência tem causas possíveis.
+@e-logistica
+Integração|Logística articula fluxos de materiais e informação.|Logística se limita exclusivamente ao transporte externo.|É processo integrado.
+Disponibilidade|A logística busca disponibilizar recurso adequado no lugar e tempo necessários.|A logística deve ignorar qualidade e prazo para maximizar quantidade.|Disponibilidade exige adequação.
+Custo total|Economia em transporte pode elevar custo total se causar rupturas.|O menor custo de uma etapa garante menor custo total.|As etapas são interdependentes.
+Recebimento|Recebimento confere materiais e documentos de entrega.|Recebimento equivale sempre a compra e seleção de fornecedor.|São etapas diferentes.
+Armazenagem|Armazenagem organiza guarda e conservação.|Armazenagem dispensa registro de localização.|A organização sustenta acesso e conservação.
+Distribuição|Distribuição encaminha recursos aos pontos de uso.|Distribuição é necessariamente recolhimento de descartes.|O fluxo atende usuários ou unidades.
+Reversa|Logística reversa trata retorno de materiais ou produtos para destinação apropriada.|Logística reversa é apenas entrega inicial ao consumidor.|Ela se refere ao fluxo de retorno.
+Informação|Informações de consumo e saldo apoiam reposição.|A informação não interfere em decisões de reposição.|Dados permitem planejar abastecimento.
+Gargalo|Uma etapa com capacidade limitada pode restringir todo o fluxo.|O gargalo depende exclusivamente de valor unitário do material.|Capacidade pode limitar o sistema.
+Nível de serviço|Nível de serviço pode considerar atendimento de demanda e prazo.|Nível de serviço é apenas área física do almoxarifado.|A medida se relaciona ao atendimento.
+@e-redacao
+Clareza|Clareza exige organização e compreensão pelo destinatário.|Clareza é o uso obrigatório de palavras raras.|O objetivo é entendimento.
+Precisão|Precisão evita termos vagos e uso inconsistente de conceitos.|Precisão exige trocar palavras por sinônimos em cada repetição, mesmo alterando sentido.|Uniformidade terminológica pode favorecer precisão.
+Objetividade|Objetividade apresenta a informação principal sem desvios desnecessários.|Objetividade exige omitir a finalidade do documento.|O foco deve atender à finalidade.
+Concisão|Concisão elimina excessos sem retirar informação necessária.|Concisão é tornar o texto incompreensível para reduzir palavras.|Brevidade precisa preservar sentido.
+Impessoalidade|Impessoalidade expressa interesse institucional sem promoção pessoal.|Impessoalidade impede qualquer identificação do signatário.|A identificação formal não é promoção pessoal.
+Formalidade|Formalidade é compatível com linguagem simples e respeitosa.|Formalidade exige tratamento agressivo.|A forma institucional deve ser respeitosa.
+Coesão|Conectivos e referências claras ajudam a ligar partes do texto.|Coesão significa repetir a mesma frase em todo parágrafo.|A ligação textual não é mera repetição.
+Coerência|As informações e conclusões devem manter compatibilidade de sentido.|Coerência admite conclusões contraditórias sem explicação.|O texto precisa de relação lógica.
+Padronização|Padronização favorece reconhecimento e organização dos expedientes.|Padronização permite ignorar elementos obrigatórios do documento.|Os padrões orientam composição.
+Revisão|Revisão deve conferir conteúdo, destinatário, anexos e linguagem.|Revisão se limita à quantidade de páginas.|Há diferentes dimensões a verificar.
+@e-oficio
+Unificação|A 3ª edição do Manual adota padrão ofício para expedientes antes distinguidos como aviso, ofício e memorando.|A 3ª edição mantém obrigatoriamente três padrões inteiramente separados de aviso, ofício e memorando.|O Manual uniformizou esses expedientes.
+Identificação|A identificação do expediente inclui informações como tipo, número e órgão.|A identificação se limita ao primeiro nome do destinatário.|Ela individualiza a comunicação.
+Data|Local e data contextualizam emissão do documento.|A data do documento deve ser sempre omitida.|O padrão prevê esse elemento.
+Endereçamento|Endereçamento identifica o destinatário conforme o padrão.|Endereçamento substitui necessariamente todo conteúdo do texto.|É parte da estrutura.
+Assunto|O assunto deve resumir o conteúdo do expediente.|O assunto deve ser genérico a ponto de impedir identificação da matéria.|A síntese deve orientar o leitor.
+Vocativo|Vocativo dirige-se ao destinatário e deve observar o padrão aplicável.|Vocativo é sempre uma lista de anexos.|Ele é forma de chamamento.
+Texto|O texto deve apresentar finalidade e informações necessárias de modo organizado.|O padrão ofício dispensa informar por que o expediente foi enviado.|A finalidade orienta compreensão.
+Fecho|O fecho encerra a comunicação conforme a relação hierárquica prevista no Manual.|O fecho identifica necessariamente o número de protocolo de entrada.|É expressão de encerramento.
+Signatário|Identificação do signatário informa nome e cargo, conforme o padrão.|A identificação do signatário deve ser sempre anônima.|O documento precisa identificar quem assina.
+Anexos|Anexos mencionados devem ser conferidos antes de expedição.|Mencionar anexo elimina a necessidade de enviá-lo.|Menção e presença devem coincidir.
+@e-manual
+Superior|Segundo a 3ª edição do Manual, Respeitosamente é fecho dirigido a autoridade superior.|Segundo a 3ª edição, Atenciosamente é exclusivamente o fecho para superior.|O Manual diferencia os fechos pela hierarquia.
+Demais casos|Segundo o Manual, Atenciosamente é usado para mesma hierarquia, inferior e demais casos.|Segundo o Manual, Respeitosamente deve ser usado para qualquer destinatário sem distinção.|Os fechos têm condições diferentes.
+Tratamento|Pronomes de tratamento exigem concordância verbal na terceira pessoa.|Pronomes de tratamento exigem segunda pessoa por começarem com Vossa.|A concordância é de terceira pessoa.
+Vossa e Sua|Vossa dirige-se ao interlocutor; Sua faz referência à autoridade.|Vossa e Sua têm sempre a mesma função comunicativa.|A relação com o destinatário define a forma.
+E-mail|Correio eletrônico institucional exige cuidado com clareza, destinatário e anexos.|E-mail institucional dispensa padrões de clareza por ser eletrônico.|O meio não elimina cuidados de redação.
+Assunto eletrônico|Assunto claro ajuda a identificar conteúdo de um e-mail.|O assunto do e-mail deve sempre ficar vazio.|A identificação favorece organização.
+Exposição de motivos|Exposição de motivos tem finalidade de submeter assunto ou proposta à autoridade competente no contexto do Manual.|Exposição de motivos é necessariamente uma lista de telefones do setor.|É expediente de apresentação e fundamentação.
+Mensagem|Mensagem pode ser comunicação entre chefes de Poder no contexto descrito pelo Manual.|Mensagem no Manual significa exclusivamente conversa informal em aplicativo.|O termo tem sentido institucional específico.
+Hierarquia de normas|Uma pergunta sobre a 3ª edição deve considerar essa referência e o contexto indicado.|Toda regra de tratamento de outra esfera deve substituir automaticamente o Manual na pergunta.|A referência delimitada orienta a resposta.
+Assinatura|A comunicação institucional precisa de identificação adequada de autoria ou responsável.|Uma expressão de fecho substitui sempre a identificação do responsável.|Encerramento e autoria são elementos distintos.
